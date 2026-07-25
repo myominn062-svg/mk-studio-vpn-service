@@ -52,6 +52,31 @@ Also works with **[MK Studio VPN](https://github.com/myominn062-svg/mk-studio-vp
 | Hysteria2 | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/hysteria2_configs.txt` |
 | TUIC | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/tuic_configs.txt` |
 
+### By country (ISO code)
+
+Each country has:
+- Raw list: `countries/XX.txt`
+- Subscription (Base64): `countries/XX.sub.txt`
+
+Full index (auto-updated): [`countries/README.md`](./countries/README.md) · [`countries/index.json`](./countries/index.json)
+
+| Country | Subscription |
+|---------|--------------|
+| Singapore (SG) | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/SG.sub.txt` |
+| Japan (JP) | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/JP.sub.txt` |
+| United States (US) | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/US.sub.txt` |
+| Germany (DE) | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/DE.sub.txt` |
+| Netherlands (NL) | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/NL.sub.txt` |
+| Hong Kong (HK) | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/HK.sub.txt` |
+| South Korea (KR) | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/KR.sub.txt` |
+| United Kingdom (GB) | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/GB.sub.txt` |
+
+Pattern for any country code:
+```
+https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/<CODE>.sub.txt
+```
+Example: `TH` → `.../countries/TH.sub.txt`
+
 ### QR — All protocols subscription
 
 ![QR](https://quickchart.io/qr?text=https%3A%2F%2Fraw.githubusercontent.com%2Fmyominn062-svg%2Fmk-studio-vpn-service%2Fmain%2Fsubscription.txt&size=220)
@@ -59,6 +84,7 @@ Also works with **[MK Studio VPN](https://github.com/myominn062-svg/mk-studio-vp
 ### Update frequency
 - Auto-refresh every **15 minutes**
 - Duplicate configs removed
+- Split by protocol **and** by country
 - Status snapshot: [`meta.json`](./meta.json)
 
 ### Local update (optional)
@@ -80,6 +106,13 @@ Edit public sources in [`sources.json`](./sources.json).
 1. အပေါ်က subscription link တစ်ခုကို ကော်ပီလုပ်ပါ  
 2. App ထဲမှာ **Import / Add subscription** ထည့်ပါ  
 3. Update လုပ်ပြီး connect နှိပ်ပါ  
+
+### နိုင်ငံအလိုက်
+SG / JP / US စသည်ဖြင့် နိုင်ငံကုဒ်နဲ့ ခွဲထားပါတယ်။  
+ဥပမာ Singapore:
+`https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/SG.sub.txt`  
+
+စာရင်းအပြည့်: [`countries/README.md`](./countries/README.md) 
 
 ### သတိပြုရန်
 Free public node တွေက မတည်ငြိမ်နိုင်ပါတယ်။ ဘဏ် / အရေးကြီးအကောင့် အတွက် မသုံးပါနဲ့။

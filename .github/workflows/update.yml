@@ -61,7 +61,11 @@ jobs:
             subscription-vmess.txt \
             subscription-trojan.txt \
             subscription-ss.txt \
-            meta.json
+            meta.json \
+            countries
+
+          # Pick up removed/renamed country files too
+          git add -A countries
 
           if git diff --staged --quiet; then
             echo "No changes"
