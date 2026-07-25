@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25 20:35:32 UTC",
+  "updated_at": "2026-07-25 20:44:22 UTC",
   "countries": [
     {
       "code": "UNKNOWN",
@@ -21,7 +21,7 @@
     },
     {
       "code": "DE",
-      "count": 6277,
+      "count": 6276,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/DE.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/DE.sub.txt"
     },
@@ -39,7 +39,7 @@
     },
     {
       "code": "GB",
-      "count": 2376,
+      "count": 2377,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/GB.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/GB.sub.txt"
     },
@@ -69,7 +69,7 @@
     },
     {
       "code": "JP",
-      "count": 1122,
+      "count": 1121,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/JP.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/JP.sub.txt"
     },
@@ -87,7 +87,7 @@
     },
     {
       "code": "HK",
-      "count": 1065,
+      "count": 1064,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/HK.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/HK.sub.txt"
     },
@@ -159,7 +159,7 @@
     },
     {
       "code": "KZ",
-      "count": 254,
+      "count": 255,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/KZ.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/KZ.sub.txt"
     },
@@ -285,7 +285,7 @@
     },
     {
       "code": "MY",
-      "count": 49,
+      "count": 48,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/MY.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/MY.sub.txt"
     },
