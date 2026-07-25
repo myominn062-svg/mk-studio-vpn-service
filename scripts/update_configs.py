@@ -7,14 +7,11 @@ import base64
 import json
 import re
 import shutil
-import socket
 import sys
-import time
 import urllib.error
 import urllib.parse
 import urllib.request
 from collections import defaultdict
-from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -24,14 +21,10 @@ META_FILE = ROOT / "meta.json"
 COUNTRIES_DIR = ROOT / "countries"
 USER_AGENT = "MK-Studio-VPN-Service/1.0 (+https://github.com/myominn062-svg/mk-studio-vpn-service)"
 TIMEOUT = 45
-# Quality-first caps (after TCP health check)
-MAX_PER_PROTOCOL = 2000
-MAX_ALL = 5000
-MAX_PER_COUNTRY = 800
-# How many unique URIs to probe before publishing
-MAX_TO_PROBE = 12000
-TCP_TIMEOUT = 1.8
-TCP_WORKERS = 100
+# Aggregator-style caps (publish large lists; no TCP health filter)
+MAX_PER_PROTOCOL = 5000
+MAX_ALL = 15000
+MAX_PER_COUNTRY = 3000
 
 PROTOCOL_PREFIXES = (
     "vmess://",
@@ -365,109 +358,6 @@ def detect_country(uri: str) -> str | None:
     return None
 
 
-def extract_host_port(uri: str) -> tuple[str | None, int | None]:
-    """Parse host/port from common proxy URI formats."""
-    try:
-        if uri.lower().startswith("vmess://"):
-            payload = uri[8:].split("#", 1)[0]
-            raw = base64.b64decode(payload + "=" * (-len(payload) % 4))
-            obj = json.loads(raw.decode("utf-8", errors="ignore"))
-            host = str(obj.get("add") or "").strip()
-            port = int(obj.get("port") or 0)
-            return (host or None, port or None)
-
-        main = uri.split("#", 1)[0]
-        if "://" not in main:
-            return None, None
-        rest = main.split("://", 1)[1]
-        # ss://method:pass@host:port or ss://base64
-        if "@" in rest:
-            hostport = rest.rsplit("@", 1)[1]
-        else:
-            # try decode ss body without @
-            if uri.lower().startswith("ss://") and ":" not in rest.split("/")[0]:
-                decoded = try_b64_decode(rest.split("/")[0].split("?")[0])
-                if decoded and "@" in decoded:
-                    hostport = decoded.rsplit("@", 1)[1]
-                else:
-                    return None, None
-            else:
-                hostport = rest
-        hostport = hostport.split("/")[0].split("?")[0]
-        if ":" not in hostport:
-            return None, None
-        host, port_s = hostport.rsplit(":", 1)
-        host = host.strip().strip("[]")
-        port = int(port_s)
-        if not host or port <= 0 or port > 65535:
-            return None, None
-        return host, port
-    except Exception:
-        return None, None
-
-
-def tcp_ping(host: str, port: int) -> float | None:
-    """Return connect latency seconds, or None if dead."""
-    try:
-        t0 = time.monotonic()
-        with socket.create_connection((host, port), timeout=TCP_TIMEOUT):
-            return time.monotonic() - t0
-    except OSError:
-        return None
-
-
-def filter_alive(uris: list[str]) -> tuple[list[str], dict]:
-    """Keep URIs whose host:port accepts TCP, sorted by latency."""
-    # Dedupe by host:port — keep first URI per endpoint, probe once
-    endpoint_to_uri: dict[tuple[str, int], str] = {}
-    unparsable = 0
-    for uri in uris:
-        host, port = extract_host_port(uri)
-        if not host or not port:
-            unparsable += 1
-            continue
-        key = (host.lower(), port)
-        if key not in endpoint_to_uri:
-            endpoint_to_uri[key] = uri
-
-    probed = list(endpoint_to_uri.items())
-    if len(probed) > MAX_TO_PROBE:
-        probed = probed[:MAX_TO_PROBE]
-
-    print(f"Health-check: probing {len(probed)} endpoints (workers={TCP_WORKERS})...")
-    alive_pairs: list[tuple[float, str]] = []
-    dead = 0
-
-    def _probe(item: tuple[tuple[str, int], str]) -> tuple[float | None, str]:
-        (host, port), uri = item
-        latency = tcp_ping(host, port)
-        return latency, uri
-
-    with ThreadPoolExecutor(max_workers=TCP_WORKERS) as pool:
-        futures = [pool.submit(_probe, item) for item in probed]
-        for fut in as_completed(futures):
-            latency, uri = fut.result()
-            if latency is None:
-                dead += 1
-            else:
-                alive_pairs.append((latency, uri))
-
-    alive_pairs.sort(key=lambda x: x[0])
-    alive = [uri for _, uri in alive_pairs]
-    stats = {
-        "probed": len(probed),
-        "alive": len(alive),
-        "dead": dead,
-        "unparsable": unparsable,
-        "alive_ratio": round(len(alive) / len(probed), 4) if probed else 0.0,
-    }
-    print(
-        f"Health-check done: alive={stats['alive']} dead={stats['dead']} "
-        f"ratio={stats['alive_ratio']:.1%}"
-    )
-    return alive, stats
-
-
 def main() -> int:
     sources = load_sources()
     collected: list[str] = []
@@ -499,14 +389,13 @@ def main() -> int:
             print(f"[FAIL] {name}: {error}", file=sys.stderr)
         source_stats.append({"name": name, "url": url, "added": added, "error": error})
 
-    print(f"Collected unique before health-check: {len(collected)}")
-    alive, health = filter_alive(collected)
+    print(f"Collected unique: {len(collected)}")
 
     by_protocol: dict[str, list[str]] = defaultdict(list)
     by_country: dict[str, list[str]] = defaultdict(list)
     unknown_country = 0
 
-    for uri in alive:
+    for uri in collected:
         proto = protocol_of(uri)
         if len(by_protocol[proto]) < MAX_PER_PROTOCOL:
             by_protocol[proto].append(uri)
@@ -575,7 +464,6 @@ def main() -> int:
 
     index = {
         "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC"),
-        "health": health,
         "countries": [
             {
                 "code": cc,
@@ -594,7 +482,7 @@ def main() -> int:
     readme_lines = [
         "# Countries",
         "",
-        "Only **TCP-alive** endpoints are published (dead hosts filtered every update).",
+        "Aggregated free public configs split by country (ISO code).",
         "",
         "Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`",
         "",
@@ -616,7 +504,6 @@ def main() -> int:
         "updated_at": now,
         "total_unique_raw": len(collected),
         "total_unique": len(all_configs),
-        "health": health,
         "counts": {
             "all": len(all_configs),
             "vmess": len(by_protocol.get("vmess", [])),
@@ -641,7 +528,7 @@ def main() -> int:
         f"updated_at={now}"
     )
     if len(all_configs) == 0:
-        print("WARNING: no alive configs after health-check", file=sys.stderr)
+        print("WARNING: no configs collected", file=sys.stderr)
         return 1
     return 0
 
