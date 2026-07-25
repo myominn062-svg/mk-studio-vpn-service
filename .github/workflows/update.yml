@@ -15,17 +15,22 @@ on:
 permissions:
   contents: write
 
+# Queue runs instead of cancelling mid-push (avoids race rejects)
 concurrency:
   group: update-configs
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          # Needed so the bot can push back to main
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -37,8 +42,10 @@ jobs:
 
       - name: Commit & push if changed
         run: |
+          set -euo pipefail
           git config user.name "mk-studio-bot"
           git config user.email "mk-studio-bot@users.noreply.github.com"
+
           git add \
             all_configs.txt \
             MK-Studio-VPN-All-Type.txt \
@@ -55,9 +62,25 @@ jobs:
             subscription-trojan.txt \
             subscription-ss.txt \
             meta.json
+
           if git diff --staged --quiet; then
             echo "No changes"
             exit 0
           fi
+
           git commit -m "chore: refresh free public configs"
-          git push
+
+          # Retry push with rebase if another run updated main first
+          for i in 1 2 3 4 5; do
+            if git push origin HEAD:main; then
+              echo "Push succeeded (attempt $i)"
+              exit 0
+            fi
+            echo "Push rejected (attempt $i) — rebasing onto origin/main..."
+            git fetch origin main
+            git rebase origin/main
+            sleep $((i * 2))
+          done
+
+          echo "Push failed after retries"
+          exit 1
