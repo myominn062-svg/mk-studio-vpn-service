@@ -43,8 +43,10 @@ Also works with **[MK Studio VPN](https://github.com/myominn062-svg/mk-studio-vp
 
 | File | Link |
 |------|------|
-| All types | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/MK-Studio-VPN-All-Type.txt` |
+| All types (large) | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/MK-Studio-VPN-All-Type.txt` |
+| Featured (smaller) | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/MK-Studio-VPN.txt` |
 | All configs | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/all_configs.txt` |
+| All extracted | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/all_extracted_configs.txt` |
 | VMess | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/vmess_configs.txt` |
 | VLESS | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/vless_configs.txt` |
 | Trojan | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/trojan_configs.txt` |
@@ -52,6 +54,14 @@ Also works with **[MK Studio VPN](https://github.com/myominn062-svg/mk-studio-vp
 | SSR | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/ssr_configs.txt` |
 | Hysteria2 | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/hysteria2_configs.txt` |
 | TUIC | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/tuic_configs.txt` |
+
+### Chunks (lighter downloads)
+
+Large lists are also split into ~1000-line files:
+
+- Mixed protocols: [`mixed-protocol-chunks/`](./mixed-protocol-chunks/)
+- By protocol: [`separated-protocols-chunks/`](./separated-protocols-chunks/)
+
 
 ### By country (ISO code)
 
@@ -85,8 +95,8 @@ Example: `TH` → `.../countries/TH.sub.txt`
 ### Update frequency
 - Auto-refresh every **15 minutes**
 - Duplicate configs removed
-- Split by protocol **and** by country
-- Large aggregator-style lists (not quality-filtered)
+- Split by protocol, by country, and into chunk files
+- Large aggregator-style lists (up to ~100k published; not TCP health-filtered)
 - Status snapshot: [`meta.json`](./meta.json)
 
 ### Local update (optional)

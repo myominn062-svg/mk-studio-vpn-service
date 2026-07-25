@@ -19,12 +19,17 @@ ROOT = Path(__file__).resolve().parents[1]
 SOURCES_FILE = ROOT / "sources.json"
 META_FILE = ROOT / "meta.json"
 COUNTRIES_DIR = ROOT / "countries"
+MIXED_CHUNKS_DIR = ROOT / "mixed-protocol-chunks"
+SEPARATED_CHUNKS_DIR = ROOT / "separated-protocols-chunks"
 USER_AGENT = "MK-Studio-VPN-Service/1.0 (+https://github.com/myominn062-svg/mk-studio-vpn-service)"
 TIMEOUT = 45
-# Aggregator-style caps (publish large lists; no TCP health filter)
-MAX_PER_PROTOCOL = 5000
-MAX_ALL = 15000
-MAX_PER_COUNTRY = 3000
+# Aggregator-style caps (large lists like public free-v2ray repos; no TCP health filter).
+# Keep under GitHub-friendly sizes for frequent 15-min pushes (~100k lines ≈ 20–30MB).
+MAX_PER_PROTOCOL = 100000
+MAX_ALL = 100000
+MAX_PER_COUNTRY = 15000
+FEATURED_COUNT = 1500  # smaller ready-to-try list (like ebrasha's curated main file)
+CHUNK_LINES = 1000
 
 PROTOCOL_PREFIXES = (
     "vmess://",
@@ -304,6 +309,52 @@ def write_b64(path: Path, lines: list[str]) -> None:
     path.write_text(base64.b64encode(raw).decode("ascii") + "\n", encoding="utf-8")
 
 
+def write_chunks(dir_path: Path, lines: list[str], name_prefix: str) -> int:
+    """Split lines into numbered chunk files (~CHUNK_LINES each). Returns chunk count."""
+    if dir_path.exists():
+        shutil.rmtree(dir_path, ignore_errors=True)
+    dir_path.mkdir(parents=True, exist_ok=True)
+    if not lines:
+        write_text(
+            dir_path / "README.md",
+            [
+                f"# {dir_path.name}",
+                "",
+                "No configs available for this split in the current update.",
+                "",
+            ],
+        )
+        return 0
+
+    chunk_count = 0
+    for i in range(0, len(lines), CHUNK_LINES):
+        chunk_count += 1
+        chunk = lines[i : i + CHUNK_LINES]
+        write_text(dir_path / f"{name_prefix}-{chunk_count:03d}.txt", chunk)
+
+    write_text(
+        dir_path / "README.md",
+        [
+            f"# {dir_path.name}",
+            "",
+            f"Chunk size: **{CHUNK_LINES}** configs per file.",
+            f"Total chunks: **{chunk_count}** · Total configs: **{len(lines)}**",
+            "",
+            "Use these when a single large list is too heavy for your client.",
+            "",
+            "| File | Count |",
+            "|------|------:|",
+            *[
+                f"| `{name_prefix}-{n:03d}.txt` | "
+                f"{min(CHUNK_LINES, len(lines) - (n - 1) * CHUNK_LINES)} |"
+                for n in range(1, chunk_count + 1)
+            ],
+            "",
+        ],
+    )
+    return chunk_count
+
+
 def flag_to_cc(flag: str) -> str | None:
     if len(flag) != 2:
         return None
@@ -392,11 +443,13 @@ def main() -> int:
     print(f"Collected unique: {len(collected)}")
 
     by_protocol: dict[str, list[str]] = defaultdict(list)
+    by_protocol_all: dict[str, list[str]] = defaultdict(list)
     by_country: dict[str, list[str]] = defaultdict(list)
     unknown_country = 0
 
     for uri in collected:
         proto = protocol_of(uri)
+        by_protocol_all[proto].append(uri)
         if len(by_protocol[proto]) < MAX_PER_PROTOCOL:
             by_protocol[proto].append(uri)
         cc = detect_country(uri)
@@ -407,9 +460,10 @@ def main() -> int:
             unknown_country += 1
 
     all_configs: list[str] = []
-    # Round-robin across protocols so one type doesn't dominate the published list
+    # Round-robin across protocols from the full collected set (not protocol-file caps)
+    # so All-Type can grow toward MAX_ALL even when one protocol dominates.
     proto_order = ("vless", "vmess", "trojan", "ss", "ssr", "hysteria2", "hysteria", "tuic", "wireguard", "other")
-    queues = {p: list(by_protocol.get(p, [])) for p in proto_order}
+    queues = {p: list(by_protocol_all.get(p, [])) for p in proto_order}
     while len(all_configs) < MAX_ALL:
         progressed = False
         for p in proto_order:
@@ -421,15 +475,20 @@ def main() -> int:
         if not progressed:
             break
 
+    featured = all_configs[:FEATURED_COUNT]
+    hysteria_lines = by_protocol.get("hysteria2", []) + by_protocol.get("hysteria", [])
+
     outputs = {
         "all_configs.txt": all_configs,
+        "all_extracted_configs.txt": all_configs,
         "MK-Studio-VPN-All-Type.txt": all_configs,
+        "MK-Studio-VPN.txt": featured,
         "vmess_configs.txt": by_protocol.get("vmess", []),
         "vless_configs.txt": by_protocol.get("vless", []),
         "trojan_configs.txt": by_protocol.get("trojan", []),
         "ss_configs.txt": by_protocol.get("ss", []),
         "ssr_configs.txt": by_protocol.get("ssr", []),
-        "hysteria2_configs.txt": by_protocol.get("hysteria2", []) + by_protocol.get("hysteria", []),
+        "hysteria2_configs.txt": hysteria_lines,
         "tuic_configs.txt": by_protocol.get("tuic", []),
     }
 
@@ -442,6 +501,45 @@ def main() -> int:
     write_b64(ROOT / "subscription-trojan.txt", by_protocol.get("trojan", []))
     write_b64(ROOT / "subscription-ss.txt", by_protocol.get("ss", []))
 
+    # Chunk splits (GitHub-/client-friendly pieces of the large lists)
+    mixed_chunks = write_chunks(
+        MIXED_CHUNKS_DIR, all_configs, "MK-Studio-Mixed-Config"
+    )
+    proto_chunk_counts: dict[str, int] = {}
+    if SEPARATED_CHUNKS_DIR.exists():
+        shutil.rmtree(SEPARATED_CHUNKS_DIR, ignore_errors=True)
+    SEPARATED_CHUNKS_DIR.mkdir(parents=True, exist_ok=True)
+    separated_map = {
+        "vmess": by_protocol.get("vmess", []),
+        "vless": by_protocol.get("vless", []),
+        "trojan": by_protocol.get("trojan", []),
+        "ss": by_protocol.get("ss", []),
+        "ssr": by_protocol.get("ssr", []),
+        "hysteria2": hysteria_lines,
+        "tuic": by_protocol.get("tuic", []),
+    }
+    for proto_name, proto_lines in separated_map.items():
+        proto_chunk_counts[proto_name] = write_chunks(
+            SEPARATED_CHUNKS_DIR / proto_name,
+            proto_lines,
+            f"MK-Studio-Protocol-Chunks-{proto_name}",
+        )
+    write_text(
+        SEPARATED_CHUNKS_DIR / "README.md",
+        [
+            "# Separated protocol chunks",
+            "",
+            "Large protocol lists split into smaller files for lighter clients.",
+            "",
+            "| Protocol | Chunks | Configs |",
+            "|----------|-------:|--------:|",
+            *[
+                f"| [{p}/](./{p}/) | {proto_chunk_counts[p]} | {len(separated_map[p])} |"
+                for p in separated_map
+            ],
+            "",
+        ],
+    )
     # Country splits — wipe & recreate so stale countries disappear
     if COUNTRIES_DIR.exists():
         shutil.rmtree(COUNTRIES_DIR, ignore_errors=True)
@@ -504,15 +602,25 @@ def main() -> int:
         "updated_at": now,
         "total_unique_raw": len(collected),
         "total_unique": len(all_configs),
+        "caps": {
+            "max_all": MAX_ALL,
+            "max_per_protocol": MAX_PER_PROTOCOL,
+            "max_per_country": MAX_PER_COUNTRY,
+            "featured": FEATURED_COUNT,
+            "chunk_lines": CHUNK_LINES,
+        },
         "counts": {
             "all": len(all_configs),
+            "featured": len(featured),
             "vmess": len(by_protocol.get("vmess", [])),
             "vless": len(by_protocol.get("vless", [])),
             "trojan": len(by_protocol.get("trojan", [])),
             "ss": len(by_protocol.get("ss", [])),
             "ssr": len(by_protocol.get("ssr", [])),
-            "hysteria2": len(by_protocol.get("hysteria2", []) + by_protocol.get("hysteria", [])),
+            "hysteria2": len(hysteria_lines),
             "tuic": len(by_protocol.get("tuic", [])),
+            "mixed_chunks": mixed_chunks,
+            "protocol_chunks": proto_chunk_counts,
             "countries_detected": sum(v for k, v in country_counts.items() if k != "UNKNOWN"),
             "countries_unknown": country_counts.get("UNKNOWN", unknown_country),
             "country_files": len([c for c in country_counts if c != "UNKNOWN"]),

@@ -48,7 +48,9 @@ jobs:
 
           git add \
             all_configs.txt \
+            all_extracted_configs.txt \
             MK-Studio-VPN-All-Type.txt \
+            MK-Studio-VPN.txt \
             vmess_configs.txt \
             vless_configs.txt \
             trojan_configs.txt \
@@ -62,10 +64,12 @@ jobs:
             subscription-trojan.txt \
             subscription-ss.txt \
             meta.json \
-            countries
+            countries \
+            mixed-protocol-chunks \
+            separated-protocols-chunks
 
-          # Pick up removed/renamed country files too
-          git add -A countries
+          # Pick up removed/renamed country & chunk files too
+          git add -A countries mixed-protocol-chunks separated-protocols-chunks
 
           if git diff --staged --quiet; then
             echo "No changes"
