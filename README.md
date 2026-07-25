@@ -8,7 +8,9 @@ Copy → paste → connect. No signup. No payment.
 **Updated every 15 minutes** via GitHub Actions.
 
 > Aggregates publicly shared free configs from multiple open sources.  
-> Free public nodes are shared & unstable — do **not** use for banking or sensitive logins.
+> Each update **TCP health-checks** endpoints and drops dead hosts (port closed).  
+> Free public nodes are still shared & unstable — do **not** use for banking or sensitive logins.  
+> TCP-alive ≠ full proxy guarantee (some open ports may still fail in-app).
 
 ---
 
@@ -83,6 +85,7 @@ Example: `TH` → `.../countries/TH.sub.txt`
 
 ### Update frequency
 - Auto-refresh every **15 minutes**
+- Dead hosts removed via **TCP health-check**
 - Duplicate configs removed
 - Split by protocol **and** by country
 - Status snapshot: [`meta.json`](./meta.json)
