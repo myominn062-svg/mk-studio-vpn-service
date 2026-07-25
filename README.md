@@ -1,0 +1,92 @@
+# MK Studio VPN Service — Free Public V2Ray Config List
+
+[🇲🇲 မြန်မာ](#-မြန်မာ) | [🇺🇸 English](#-english)
+
+Free, auto-updated public proxy configs for **SS / SSR / Trojan / VLESS / VMess / Hysteria2 / TUIC**.  
+Copy → paste → connect. No signup. No payment.
+
+**Updated every 15 minutes** via GitHub Actions.
+
+> Aggregates publicly shared free configs from multiple open sources.  
+> Free public nodes are shared & unstable — do **not** use for banking or sensitive logins.
+
+---
+
+## 🇺🇸 English
+
+### Recommended apps
+| Platform | Apps |
+|----------|------|
+| Windows / Linux | [v2rayN](https://github.com/2dust/v2rayN), [Nekoray](https://github.com/MatsuriDayo/nekoray) |
+| Android | [v2rayNG](https://github.com/2dust/v2rayNG), [Hiddify](https://github.com/hiddify/Hiddify-Next), [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid) |
+| iOS / macOS | [Streisand](https://apps.apple.com/app/streisand/id6450534064), [Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118), [V2BOX](https://apps.apple.com/app/v2box-v2ray-client/id6446814690) |
+
+### How to connect
+1. Copy a **subscription** or **raw** link below  
+2. Open your app → **+** / **Import from Clipboard** / **Add subscription**  
+3. Update & connect  
+
+Also works with **[MK Studio VPN](https://github.com/myominn062-svg/mk-studio-vpn)**.
+
+### Subscription links (Base64 — best for most clients)
+
+| List | Link |
+|------|------|
+| All protocols | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/subscription.txt` |
+| VLESS | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/subscription-vless.txt` |
+| VMess | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/subscription-vmess.txt` |
+| Trojan | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/subscription-trojan.txt` |
+| Shadowsocks | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/subscription-ss.txt` |
+
+### Raw config lists (one URI per line)
+
+| File | Link |
+|------|------|
+| All types | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/MK-Studio-VPN-All-Type.txt` |
+| All configs | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/all_configs.txt` |
+| VMess | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/vmess_configs.txt` |
+| VLESS | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/vless_configs.txt` |
+| Trojan | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/trojan_configs.txt` |
+| SS | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/ss_configs.txt` |
+| SSR | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/ssr_configs.txt` |
+| Hysteria2 | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/hysteria2_configs.txt` |
+| TUIC | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/tuic_configs.txt` |
+
+### QR — All protocols subscription
+
+![QR](https://quickchart.io/qr?text=https%3A%2F%2Fraw.githubusercontent.com%2Fmyominn062-svg%2Fmk-studio-vpn-service%2Fmain%2Fsubscription.txt&size=220)
+
+### Update frequency
+- Auto-refresh every **15 minutes**
+- Duplicate configs removed
+- Status snapshot: [`meta.json`](./meta.json)
+
+### Local update (optional)
+```bash
+python3 scripts/update_configs.py
+```
+
+Edit public sources in [`sources.json`](./sources.json).
+
+---
+
+## 🇲🇲 မြန်မာ
+
+### ဘာလဲ?
+**MK Studio VPN Service** က free public V2Ray config တွေကို စုစည်းပြီး GitHub မှာ မျှဝေပေးတဲ့ service ပါ။  
+**၁၅ မိနစ်တိုင်း** အလိုအလျောက် အပ်ဒိတ်လုပ်ပါတယ်။
+
+### ဘယ်လိုသုံးမလဲ?
+1. အပေါ်က subscription link တစ်ခုကို ကော်ပီလုပ်ပါ  
+2. App ထဲမှာ **Import / Add subscription** ထည့်ပါ  
+3. Update လုပ်ပြီး connect နှိပ်ပါ  
+
+### သတိပြုရန်
+Free public node တွေက မတည်ငြိမ်နိုင်ပါတယ်။ ဘဏ် / အရေးကြီးအကောင့် အတွက် မသုံးပါနဲ့။
+
+---
+
+## Maintained by
+**MK Studio VPN** · GitHub: [myominn062-svg](https://github.com/myominn062-svg)
+
+Client app: [mk-studio-vpn](https://github.com/myominn062-svg/mk-studio-vpn)

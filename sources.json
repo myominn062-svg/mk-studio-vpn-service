@@ -1,0 +1,64 @@
+{
+  "sources": [
+    {
+      "name": "barry-far-all",
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt",
+      "enabled": true
+    },
+    {
+      "name": "epodonios-all",
+      "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
+      "enabled": true
+    },
+    {
+      "name": "barry-far-vless",
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/vless.txt",
+      "enabled": true
+    },
+    {
+      "name": "barry-far-vmess",
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/vmess.txt",
+      "enabled": true
+    },
+    {
+      "name": "barry-far-trojan",
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/trojan.txt",
+      "enabled": true
+    },
+    {
+      "name": "barry-far-ss",
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/ss.txt",
+      "enabled": true
+    },
+    {
+      "name": "epodonios-vless",
+      "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt",
+      "enabled": true
+    },
+    {
+      "name": "epodonios-vmess",
+      "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vmess.txt",
+      "enabled": true
+    },
+    {
+      "name": "epodonios-trojan",
+      "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/trojan.txt",
+      "enabled": true
+    },
+    {
+      "name": "epodonios-ss",
+      "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/ss.txt",
+      "enabled": true
+    },
+    {
+      "name": "fastnodes-everything",
+      "url": "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/everything.txt",
+      "enabled": true
+    },
+    {
+      "name": "alirewa-config",
+      "url": "https://raw.githubusercontent.com/Alirewa/V2ray-Configs/main/config.txt",
+      "enabled": true
+    }
+  ]
+}

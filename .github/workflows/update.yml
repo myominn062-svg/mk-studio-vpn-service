@@ -1,0 +1,63 @@
+name: Update Free Configs
+
+on:
+  schedule:
+    # Every 15 minutes (GitHub may delay cron slightly on free plans)
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "sources.json"
+      - ".github/workflows/update.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-configs
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Aggregate public configs
+        run: python3 scripts/update_configs.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "mk-studio-bot"
+          git config user.email "mk-studio-bot@users.noreply.github.com"
+          git add \
+            all_configs.txt \
+            MK-Studio-VPN-All-Type.txt \
+            vmess_configs.txt \
+            vless_configs.txt \
+            trojan_configs.txt \
+            ss_configs.txt \
+            ssr_configs.txt \
+            hysteria2_configs.txt \
+            tuic_configs.txt \
+            subscription.txt \
+            subscription-vless.txt \
+            subscription-vmess.txt \
+            subscription-trojan.txt \
+            subscription-ss.txt \
+            meta.json
+          if git diff --staged --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "chore: refresh free public configs"
+          git push
