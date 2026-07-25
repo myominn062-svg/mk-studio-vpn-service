@@ -1,10 +1,10 @@
 {
   "brand": "MK Studio VPN Service",
-  "updated_at": "2026-07-25 17:26:39 UTC",
+  "updated_at": "2026-07-25 17:31:59 UTC",
   "total_unique": 15000,
   "counts": {
     "all": 15000,
-    "vmess": 2030,
+    "vmess": 2012,
     "vless": 5000,
     "trojan": 5000,
     "ss": 5000,
@@ -22,7 +22,7 @@
     {
       "name": "epodonios-all",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
-      "added": 4395,
+      "added": 4394,
       "error": null
     },
     {
@@ -52,31 +52,31 @@
     {
       "name": "epodonios-vless",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt",
-      "added": 132,
+      "added": 17,
       "error": null
     },
     {
       "name": "epodonios-vmess",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vmess.txt",
-      "added": 18,
+      "added": 0,
       "error": null
     },
     {
       "name": "epodonios-trojan",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/trojan.txt",
-      "added": 30,
+      "added": 0,
       "error": null
     },
     {
       "name": "epodonios-ss",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/ss.txt",
-      "added": 23,
+      "added": 0,
       "error": null
     },
     {
       "name": "fastnodes-everything",
       "url": "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/everything.txt",
-      "added": 70013,
+      "added": 70014,
       "error": null
     },
     {
@@ -89,7 +89,7 @@
   "files": {
     "all_configs.txt": 15000,
     "MK-Studio-VPN-All-Type.txt": 15000,
-    "vmess_configs.txt": 2030,
+    "vmess_configs.txt": 2012,
     "vless_configs.txt": 5000,
     "trojan_configs.txt": 5000,
     "ss_configs.txt": 5000,
