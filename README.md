@@ -31,9 +31,13 @@ Also works with **[MK Studio VPN](https://github.com/myominn062-svg/mk-studio-vp
 
 ### Subscription links (Base64 — best for most clients)
 
+> **Hiddify / iOS / phone:** use **Lite** or a **country** link.  
+> Full `subscription.txt` (~30MB+) can crash apps (`no such file or directory` / Unexpected failure).
+
 | List | Link |
 |------|------|
-| All protocols | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/subscription.txt` |
+| **Lite (recommended for mobile)** ~1500 | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/subscription-lite.txt` |
+| All protocols (large / desktop) | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/subscription.txt` |
 | VLESS | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/subscription-vless.txt` |
 | VMess | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/subscription-vmess.txt` |
 | Trojan | `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/subscription-trojan.txt` |
@@ -88,9 +92,9 @@ https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/coun
 ```
 Example: `TH` → `.../countries/TH.sub.txt`
 
-### QR — All protocols subscription
+### QR — Lite subscription (mobile)
 
-![QR](https://quickchart.io/qr?text=https%3A%2F%2Fraw.githubusercontent.com%2Fmyominn062-svg%2Fmk-studio-vpn-service%2Fmain%2Fsubscription.txt&size=220)
+![QR](https://quickchart.io/qr?text=https%3A%2F%2Fraw.githubusercontent.com%2Fmyominn062-svg%2Fmk-studio-vpn-service%2Fmain%2Fsubscription-lite.txt&size=220)
 
 ### Update frequency
 - Auto-refresh every **15 minutes**
@@ -115,9 +119,10 @@ Edit public sources in [`sources.json`](./sources.json).
 **၁၅ မိနစ်တိုင်း** အလိုအလျောက် အပ်ဒိတ်လုပ်ပါတယ်။
 
 ### ဘယ်လိုသုံးမလဲ?
-1. အပေါ်က subscription link တစ်ခုကို ကော်ပီလုပ်ပါ  
-2. App ထဲမှာ **Import / Add subscription** ထည့်ပါ  
-3. Update လုပ်ပြီး connect နှိပ်ပါ  
+1. **ဖုန်း / Hiddify** ဆိုရင် Lite link သုံးပါ (ဖိုင်ကြီးရင် error တက်တတ်တယ်)  
+   `https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/subscription-lite.txt`
+2. App ထဲမှာ အဟောင်း subscription ဖျက် → Lite link အသစ်ထည့် → Update  
+3. Connect နှိပ်ပါ  
 
 ### နိုင်ငံအလိုက်
 SG / JP / US စသည်ဖြင့် နိုင်ငံကုဒ်နဲ့ ခွဲထားပါတယ်။  
@@ -127,7 +132,8 @@ SG / JP / US စသည်ဖြင့် နိုင်ငံကုဒ်နဲ
 စာရင်းအပြည့်: [`countries/README.md`](./countries/README.md) 
 
 ### သတိပြုရန်
-Free public node တွေက မတည်ငြိမ်နိုင်ပါတယ်။ ဘဏ် / အရေးကြီးအကောင့် အတွက် မသုံးပါနဲ့။
+- Free public node တွေက မတည်ငြိမ်နိုင်ပါတယ်။ ဘဏ် / အရေးကြီးအကောင့် အတွက် မသုံးပါနဲ့။  
+- `subscription.txt` အကြီး (~၃၀MB+) ကို ဖုန်းမှာ မထည့်ပါနဲ့ — Hiddify error တက်နိုင်ပါတယ်။
 
 ---
 

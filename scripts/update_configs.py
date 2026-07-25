@@ -496,6 +496,8 @@ def main() -> int:
         write_text(ROOT / filename, lines)
 
     write_b64(ROOT / "subscription.txt", all_configs)
+    # Mobile-friendly (Hiddify/iOS often crash on 20MB+ full subscriptions)
+    write_b64(ROOT / "subscription-lite.txt", featured)
     write_b64(ROOT / "subscription-vless.txt", by_protocol.get("vless", []))
     write_b64(ROOT / "subscription-vmess.txt", by_protocol.get("vmess", []))
     write_b64(ROOT / "subscription-trojan.txt", by_protocol.get("trojan", []))

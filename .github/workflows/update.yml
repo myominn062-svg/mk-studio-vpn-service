@@ -59,6 +59,7 @@ jobs:
             hysteria2_configs.txt \
             tuic_configs.txt \
             subscription.txt \
+            subscription-lite.txt \
             subscription-vless.txt \
             subscription-vmess.txt \
             subscription-trojan.txt \
