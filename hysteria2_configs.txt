@@ -69,8 +69,10 @@ hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&sni=bin
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000/?insecure=1&sni=bing.com#EPODONIOS
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@germany1.noesissite.ru:443/?sni=germany1.noesissite.ru#EPODONIOS
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nland1.noesissite.ru:443/?sni=nland1.noesissite.ru#EPODONIOS
+hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?security=tls&obfs=salamander&obfs-password=fd3olglr2bmimgje&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?sni=assets.gateway-stream.com&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=fd3olglr2bmimgje#EPODONIOS
+hysteria2://4z2oldt85p494bgb@soskeynets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://76TeSy4hi8@51.159.137.79:55809?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=4d5c3200cd9a371684203fd8bfa29bba7e46777d4599cbc2130e78d9a7f197d2&sni=www.amd.com#EPODONIOS
 hysteria2://KKKtK5NwIU@51.159.137.79:55809?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=4d5c3200cd9a371684203fd8bfa29bba7e46777d4599cbc2130e78d9a7f197d2&sni=www.amd.com#EPODONIOS
 hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96#EPODONIOS
@@ -85,7 +87,6 @@ hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333/?sni=hy2.1
 hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@172.86.95.17:8433/?sni=de1-hy2.veilvpn.life#EPODONIOS
 hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@de2-hy2.veilvpn.life:3478/?sni=de2-hy2.veilvpn.life#EPODONIOS
 hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
-hysteria2://hy2_czaawdhc:VwWo0eBZC9jU3xCE0FuTmbX6xmnj33Iq@2.26.92.136:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=nl2.cleanersaz.help&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF#EPODONIOS
 hysteria2://hy2_czaawdhc:VwWo0eBZC9jU3xCE0FuTmbX6xmnj33Iq@2.26.92.136:443?insecure=0&sni=nl2.cleanersaz.help&security=tls&obfs-password=lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF&obfs=salamander#EPODONIOS
 hysteria2://hy2_czaawdhc:VwWo0eBZC9jU3xCE0FuTmbX6xmnj33Iq@2.26.92.136:443?security=tls&obfs=salamander&insecure=0&sni=nl2.cleanersaz.help&obfs-password=lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF#EPODONIOS
 hysteria2://hy2_czaawdhc:VwWo0eBZC9jU3xCE0FuTmbX6xmnj33Iq@2.26.92.136:443?security=tls&obfs=salamander&obfs-password=lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF&insecure=0&sni=nl2.cleanersaz.help#EPODONIOS
@@ -257,4 +258,3 @@ hysteria2://ABBB1AFA-AD9F-4EF9-9AEE-47C43557557D@jp4.dexlos.com:20649?insecure=0
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga7.api3-max.ru:443?insecure=0&sni=taga7.api3-max.ru&obfs=&obfs-password=#%F0%9F%87%BA%F0%9F%87%B8US_11%7C3.2MB/s
 hysteria2://ABBB1AFA-AD9F-4EF9-9AEE-47C43557557D@us2.dexlos.com:20378?insecure=0&sni=&obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3#%F0%9F%87%BA%F0%9F%87%B8US_12%7C4.7MB/s
 hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?insecure=0&sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#%F0%9F%87%B7%F0%9F%87%BA122112%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-us-002.fastervpn.world#%E7%BE%8E%E5%9B%BD+%E4%BF%84%E5%8B%92%E5%86%88%E5%B7%9E%E6%B3%A2%E7%89%B9%E5%85%B0Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
