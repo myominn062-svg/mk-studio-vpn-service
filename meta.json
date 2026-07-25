@@ -1,10 +1,10 @@
 {
   "brand": "MK Studio VPN Service",
-  "updated_at": "2026-07-25 17:31:59 UTC",
+  "updated_at": "2026-07-25 17:38:40 UTC",
   "total_unique": 15000,
   "counts": {
     "all": 15000,
-    "vmess": 2012,
+    "vmess": 2013,
     "vless": 5000,
     "trojan": 5000,
     "ss": 5000,
@@ -89,7 +89,7 @@
   "files": {
     "all_configs.txt": 15000,
     "MK-Studio-VPN-All-Type.txt": 15000,
-    "vmess_configs.txt": 2012,
+    "vmess_configs.txt": 2013,
     "vless_configs.txt": 5000,
     "trojan_configs.txt": 5000,
     "ss_configs.txt": 5000,
