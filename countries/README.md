@@ -9,7 +9,7 @@ Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`
 | UNKNOWN | 15000 | [`UNKNOWN.txt`](./UNKNOWN.txt) | [`UNKNOWN.sub.txt`](./UNKNOWN.sub.txt) |
 | US | 15000 | [`US.txt`](./US.txt) | [`US.sub.txt`](./US.sub.txt) |
 | RU | 10496 | [`RU.txt`](./RU.txt) | [`RU.sub.txt`](./RU.sub.txt) |
-| DE | 6265 | [`DE.txt`](./DE.txt) | [`DE.sub.txt`](./DE.sub.txt) |
+| DE | 6266 | [`DE.txt`](./DE.txt) | [`DE.sub.txt`](./DE.sub.txt) |
 | IR | 4308 | [`IR.txt`](./IR.txt) | [`IR.sub.txt`](./IR.sub.txt) |
 | NL | 3936 | [`NL.txt`](./NL.txt) | [`NL.sub.txt`](./NL.sub.txt) |
 | GB | 2473 | [`GB.txt`](./GB.txt) | [`GB.sub.txt`](./GB.sub.txt) |
@@ -23,7 +23,7 @@ Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`
 | CY | 1087 | [`CY.txt`](./CY.txt) | [`CY.sub.txt`](./CY.sub.txt) |
 | FI | 1050 | [`FI.txt`](./FI.txt) | [`FI.sub.txt`](./FI.sub.txt) |
 | CA | 764 | [`CA.txt`](./CA.txt) | [`CA.sub.txt`](./CA.sub.txt) |
-| KR | 722 | [`KR.txt`](./KR.txt) | [`KR.sub.txt`](./KR.sub.txt) |
+| KR | 723 | [`KR.txt`](./KR.txt) | [`KR.sub.txt`](./KR.sub.txt) |
 | PL | 716 | [`PL.txt`](./PL.txt) | [`PL.sub.txt`](./PL.sub.txt) |
 | LT | 614 | [`LT.txt`](./LT.txt) | [`LT.sub.txt`](./LT.sub.txt) |
 | TR | 592 | [`TR.txt`](./TR.txt) | [`TR.sub.txt`](./TR.sub.txt) |
@@ -33,7 +33,7 @@ Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`
 | CH | 347 | [`CH.txt`](./CH.txt) | [`CH.sub.txt`](./CH.sub.txt) |
 | IT | 323 | [`IT.txt`](./IT.txt) | [`IT.sub.txt`](./IT.sub.txt) |
 | CN | 279 | [`CN.txt`](./CN.txt) | [`CN.sub.txt`](./CN.sub.txt) |
-| KZ | 259 | [`KZ.txt`](./KZ.txt) | [`KZ.sub.txt`](./KZ.sub.txt) |
+| KZ | 262 | [`KZ.txt`](./KZ.txt) | [`KZ.sub.txt`](./KZ.sub.txt) |
 | TW | 256 | [`TW.txt`](./TW.txt) | [`TW.sub.txt`](./TW.sub.txt) |
 | EE | 237 | [`EE.txt`](./EE.txt) | [`EE.sub.txt`](./EE.sub.txt) |
 | UA | 194 | [`UA.txt`](./UA.txt) | [`UA.sub.txt`](./UA.sub.txt) |
