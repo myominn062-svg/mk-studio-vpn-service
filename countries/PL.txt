@@ -719,5 +719,4 @@ ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@217.30.10.68:9001#%F0%9F%87%B5%F0%
 ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@217.30.10.68:9097#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8260
 ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw==@217.30.10.68:9053#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8261
 ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.68:9006#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8262
-vless://da7685a7-15ef-41e4-a0d9-009bb4be7220@151.245.192.225:443?sni=auto.malina24.xyz&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C2.3MB/s
-vless://4ab27adf-e13d-4eea-8cfc-a77f2a78c27b@152.233.43.74:16923?sni=api-maps.yandex.ru&type=grpc&serviceName=neurex&fp=firefox&security=tls#%F0%9F%87%B5%F0%9F%87%B1PL_2%7C3.4MB/s
+vless://da7685a7-15ef-41e4-a0d9-009bb4be7220@151.245.192.193:443?allowInsecure=1&sni=auto.malina24.xyz&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%B5%F0%9F%87%B1PL_1%7C2.2MB/s
