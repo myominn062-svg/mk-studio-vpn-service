@@ -10572,5 +10572,9 @@ vmess://ewogICAgImFkZCI6ICIxNzEuMjIuMTM0LjEyIiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWN2ptc0E2UFFzTG4=@146.185.198.44:444#%F0%9F%87%B7%F0%9F%87%BARU-146.185.198.44-8658
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20X
 ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNUAyMTIuMTkyLjEzLjkxOjMwMTI5Pw==#%F0%9F%87%B7%F0%9F%87%BA%20RU%E4%BF%84%E7%BE%85%E6%96%AF%E4%B8%A8yoyapai.com%5Cr
-vless://42c3337e-57f5-48d8-b7ad-46f75f5e7e8a@178.213.18.91:443?sni=pro-ru-bridge.emrata.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_1%7C1.6MB/s
+trojan://521314@176.124.223.27:443?allowInsecure=1&sni=hhtj.hhllfly.kdns.fr&ws=1&wspath=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B7%F0%9F%87%BA%20RU%E4%BF%84%E7%BD%97%E6%96%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?insecure=1&alpn=h3&sni=germany3.h2corp.local#%F0%9F%87%B7%F0%9F%87%BARU_1%7C2.1MB/s
+vless://42c3337e-57f5-48d8-b7ad-46f75f5e7e8a@178.213.18.92:443?sni=pro-ru-bridge.emrata.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_2%7C2.5MB/s
+vless://42c3337e-57f5-48d8-b7ad-46f75f5e7e8a@178.213.18.91:443?sni=pro-ru-bridge.emrata.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_3%7C2.7MB/s
+vless://f9922bed-4524-4a6a-8709-9c2e26dedee9@89.125.55.113:443?sni=cdn-spb.buildsnow.top&type=grpc&serviceName=cdn-spb.buildsnow.top&fp=edge&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_4%7C2.7MB/s
 vless://64b6f905-94d5-4745-8f92-cafa107b7c16@ruded1.onlinestreamself.com:443?allowInsecure=1&sni=apple.com&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#RU_speednode_0067
