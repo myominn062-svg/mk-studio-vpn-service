@@ -1,5 +1,3 @@
-vless://89bbf99d-1ac9-46bb-9aeb-ef31ee54f178@cdn2.portalcode.ir:2095?path=%2F&amp;security=none&amp;encryption=none&amp;host=pplol.monopolitass.ir&amp;type=httpupgrade#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%7C%20VLESS%20%7C%20cdn2.portalcode.ir%3A2095%20%235
-vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20Changsha%2C%20CN%20%7C%20VLESS%20%7C%20120.227.1.43%3A12528%20%231
 vless://3557dcfe-4b3c-46e9-b98f-810d959a188f@utera.temas-fars.ir:38733?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=CXOpQI3hwCqEp5ul2SKWfdAK-PBjjzUn-eRb7bAxDgU&amp;fp=chrome&amp;type=grpc&amp;sni=play.google.com&amp;sid=09e78c1d381f98ed#%F0%9F%87%BA%F0%9F%87%B8%20Miami%2C%20US%20%7C%20VLESS%20%7C%20utera.temas-fars.ir%3A38733%20%233
 vless://4aae04fa-f390-44bb-9558-a344c8baed36@admin.pirped.com:57546?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=G4WqyBonyjuo6n6pIL_yLN33T9e8BNHIUlrVnqZPpTY&amp;fp=random&amp;type=grpc&amp;serviceName=probrain-etl&amp;sni=ratp.fr&amp;sid=e9da#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20VLESS%20%7C%20admin.pirped.com%3A57546%20%232
 vless://7dacee57-b410-42ea-a103-4aaa3b0c429c@188.213.198.238:7080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%7C%20VLESS%20%7C%20188.213.198.238%3A7080%20%231
@@ -998,3 +996,5 @@ vless://795dee36-0f54-4923-9bda-4b0ffc43a9a5@195.208.65.192:443?alpn=h2,http/1.1
 vless://7284df43-b9e5-4f8a-b901-73c41b6b01a2@195.209.86.193:443?encryption=none&type=xhttp&security=tls&host=s14692.cdn.ngenix.net&path=/api/v1/compliance/evidence/&mode=packet-up&extra={
 vless://f7e46289-76af-4170-949d-d1285ab4aace@195.209.82.151:443?alpn=h2,http/1.1&encryption=none&extra={
 vless://b6f4db0e-cc0e-4256-9c70-0dd253121ffd@178.176.128.128:443?alpn=h2,http/1.1&encryption=none&extra={
+vless://2d90a2d0-dcea-44b6-92cf-e8deab4432fb@195.209.90.8:443?encryption=none&type=xhttp&security=tls&path=/rpc/v3/stream/media/data.ts&mode=packet-up&extra={
+vless://35d2bbc3-1661-4f92-a3e7-f7218b3383f8@128.75.228.189:443?alpn=h2,http/1.1&encryption=none&extra={
