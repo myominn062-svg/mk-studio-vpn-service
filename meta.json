@@ -1,8 +1,8 @@
 {
   "brand": "MK Studio VPN Service",
-  "updated_at": "2026-07-30 23:19:53 UTC",
-  "total_unique_raw": 89091,
-  "total_unique": 89091,
+  "updated_at": "2026-07-31 01:06:58 UTC",
+  "total_unique_raw": 88627,
+  "total_unique": 88627,
   "caps": {
     "max_all": 100000,
     "max_per_protocol": 100000,
@@ -11,16 +11,16 @@
     "chunk_lines": 1000
   },
   "counts": {
-    "all": 89091,
+    "all": 88627,
     "featured": 1500,
-    "vmess": 5984,
-    "vless": 68813,
-    "trojan": 4988,
-    "ss": 8971,
+    "vmess": 5967,
+    "vless": 68425,
+    "trojan": 4945,
+    "ss": 8954,
     "ssr": 24,
-    "hysteria2": 301,
+    "hysteria2": 302,
     "tuic": 10,
-    "mixed_chunks": 90,
+    "mixed_chunks": 89,
     "protocol_chunks": {
       "vmess": 6,
       "vless": 69,
@@ -30,7 +30,7 @@
       "hysteria2": 1,
       "tuic": 1
     },
-    "countries_detected": 59093,
+    "countries_detected": 59095,
     "countries_unknown": 15000,
     "country_files": 109
   },
@@ -108,7 +108,7 @@
     "MO": 6,
     "MT": 30,
     "MX": 13,
-    "MY": 61,
+    "MY": 62,
     "NG": 109,
     "NL": 2688,
     "NO": 36,
@@ -127,7 +127,7 @@
     "RO": 346,
     "RS": 10,
     "RU": 11124,
-    "SA": 19,
+    "SA": 20,
     "SC": 1647,
     "SE": 2023,
     "SG": 1123,
@@ -150,13 +150,13 @@
     {
       "name": "barry-far-all",
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt",
-      "added": 6121,
+      "added": 6120,
       "error": null
     },
     {
       "name": "epodonios-all",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
-      "added": 4220,
+      "added": 4219,
       "error": null
     },
     {
@@ -186,31 +186,31 @@
     {
       "name": "epodonios-vless",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt",
-      "added": 396,
+      "added": 0,
       "error": null
     },
     {
       "name": "epodonios-vmess",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vmess.txt",
-      "added": 23,
+      "added": 0,
       "error": null
     },
     {
       "name": "epodonios-trojan",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/trojan.txt",
-      "added": 43,
+      "added": 0,
       "error": null
     },
     {
       "name": "epodonios-ss",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/ss.txt",
-      "added": 17,
+      "added": 1,
       "error": null
     },
     {
       "name": "fastnodes-everything",
       "url": "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/everything.txt",
-      "added": 62950,
+      "added": 62956,
       "error": null
     },
     {
@@ -234,13 +234,13 @@
     {
       "name": "solispirit-all",
       "url": "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt",
-      "added": 7278,
+      "added": 7283,
       "error": null
     },
     {
       "name": "aliilapro-sub",
       "url": "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
-      "added": 1006,
+      "added": 1007,
       "error": null
     },
     {
@@ -270,21 +270,21 @@
     {
       "name": "pawdroid-free-servers",
       "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
-      "added": 9,
+      "added": 13,
       "error": null
     }
   ],
   "files": {
-    "all_configs.txt": 89091,
-    "all_extracted_configs.txt": 89091,
-    "MK-Studio-VPN-All-Type.txt": 89091,
+    "all_configs.txt": 88627,
+    "all_extracted_configs.txt": 88627,
+    "MK-Studio-VPN-All-Type.txt": 88627,
     "MK-Studio-VPN.txt": 1500,
-    "vmess_configs.txt": 5984,
-    "vless_configs.txt": 68813,
-    "trojan_configs.txt": 4988,
-    "ss_configs.txt": 8971,
+    "vmess_configs.txt": 5967,
+    "vless_configs.txt": 68425,
+    "trojan_configs.txt": 4945,
+    "ss_configs.txt": 8954,
     "ssr_configs.txt": 24,
-    "hysteria2_configs.txt": 301,
+    "hysteria2_configs.txt": 302,
     "tuic_configs.txt": 10
   }
 }

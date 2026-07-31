@@ -51,7 +51,7 @@ Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`
 | ZA | 75 | [`ZA.txt`](./ZA.txt) | [`ZA.sub.txt`](./ZA.sub.txt) |
 | SI | 70 | [`SI.txt`](./SI.txt) | [`SI.sub.txt`](./SI.sub.txt) |
 | HU | 63 | [`HU.txt`](./HU.txt) | [`HU.sub.txt`](./HU.sub.txt) |
-| MY | 61 | [`MY.txt`](./MY.txt) | [`MY.sub.txt`](./MY.sub.txt) |
+| MY | 62 | [`MY.txt`](./MY.txt) | [`MY.sub.txt`](./MY.sub.txt) |
 | VN | 58 | [`VN.txt`](./VN.txt) | [`VN.sub.txt`](./VN.sub.txt) |
 | AL | 52 | [`AL.txt`](./AL.txt) | [`AL.sub.txt`](./AL.sub.txt) |
 | VG | 46 | [`VG.txt`](./VG.txt) | [`VG.sub.txt`](./VG.sub.txt) |
@@ -70,8 +70,8 @@ Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`
 | AM | 21 | [`AM.txt`](./AM.txt) | [`AM.sub.txt`](./AM.sub.txt) |
 | CO | 20 | [`CO.txt`](./CO.txt) | [`CO.sub.txt`](./CO.sub.txt) |
 | GE | 20 | [`GE.txt`](./GE.txt) | [`GE.sub.txt`](./GE.sub.txt) |
+| SA | 20 | [`SA.txt`](./SA.txt) | [`SA.sub.txt`](./SA.sub.txt) |
 | BY | 19 | [`BY.txt`](./BY.txt) | [`BY.sub.txt`](./BY.sub.txt) |
-| SA | 19 | [`SA.txt`](./SA.txt) | [`SA.sub.txt`](./SA.sub.txt) |
 | JO | 17 | [`JO.txt`](./JO.txt) | [`JO.sub.txt`](./JO.sub.txt) |
 | HR | 14 | [`HR.txt`](./HR.txt) | [`HR.sub.txt`](./HR.sub.txt) |
 | OM | 14 | [`OM.txt`](./OM.txt) | [`OM.sub.txt`](./OM.sub.txt) |
