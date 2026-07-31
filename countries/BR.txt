@@ -83,8 +83,5 @@ vmess://ewogICAgImFkZCI6ICIxODUuMTMzLjM1LjE3OCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 vmess://eyJhZGQiOiIxNzIuMjMzLjE3Ljc2Iiwic2N5IjoiYXV0byIsInBvcnQiOiIyMjMyNCIsInYiOiIyIiwidHlwZSI6Im5vbmUiLCJwcyI6IkJSIPCfh6fwn4e3IHwgQFJheWRpa2FseCB8IDVEMkI0QSIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiQlIg8J+Hp/Cfh7cgfCBAUmF5ZGlrYWx4IHwgOTI5NTVGIiwiYWRkIjoiNzguMTExLjEwMi4yMzIiLCJwb3J0IjozMzg5LCJpZCI6IjljMDUwYTg2LWQ2MTItNDhmMS1lYzMyLWU1NzNkZjA4YTFiNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHAiLCJ0bHMiOiIifQ==
 vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=%2Fvless%2F&security=none&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-vless://831f56ff-d117-4a72-bb2b-a5e44eab6fbf@pro-ru-bridge.emrata.top:443?allowInsecure=0&sni=pro-ru-bridge.emrata.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#BR_speednode_0003
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@201.51.2.248:443?allowInsecure=0&sni=ads.x5.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#BR_speednode_0007
-vless://c245b785-bb81-481b-95c9-c2db14c66f25@pro-ru-bridge.emrata.top:443?allowInsecure=1&sni=pro-ru-bridge.emrata.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#BR_speednode_0004
-vless://0659abf6-b784-4421-be09-1eea5b703510@191.223.220.115:10585?allowInsecure=1&sni=vuejs-jp.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#BR_speednode_0005
-vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@status.netraidly.ru:40443?allowInsecure=1&sni=deepl.com&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#BR_speednode_0006
+vless://831f56ff-d117-4a72-bb2b-a5e44eab6fbf@pro-ru-bridge.emrata.top:443?allowInsecure=0&sni=pro-ru-bridge.emrata.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#BR_speednode_0002
+vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@status.netraidly.ru:40443?allowInsecure=1&sni=deepl.com&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#BR_speednode_0003
