@@ -1,7 +1,7 @@
 # vless
 
 Chunk size: **1000** configs per file.
-Total chunks: **68** · Total configs: **67923**
+Total chunks: **90** · Total configs: **89063**
 
 Use these when a single large list is too heavy for your client.
 
@@ -74,5 +74,27 @@ Use these when a single large list is too heavy for your client.
 | `MK-Studio-Protocol-Chunks-vless-065.txt` | 1000 |
 | `MK-Studio-Protocol-Chunks-vless-066.txt` | 1000 |
 | `MK-Studio-Protocol-Chunks-vless-067.txt` | 1000 |
-| `MK-Studio-Protocol-Chunks-vless-068.txt` | 923 |
+| `MK-Studio-Protocol-Chunks-vless-068.txt` | 1000 |
+| `MK-Studio-Protocol-Chunks-vless-069.txt` | 1000 |
+| `MK-Studio-Protocol-Chunks-vless-070.txt` | 1000 |
+| `MK-Studio-Protocol-Chunks-vless-071.txt` | 1000 |
+| `MK-Studio-Protocol-Chunks-vless-072.txt` | 1000 |
+| `MK-Studio-Protocol-Chunks-vless-073.txt` | 1000 |
+| `MK-Studio-Protocol-Chunks-vless-074.txt` | 1000 |
+| `MK-Studio-Protocol-Chunks-vless-075.txt` | 1000 |
+| `MK-Studio-Protocol-Chunks-vless-076.txt` | 1000 |
+| `MK-Studio-Protocol-Chunks-vless-077.txt` | 1000 |
+| `MK-Studio-Protocol-Chunks-vless-078.txt` | 1000 |
+| `MK-Studio-Protocol-Chunks-vless-079.txt` | 1000 |
+| `MK-Studio-Protocol-Chunks-vless-080.txt` | 1000 |
+| `MK-Studio-Protocol-Chunks-vless-081.txt` | 1000 |
+| `MK-Studio-Protocol-Chunks-vless-082.txt` | 1000 |
+| `MK-Studio-Protocol-Chunks-vless-083.txt` | 1000 |
+| `MK-Studio-Protocol-Chunks-vless-084.txt` | 1000 |
+| `MK-Studio-Protocol-Chunks-vless-085.txt` | 1000 |
+| `MK-Studio-Protocol-Chunks-vless-086.txt` | 1000 |
+| `MK-Studio-Protocol-Chunks-vless-087.txt` | 1000 |
+| `MK-Studio-Protocol-Chunks-vless-088.txt` | 1000 |
+| `MK-Studio-Protocol-Chunks-vless-089.txt` | 1000 |
+| `MK-Studio-Protocol-Chunks-vless-090.txt` | 63 |
 
