@@ -23,4 +23,4 @@ vless://03c9c227-13df-4b23-b20d-710357bc2dd3@83.147.216.66:50000?encryption=none
 vless://660174a2-d32d-4521-840d-d1853bfc80b8@83.147.216.223:4433?encryption=none&security=tls&sni=3t1yvbyla-rj740g.28m7r63dttya6gazmhoo.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=3t1yvbyla-rj740g.28m7r63dttya6gazmhoo.workers.dev&path=%2F%40Marisa_kristi#%F0%9F%87%AC%F0%9F%87%B7%20Greece%20%7C%20VLESS%20%7C%2083.147.216.223%3A4433%20%233
 vless://a798cca3-9d81-4767-994b-3b8a22a6e075@185.39.207.3:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%B7%20Greece%20%7C%20VLESS%20%7C%20185.39.207.3%3A443
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-4961
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@sys-runtime-errors.blog:443?sni=sys-runtime-errors.blog&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%AC%F0%9F%87%B7GR_1%7C1.3MB/s
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@sys-runtime-errors.blog:443?allowInsecure=0&sni=sys-runtime-errors.blog&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#GR_speednode_0021
