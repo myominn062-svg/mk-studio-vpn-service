@@ -68,8 +68,8 @@ Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`
 | PH | 26 | [`PH.txt`](./PH.txt) | [`PH.sub.txt`](./PH.sub.txt) |
 | IL | 24 | [`IL.txt`](./IL.txt) | [`IL.sub.txt`](./IL.sub.txt) |
 | MT | 24 | [`MT.txt`](./MT.txt) | [`MT.sub.txt`](./MT.sub.txt) |
+| SA | 23 | [`SA.txt`](./SA.txt) | [`SA.sub.txt`](./SA.sub.txt) |
 | ID | 22 | [`ID.txt`](./ID.txt) | [`ID.sub.txt`](./ID.sub.txt) |
-| SA | 22 | [`SA.txt`](./SA.txt) | [`SA.sub.txt`](./SA.sub.txt) |
 | GE | 21 | [`GE.txt`](./GE.txt) | [`GE.sub.txt`](./GE.sub.txt) |
 | BY | 18 | [`BY.txt`](./BY.txt) | [`BY.sub.txt`](./BY.sub.txt) |
 | JO | 17 | [`JO.txt`](./JO.txt) | [`JO.sub.txt`](./JO.sub.txt) |

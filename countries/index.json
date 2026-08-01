@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01 19:58:22 UTC",
+  "updated_at": "2026-08-01 21:05:03 UTC",
   "countries": [
     {
       "code": "UNKNOWN",
@@ -374,16 +374,16 @@
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/MT.sub.txt"
     },
     {
+      "code": "SA",
+      "count": 23,
+      "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/SA.txt",
+      "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/SA.sub.txt"
+    },
+    {
       "code": "ID",
       "count": 22,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/ID.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/ID.sub.txt"
-    },
-    {
-      "code": "SA",
-      "count": 22,
-      "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/SA.txt",
-      "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/SA.sub.txt"
     },
     {
       "code": "GE",
