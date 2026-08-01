@@ -1,12 +1,3 @@
-vless://5b8b759a-4c9d-4c4d-a3e3-220bb727eb6c@www.paypal.com:443?alpn=h2,http/1.1&encryption=none&extra={
-vless://603000e8-d0c4-44a8-9b10-9a114e7bfd30@d.mygoldiran.com:8443?encryption=none&security=tls&type=xhttp&headerType=none&path=/tv/1080&host=de1.mygoldiran.com&mode=auto&extra={
-vless://b7a28df9-fcfe-4667-89e5-980d4fe90ed0@d.mygoldiran.com:8443?encryption=none&security=tls&type=xhttp&headerType=none&path=/tv/1080&host=usa_multi.mygoldiran.com&mode=auto&extra={
-vless://e9b0ed2b-19e5-44d0-b120-1ed974ab38aa@ipc1.l1i.xyz:443?encryption=none&type=xhttp&security=tls&path=/_next/static/chunks/app/js/library/ebook-secure-bundle-9k4p7x-v7.6.min.js?v=prod&build=stable&cache=1826&host=dl2.vetdl.com&mode=auto&extra={
-vless://21061439-d61d-4bfd-9fcd-3da0f37fd300@ipc1.l1i.xyz:443?alpn=h3,h2,http/1.1&encryption=none&extra={
-vless://24b04275-3faf-49dc-995a-916433bce6a9@1.next.westlaw.com:8443?alpn=h2&encryption=none&extra={
-vless://5eb8b855-a286-438c-8bc7-09698b383655@securitytrails.com:8443?mode=auto&path=/forall&security=tls&alpn=h2,http/1.1&encryption=none&extra={
-vless://49fc7afe-82b2-4141-b548-08dd944e38ef@www1.n.ahmadhamoumi.fun:443?mode=auto&path=/random&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={
-vless://b18edde3-12d1-4e5d-820e-5e13a89e27a5@fastly.videobazi.com:443?encryption=none&security=tls&type=xhttp&headerType=none&path=/&host=dutschh.global.ssl.fastly.net&mode=auto&extra={
 vless://3438b3e0-d68b-4609-8e13-a24ee7bc6733@3x-ui-production-c69b.up.railway.app:443?mode=auto&path=/&security=tls&encryption=none&extra={
 vless://492f2fa0-92d7-48f6-90fc-000c6aea7607@d.mygoldiran.com:8443?encryption=none&security=tls&type=xhttp&headerType=none&path=/tv/1080&mode=auto&extra={
 vless://fc963b1f-ad85-4b73-93e3-0a5a0ec461da@securitytrails.com:443?mode=auto&path=/forall&security=tls&alpn=h2,http/1.1&encryption=none&extra={
@@ -998,3 +989,12 @@ vless://35d2bbc3-1661-4f92-a3e7-f7218b3383f8@188.72.103.3:443?alpn=h2,http/1.1&e
 vless://4e7a5d6d-a05e-485e-858b-d770215be9d1@188.72.103.3:443?encryption=none&type=xhttp&security=tls&host=ee-4.nodes.ac&path=/api/uploadFile/&mode=packet-up&extra={
 vless://8133f930-77f8-407d-954c-8d283727911f@188.72.103.3:443?encryption=none&type=xhttp&security=tls&host=grape.hotwigga.space&path=/content/assets/main-6e1a/&mode=packet-up&extra={
 vless://88b41c4c-1ecf-4695-b4e1-a4dc0a709ed3@188.72.103.3:443?encryption=none&type=xhttp&security=tls&host=cdnyan6.floatingcars.net&path=/media/live/&mode=packet-up&extra={
+vless://508e0106-b2b5-486e-971a-165cd5e10966@188.72.103.3:443?encryption=none&type=xhttp&security=tls&host=cdnyan6.floatingcars.net&path=/media/live/&mode=packet-up&extra={
+vless://acfb3b68-069b-47fc-a91d-92217d336fe7@188.72.103.3:443?encryption=none&type=xhttp&security=tls&host=cdnyan6.floatingcars.net&path=/media/live/&mode=packet-up&extra={
+vless://a6815c19-22a7-464c-b037-147b77120b72@188.72.103.3:443?alpn=h2,http/1.1&encryption=none&extra={
+vless://8b93994b-7266-4198-915e-5beaeee17d09@188.72.103.3:443?encryption=none&type=xhttp&security=tls&host=grape.hotwigga.space&path=/content/assets/main-6e1a/&mode=packet-up&extra={
+vless://b5cf50d9-5f9e-4c59-a44d-9352329cbc4d@188.72.103.3:443?encryption=none&type=xhttp&security=tls&host=grape.hotwigga.space&path=/content/assets/main-6e1a/&mode=packet-up&extra={
+vless://c9aaedd8-48a2-4a0d-991f-5af2742d6aea@188.72.103.3:443?alpn=h2,http/1.1&encryption=none&extra={
+vless://e9025f59-ab21-4eba-bec1-fd34c081d69a@188.72.103.3:443?encryption=none&type=xhttp&security=tls&host=shops.sale-stars.com&path=/live/media/manifest-7d2b9f&mode=packet-up&extra={
+vless://b1aac7f3-1479-47a7-aadc-c48f5a595419@188.72.103.3:443?encryption=none&type=xhttp&security=tls&host=cdnyan6.floatingcars.net&path=/media/live/&mode=packet-up&extra={
+vless://c16d9873-ab67-4ca2-a264-47fb864f1a55@188.72.103.3:443?encryption=none&type=xhttp&security=tls&host=cdnyan6.floatingcars.net&path=/media/live/&mode=packet-up&extra={

@@ -1,12 +1,3 @@
-vless://508e0106-b2b5-486e-971a-165cd5e10966@188.72.103.3:443?encryption=none&type=xhttp&security=tls&host=cdnyan6.floatingcars.net&path=/media/live/&mode=packet-up&extra={
-vless://acfb3b68-069b-47fc-a91d-92217d336fe7@188.72.103.3:443?encryption=none&type=xhttp&security=tls&host=cdnyan6.floatingcars.net&path=/media/live/&mode=packet-up&extra={
-vless://a6815c19-22a7-464c-b037-147b77120b72@188.72.103.3:443?alpn=h2,http/1.1&encryption=none&extra={
-vless://8b93994b-7266-4198-915e-5beaeee17d09@188.72.103.3:443?encryption=none&type=xhttp&security=tls&host=grape.hotwigga.space&path=/content/assets/main-6e1a/&mode=packet-up&extra={
-vless://b5cf50d9-5f9e-4c59-a44d-9352329cbc4d@188.72.103.3:443?encryption=none&type=xhttp&security=tls&host=grape.hotwigga.space&path=/content/assets/main-6e1a/&mode=packet-up&extra={
-vless://c9aaedd8-48a2-4a0d-991f-5af2742d6aea@188.72.103.3:443?alpn=h2,http/1.1&encryption=none&extra={
-vless://e9025f59-ab21-4eba-bec1-fd34c081d69a@188.72.103.3:443?encryption=none&type=xhttp&security=tls&host=shops.sale-stars.com&path=/live/media/manifest-7d2b9f&mode=packet-up&extra={
-vless://b1aac7f3-1479-47a7-aadc-c48f5a595419@188.72.103.3:443?encryption=none&type=xhttp&security=tls&host=cdnyan6.floatingcars.net&path=/media/live/&mode=packet-up&extra={
-vless://c16d9873-ab67-4ca2-a264-47fb864f1a55@188.72.103.3:443?encryption=none&type=xhttp&security=tls&host=cdnyan6.floatingcars.net&path=/media/live/&mode=packet-up&extra={
 vless://e2203185-9a02-4ab5-8799-da39417a91cc@188.72.103.3:443?encryption=none&type=xhttp&security=tls&host=grape.hotwigga.space&path=/content/assets/main-6e1a/&mode=packet-up&extra={
 vless://e2203185-9a02-4ab5-8799-da39417a91cc@78.41.111.242:443?encryption=none&type=xhttp&security=tls&host=s47314.cdn.ngenix.net&path=/api/v4/client/events/poll/&mode=packet-up&extra={
 vless://e2203185-9a02-4ab5-8799-da39417a91cc@93.93.88.28:443?encryption=none&type=xhttp&security=tls&host=s36828.cdn.ngenix.net&path=/api/v4/client/events/stream/&mode=packet-up&extra={
@@ -772,6 +763,7 @@ vless://5f7118ba-508c-4fba-a05f-02dae0ddc717@thomas.proxy.rlwy.net:58903?type=xh
 vless://8eb6ee09-6829-4c65-8108-a4d82b42d5fb@hayabusa.proxy.rlwy.net:26488?type=xhttp&encryption=none&path=/&host=&mode=auto&x_padding_bytes=100-1000&extra={
 vless://2bd46f77-25e9-4685-b88e-5d2f43ca5c37@hayabusa.proxy.rlwy.net:15439?mode=auto&path=/&security=reality&encryption=none&extra={
 vless://6340fa22-a129-4022-9f10-220100fb681f@thomas.proxy.rlwy.net:53345?mode=auto&path=/&security=reality&encryption=none&extra={
+vless://87270584-4e33-477e-a05b-6249bdf73bb2@hayabusa.proxy.rlwy.net:56485?encryption=none&security=reality&sni=is1-ssl.mzstatic.com&fp=chrome&pbk=sg3II2ugqoQiHvFsZLpAdTefAB2C7Z8e3A4YlB-iP0E&sid=34f825c4201b2f&spx=/&allowinsecure=0&type=xhttp&mode=auto&path=/&extra={
 vless://e99c1ab7-a2f2-4b36-95a0-f19870a9b723@hayabusa.proxy.rlwy.net:14658?type=xhttp&encryption=none&path=/&host=&mode=auto&x_padding_bytes=100-1000&extra={
 vless://7b4336e5-b8e6-482d-8174-25580d01b415@kodama.proxy.rlwy.net:20208?mode=auto&path=/&security=reality&encryption=none&extra={
 vless://c09bf522-5e87-4cfc-972c-921ad8146865@hayabusa.proxy.rlwy.net:14658?type=xhttp&encryption=none&path=/&host=&mode=auto&x_padding_bytes=100-1000&extra={
@@ -998,3 +990,11 @@ vless://0b726f13-79e0-476d-8e08-e1e5ac55d9cf@188.72.103.3:443?alpn=h2,http/1.1&e
 vless://f4e36297-fe7f-4398-99f0-51ed9ceea21c@188.72.103.3:443?alpn=h2,http/1.1&encryption=none&extra={
 vless://077dca1a-97ba-4ad8-a9ca-aa06a97fa0a6@H6.FASTSPEEDS.IR:2087?mode=auto&amp;path=/&amp;security=tls&amp;encryption=none&amp;extra={
 vless://a490e46d-e450-4c73-631f-920da539186c@s2.zynavo.ir:2087?mode=auto&amp;path=/BetForward&amp;security=tls&amp;alpn=h3,h2,http/1.1&amp;encryption=none&amp;extra={
+vless://026b8bd2-fa80-49ee-7790-c7d3b56667ac@s2.zynavo.ir:2087?mode=auto&amp;path=/BetForward&amp;security=tls&amp;alpn=h3,h2,http/1.1&amp;encryption=none&amp;extra={
+vless://76b7834c-75d4-4fce-a90b-2639739e8e3e@s1.streemmovie.shop:8443?mode=auto&amp;path=/streem&amp;security=reality&amp;encryption=mlkem768x25519plus.native.0rtt.hotsWvZPbyyNmCfg5BWRkmqwOet9BfmVK2pdUA-jMk0&amp;extra={
+vless://7877b451-3c1e-4fb3-81b0-32208c936659@188.72.103.3:443?alpn=h2,http/1.1&encryption=none&extra={
+vless://ebceb5fa-e498-43c2-939b-26e07d547ed9@lah2.crse7en.ir:20098?encryption=none&security=none&type=xhttp&headerType=none&path=/&mode=auto&extra={
+vless://4db03cf7-9bee-4a27-8ef2-bf95a778b96a@193.36.61.82:4430?encryption=none&extra={
+vless://35d03c55-7568-47e6-8cb6-86537b54a57d@alisa.xqnetwork.ir:222?mode=auto&path=/wxest&security=none&encryption=none&extra={
+vless://8d0718bd-5b4b-4e6a-92af-669a65740869@h.telegram-tirexnet.kdns.fr:24508?encryption=mlkem768x25519plus.native.0rtt.jg5htI_yozFJXcRSD4U2vql00DwtQWPYDbYlG-o4ozs&extra={
+vless://44de73bc-eb6d-429d-9c2f-ec0a6e4a6681@my.configfast.site:4013?security=none&encryption=none&host=bale.ai%2Cweb.splus.ir%2Cigap.net&headerType=http&type=tcp
