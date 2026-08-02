@@ -1,3 +1,8 @@
+trojan://e75dfa55-652d-4c56-88c9-a309e5612f5c@sg06.170203.xyz:443?type=tcp&security=tls&sni=sg06.170203.xyz&fp=chrome&alpn=http%2F1.1#%F0%9F%8C%90%20Unknown%20%7C%20TROJAN%20%7C%20sg06.170203.xyz%3A443
+trojan://d4435b69-3d08-d58a-919f-7f1707150ecb@91.195.240.94:443?security=tls&sni=hg.053111.xyz&allowInsecure=1&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TROJAN%20%7C%2091.195.240.94%3A443%20%231
+trojan://7f5e1438-0c8f-46d2-baf4-7025c264532e@91.195.240.12:443?security=tls&sni=hkjs.stablize.top&allowInsecure=1&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TROJAN%20%7C%2091.195.240.12%3A443
+trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443/?type=tcp&security=tls&sni=sto.freeguard.org&allowInsecure=1&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Stockholm%2C%20SE%20%7C%20TROJAN%20%7C%2045.91.171.116%3A443
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1%20Warsaw%2C%20PL%20%7C%20TROJAN%20%7C%2051.83.186.142%3A443
 trojan://88939272-790a-441f-b12b-8ce531aca810@65.108.205.61:443/?type=tcp&security=tls&sni=polo01.kctr2038.icu&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki%2C%20FI%20%7C%20TROJAN%20%7C%2065.108.205.61%3A443
 trojan://02926f9e-153a-42c8-8ecd-8fade7009ad1@144.22.250.122:443/?type=tcp&security=tls&sni=golinkwuxian.top#%F0%9F%87%A7%F0%9F%87%B7%20S%C3%A3o%20Paulo%2C%20BR%20%7C%20TROJAN%20%7C%20144.22.250.122%3A443
 trojan://b3d27d09-77fe-431d-9829-6eba7dce20b0@103.224.182.210:443?security=tls&sni=14.earths.team&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20San%20Diego%2C%20US%20%7C%20TROJAN%20%7C%20103.224.182.210%3A443%20%232
@@ -993,8 +998,3 @@ trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&insecur
 trojan://DdshthlezG@146.0.79.33:443/?type=tcp&security=tls&sni=us1.wxgqlfx.vip#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam%2C%20NL%20%7C%20TROJAN%20%7C%20146.0.79.33%3A443
 trojan://8r%3C%5B9%27l6hAO%238ZQi@23.88.97.94:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%20Nuremberg%2C%20DE%20%7C%20TROJAN%20%7C%2023.88.97.94%3A8443
 trojan://8r%3C%5B9%27l6hAO%238ZQi@46.225.31.235:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%20Nuremberg%2C%20DE%20%7C%20TROJAN%20%7C%2046.225.31.235%3A8443
-trojan://NQ26071394@35.181.65.111:443?type=tcp&security=tls&headerType=none&sni=ready-kangaroo.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%7C%20TROJAN%20%7C%2035.181.65.111%3A443
-trojan://8r%3C%5B9%27l6hAO%238ZQi@138.68.64.213:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20am%20Main%2C%20DE%20%7C%20TROJAN%20%7C%20138.68.64.213%3A2053
-trojan://rYuChHcwQZskq9E0zdoR@103.45.245.208:2053/?type=tcp&security=tls&sni=vpn5.rnmcnm.com&allowInsecure=1#%F0%9F%87%AA%F0%9F%87%B8%20Madrid%2C%20ES%20%7C%20TROJAN%20%7C%20103.45.245.208%3A2053%20%231
-trojan://8r%3C%5B9%27l6hAO%238ZQi@77.239.98.191:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20am%20Main%2C%20DE%20%7C%20TROJAN%20%7C%2077.239.98.191%3A8443
-trojan://8r%3C%5B9%27l6hAO%238ZQi@77.239.98.192:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20am%20Main%2C%20DE%20%7C%20TROJAN%20%7C%2077.239.98.192%3A8443
