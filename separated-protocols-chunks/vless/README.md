@@ -1,7 +1,7 @@
 # vless
 
 Chunk size: **1000** configs per file.
-Total chunks: **72** · Total configs: **71206**
+Total chunks: **72** · Total configs: **71334**
 
 Use these when a single large list is too heavy for your client.
 
@@ -78,5 +78,5 @@ Use these when a single large list is too heavy for your client.
 | `MK-Studio-Protocol-Chunks-vless-069.txt` | 1000 |
 | `MK-Studio-Protocol-Chunks-vless-070.txt` | 1000 |
 | `MK-Studio-Protocol-Chunks-vless-071.txt` | 1000 |
-| `MK-Studio-Protocol-Chunks-vless-072.txt` | 206 |
+| `MK-Studio-Protocol-Chunks-vless-072.txt` | 334 |
 
