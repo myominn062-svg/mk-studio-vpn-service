@@ -1,8 +1,6 @@
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&type=tcp&headerType=none#🇰🇿KZ_1013_@Surfboardv2ray
 vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AKZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659?note=@FreeOnlineVPN#🇰🇿
-vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp#🇰🇿
-vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&type=tcp&headerType=none#🇰🇿
 vless://a8160c2f-561b-4849-83d2-9900d1442c74@213.155.21.155:443?encryption=none&security=reality&sni=yandexcdn2.ookcdn.ru&fp=chrome&pbk=mKhrRSxp0MZo27bm_pJCUYeI7X_ubuLL1sSB2O9ZdHg&type=xhttp&path=%2F&mode=stream-up#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%7C%20VLESS%20%7C%20213.155.21.155%3A443
 vless://1d8916e2-681d-4b6a-959d-af466905e293@konor.realm-of-ultramar.ru:443?mode=gun&security=reality&encryption=none&pbk=y1nZCmF5sLnwKguQhm-1cz-Buo9wTzfw0SpKVmysdBk&fp=qq&type=grpc&serviceName=grpc&sni=konor.realm-of-ultramar.ru&sid=3b449af7febfe215#%F0%9F%87%B0%F0%9F%87%BF%20Almaty%2C%20KZ%20%7C%20VLESS%20%7C%20konor.realm-of-ultramar.ru%3A443
 vless://5d1c3271-6c63-4e92-bc42-d1fc4764ba45@s2.fishvpn.ru:443?&security=reality&pbk=Wn-cmjTn1_3oWYrEV0nWGZ7iOcSA9577EIb2-b0G8gI&sid=94ad67&fp=firefox&sni=s2.fishvpn.ru&type=grpc&serviceName=&mode=gun#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%7C%20VLESS%20%7C%20s2.fishvpn.ru%3A443
@@ -276,4 +274,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiS1og8J+HsPCfh78gfCBAUmF5ZGlrYWx4IHwgOUVEMkNFIiwiYWRk
 vmess://eyJ2IjoiMiIsInBzIjoiS1og8J+HsPCfh78gfCBAUmF5ZGlrYWx4IHwgNUNCQzA5IiwiYWRkIjoiNDUuODIuMzEuMTY0IiwicG9ydCI6MzM4OSwiaWQiOiI5YzA1MGE4Ni1kNjEyLTQ4ZjEtZWMzMi1lNTczZGYwOGExYjciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwIiwidGxzIjoiIn0=
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@kz.accesspoints.cloakify.app:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Z
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan
-vless://c2d71d05-dd22-4bd0-bb02-1fceaccad963@159.194.220.5:441?sni=ru-msk.sillyvpn.cc&fp=firefox&security=tls#%F0%9F%87%B0%F0%9F%87%BFKZ_1%7C1.6MB/s
+vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@185.126.93.15:443?sni=wx-deu-022.cdnphotos.org&fp=firefox&security=tls#%F0%9F%87%B0%F0%9F%87%BFKZ_1%7C1.4MB/s
+vless://c2d71d05-dd22-4bd0-bb02-1fceaccad963@159.194.220.5:441?sni=ru-msk.sillyvpn.cc&fp=firefox&security=tls#%F0%9F%87%B0%F0%9F%87%BFKZ_2%7C1.7MB/s
+vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@185.136.12.190:443?sni=deu683.lackerdeu.org&alpn=h2%2Chttp/1.1&fp=firefox&security=tls#%F0%9F%87%B0%F0%9F%87%BFKZ_3%7C1.7MB/s
+vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@wx-deu-022.cdnphotos.org:443?sni=wx-deu-022.cdnphotos.org&alpn=h2&fp=edge&security=tls#%F0%9F%87%B0%F0%9F%87%BFKZ_4%7C2.3MB/s
