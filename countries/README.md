@@ -9,7 +9,7 @@ Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`
 | UNKNOWN | 15000 | [`UNKNOWN.txt`](./UNKNOWN.txt) | [`UNKNOWN.sub.txt`](./UNKNOWN.sub.txt) |
 | US | 15000 | [`US.txt`](./US.txt) | [`US.sub.txt`](./US.sub.txt) |
 | RU | 10751 | [`RU.txt`](./RU.txt) | [`RU.sub.txt`](./RU.sub.txt) |
-| DE | 7726 | [`DE.txt`](./DE.txt) | [`DE.sub.txt`](./DE.sub.txt) |
+| DE | 7725 | [`DE.txt`](./DE.txt) | [`DE.sub.txt`](./DE.sub.txt) |
 | IR | 3908 | [`IR.txt`](./IR.txt) | [`IR.sub.txt`](./IR.sub.txt) |
 | NL | 2778 | [`NL.txt`](./NL.txt) | [`NL.sub.txt`](./NL.sub.txt) |
 | GB | 2145 | [`GB.txt`](./GB.txt) | [`GB.sub.txt`](./GB.sub.txt) |
@@ -18,9 +18,9 @@ Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`
 | SC | 1550 | [`SC.txt`](./SC.txt) | [`SC.sub.txt`](./SC.sub.txt) |
 | AE | 1186 | [`AE.txt`](./AE.txt) | [`AE.sub.txt`](./AE.sub.txt) |
 | FI | 1173 | [`FI.txt`](./FI.txt) | [`FI.sub.txt`](./FI.sub.txt) |
-| SG | 1143 | [`SG.txt`](./SG.txt) | [`SG.sub.txt`](./SG.sub.txt) |
+| SG | 1144 | [`SG.txt`](./SG.txt) | [`SG.sub.txt`](./SG.sub.txt) |
 | CY | 1070 | [`CY.txt`](./CY.txt) | [`CY.sub.txt`](./CY.sub.txt) |
-| HK | 946 | [`HK.txt`](./HK.txt) | [`HK.sub.txt`](./HK.sub.txt) |
+| HK | 947 | [`HK.txt`](./HK.txt) | [`HK.sub.txt`](./HK.sub.txt) |
 | CA | 883 | [`CA.txt`](./CA.txt) | [`CA.sub.txt`](./CA.sub.txt) |
 | JP | 870 | [`JP.txt`](./JP.txt) | [`JP.sub.txt`](./JP.sub.txt) |
 | PL | 609 | [`PL.txt`](./PL.txt) | [`PL.sub.txt`](./PL.sub.txt) |
@@ -67,7 +67,7 @@ Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`
 | IL | 25 | [`IL.txt`](./IL.txt) | [`IL.sub.txt`](./IL.sub.txt) |
 | MT | 24 | [`MT.txt`](./MT.txt) | [`MT.sub.txt`](./MT.sub.txt) |
 | GR | 23 | [`GR.txt`](./GR.txt) | [`GR.sub.txt`](./GR.sub.txt) |
-| SA | 22 | [`SA.txt`](./SA.txt) | [`SA.sub.txt`](./SA.sub.txt) |
+| SA | 23 | [`SA.txt`](./SA.txt) | [`SA.sub.txt`](./SA.sub.txt) |
 | CO | 20 | [`CO.txt`](./CO.txt) | [`CO.sub.txt`](./CO.sub.txt) |
 | ID | 18 | [`ID.txt`](./ID.txt) | [`ID.sub.txt`](./ID.sub.txt) |
 | JO | 17 | [`JO.txt`](./JO.txt) | [`JO.sub.txt`](./JO.sub.txt) |
