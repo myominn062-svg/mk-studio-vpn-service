@@ -2694,6 +2694,9 @@ vless://85bc5923-c4b6-4dd4-b83e-7c2e301fb253@ir.pasargadgames.ir:26131?encryptio
 trojan://1BARPLkaLl@45.130.22.70:32914?allowInsecure=1&sni=45.130.22.70#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
 hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&sni=www.microsoft.com#%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
-trojan://87961f9d-bee1-4377-826b-e169e7891c4f@104.21.84.3:443?allowInsecure=1&sni=yks-dd9.pages.dev&type=ws&host=yks-dd9.pages.dev&path=/#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C1.0MB/s
-trojan://32b2m2w7hsdd93z7@titandarkness.mooo.com:443?allowInsecure=0&type=grpc&serviceName=/43588/G43plZahWW#%F0%9F%87%B3%F0%9F%87%B1NL_4%7C1.8MB/s
+vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@88.218.44.4:8443?sni=download.nvidia.com&type=grpc&serviceName=TunService&fp=firefox&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C2.8MB/s
+vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:443?sni=download.nvidia.com&fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_2%7C2.1MB/s
+vless://d0a35d6a-de9c-489f-b4ba-89a0fb9b8714@ultra-01.serveroff.net:443?sni=ultra-01.serveroff.net&type=ws&host=&path=/assets/if0aeaHVLJQtXxuB-yMEHkSzHhm6wNS2fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_3%7C1.7MB/s
+vless://d0a35d6a-de9c-489f-b4ba-89a0fb9b8714@176.109.92.130:443?sni=ultra-01.serveroff.net&type=ws&host=&path=/assets/if0aeaHVLJQtXxuB-yMEHkSzHhm6wNS2fp=firefox&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL_7%7C1.7MB/s
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.166.124:62145?#%F0%9F%87%B3%F0%9F%87%B1NL_8%7C3.2MB/s
 trojan://1BARPLkaLl@45.130.22.70:32914?allowInsecure=1&sni=45.130.22.70#NL_speednode_0017

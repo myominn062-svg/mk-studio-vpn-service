@@ -7528,4 +7528,7 @@ vless://92929b0d-a473-4ea2-bba5-f651ea263872@91.107.244.55:8080?type=tcp&encrypt
 vless://6e968b94-e241-4924-9863-126de1c4c54e@static.kaghazgahi.xyz:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BwbDmx3D6hJAO6hctoEUIydBIFBMKSBGzY4QEGruA0o&security=reality&sid=89&sni=otto.de&spx=%2FXWXm4Yt3BR8UefQ&type=tcp#🆔soskeynet%20🔒%20VL-TCP-%20🇩🇪%20DE%20104ms
 vless://fabbb79a-013a-4c50-a0bb-ad8dd14149b8@178.128.202.10:54034?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2088ms
 hysteria2://DSgrpvSRAu@91.107.178.22:443?insecure=1&sni=www.refersion.com&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak#%F0%9F%87%A9%F0%9F%87%AA%20t-me-V2RayyNGvpn%20%F0%9F%87%A9%F0%9F%87%AA
-trojan://82dd5d38-1a65-42b9-835e-497b5b51eb84@172.67.78.22:443?allowInsecure=1&sni=kamonka.eu.org&type=ws&host=kamonka.eu.org&path=/#%F0%9F%87%A9%F0%9F%87%AADE_1%7C3.2MB/s
+hysteria2://dac7qy87teimbiq4@v.dianawmoon.dpdns.org:8443?insecure=0&alpn=h3&fp=unsafe&sni=&obfs=salamander&obfs-password=4693t4m6i5ebs8ha#%F0%9F%87%A9%F0%9F%87%AADE_4%7C3.9MB/s
+vless://5c192fd7-ef98-4112-a20c-129108fcd7e9@217.60.193.1:443?sni=ddc-akn.astralweb.tech&alpn=h2&fp=firefox&security=tls#%F0%9F%87%A9%F0%9F%87%AADE_1%7C1.3MB/s
+trojan://87961f9d-bee1-4377-826b-e169e7891c4f@104.25.242.132:443?allowInsecure=1&sni=yks-dd9.pages.dev&type=ws&host=yks-dd9.pages.dev&path=/#%F0%9F%87%A9%F0%9F%87%AADE_2%7C1.2MB/s
+vless://28863986-75fb-4b2f-b006-65e62194358d@usd.kosmosapp.ru:16923?sni=market.yandex.ru&type=grpc&serviceName=neurex&fp=safari&security=tls#%F0%9F%87%A9%F0%9F%87%AADE_5%7C3.9MB/s
