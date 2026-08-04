@@ -14,13 +14,13 @@ Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`
 | NL | 2606 | [`NL.txt`](./NL.txt) | [`NL.sub.txt`](./NL.sub.txt) |
 | GB | 2086 | [`GB.txt`](./GB.txt) | [`GB.sub.txt`](./GB.sub.txt) |
 | SE | 2073 | [`SE.txt`](./SE.txt) | [`SE.sub.txt`](./SE.sub.txt) |
-| FR | 1540 | [`FR.txt`](./FR.txt) | [`FR.sub.txt`](./FR.sub.txt) |
+| FR | 1539 | [`FR.txt`](./FR.txt) | [`FR.sub.txt`](./FR.sub.txt) |
 | SC | 1495 | [`SC.txt`](./SC.txt) | [`SC.sub.txt`](./SC.sub.txt) |
 | AE | 1201 | [`AE.txt`](./AE.txt) | [`AE.sub.txt`](./AE.sub.txt) |
-| SG | 1171 | [`SG.txt`](./SG.txt) | [`SG.sub.txt`](./SG.sub.txt) |
+| SG | 1170 | [`SG.txt`](./SG.txt) | [`SG.sub.txt`](./SG.sub.txt) |
 | FI | 1103 | [`FI.txt`](./FI.txt) | [`FI.sub.txt`](./FI.sub.txt) |
 | CY | 1053 | [`CY.txt`](./CY.txt) | [`CY.sub.txt`](./CY.sub.txt) |
-| HK | 1026 | [`HK.txt`](./HK.txt) | [`HK.sub.txt`](./HK.sub.txt) |
+| HK | 1019 | [`HK.txt`](./HK.txt) | [`HK.sub.txt`](./HK.sub.txt) |
 | JP | 912 | [`JP.txt`](./JP.txt) | [`JP.sub.txt`](./JP.sub.txt) |
 | CA | 906 | [`CA.txt`](./CA.txt) | [`CA.sub.txt`](./CA.sub.txt) |
 | PL | 617 | [`PL.txt`](./PL.txt) | [`PL.sub.txt`](./PL.sub.txt) |
@@ -66,8 +66,8 @@ Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`
 | GE | 30 | [`GE.txt`](./GE.txt) | [`GE.sub.txt`](./GE.sub.txt) |
 | IL | 27 | [`IL.txt`](./IL.txt) | [`IL.sub.txt`](./IL.sub.txt) |
 | NO | 27 | [`NO.txt`](./NO.txt) | [`NO.sub.txt`](./NO.sub.txt) |
+| SA | 26 | [`SA.txt`](./SA.txt) | [`SA.sub.txt`](./SA.sub.txt) |
 | GR | 25 | [`GR.txt`](./GR.txt) | [`GR.sub.txt`](./GR.sub.txt) |
-| SA | 25 | [`SA.txt`](./SA.txt) | [`SA.sub.txt`](./SA.sub.txt) |
 | ID | 21 | [`ID.txt`](./ID.txt) | [`ID.sub.txt`](./ID.sub.txt) |
 | CO | 18 | [`CO.txt`](./CO.txt) | [`CO.sub.txt`](./CO.sub.txt) |
 | JO | 17 | [`JO.txt`](./JO.txt) | [`JO.sub.txt`](./JO.sub.txt) |
@@ -76,9 +76,9 @@ Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`
 | PH | 15 | [`PH.txt`](./PH.txt) | [`PH.sub.txt`](./PH.sub.txt) |
 | AZ | 13 | [`AZ.txt`](./AZ.txt) | [`AZ.sub.txt`](./AZ.sub.txt) |
 | HR | 12 | [`HR.txt`](./HR.txt) | [`HR.sub.txt`](./HR.sub.txt) |
+| MX | 10 | [`MX.txt`](./MX.txt) | [`MX.sub.txt`](./MX.sub.txt) |
 | PT | 10 | [`PT.txt`](./PT.txt) | [`PT.sub.txt`](./PT.sub.txt) |
 | CP | 9 | [`CP.txt`](./CP.txt) | [`CP.sub.txt`](./CP.sub.txt) |
-| MX | 9 | [`MX.txt`](./MX.txt) | [`MX.sub.txt`](./MX.sub.txt) |
 | OM | 9 | [`OM.txt`](./OM.txt) | [`OM.sub.txt`](./OM.sub.txt) |
 | PA | 9 | [`PA.txt`](./PA.txt) | [`PA.sub.txt`](./PA.sub.txt) |
 | BH | 8 | [`BH.txt`](./BH.txt) | [`BH.sub.txt`](./BH.sub.txt) |
