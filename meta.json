@@ -1,8 +1,8 @@
 {
   "brand": "MK Studio VPN Service",
-  "updated_at": "2026-08-05 22:02:24 UTC",
-  "total_unique_raw": 92952,
-  "total_unique": 92952,
+  "updated_at": "2026-08-05 23:15:32 UTC",
+  "total_unique_raw": 92033,
+  "total_unique": 92033,
   "caps": {
     "max_all": 100000,
     "max_per_protocol": 100000,
@@ -11,33 +11,33 @@
     "chunk_lines": 1000
   },
   "counts": {
-    "all": 92952,
+    "all": 92033,
     "featured": 1500,
-    "vmess": 7209,
-    "vless": 71232,
-    "trojan": 4942,
-    "ss": 9095,
+    "vmess": 7176,
+    "vless": 70440,
+    "trojan": 4902,
+    "ss": 9036,
     "ssr": 24,
-    "hysteria2": 446,
+    "hysteria2": 451,
     "tuic": 4,
     "mixed_chunks": 93,
     "protocol_chunks": {
       "vmess": 8,
-      "vless": 72,
+      "vless": 71,
       "trojan": 5,
       "ss": 10,
       "ssr": 1,
       "hysteria2": 1,
       "tuic": 1
     },
-    "countries_detected": 60821,
+    "countries_detected": 60834,
     "countries_unknown": 15000,
     "country_files": 110
   },
   "countries": {
     "AE": 1167,
     "AF": 1,
-    "AL": 44,
+    "AL": 45,
     "AM": 33,
     "AR": 4,
     "AT": 154,
@@ -47,7 +47,7 @@
     "BE": 90,
     "BG": 90,
     "BH": 7,
-    "BR": 97,
+    "BR": 96,
     "BY": 15,
     "BZ": 35,
     "CA": 967,
@@ -60,7 +60,7 @@
     "CR": 1,
     "CY": 1071,
     "CZ": 135,
-    "DE": 7540,
+    "DE": 7539,
     "DK": 94,
     "EA": 2,
     "EC": 1,
@@ -68,9 +68,9 @@
     "EG": 1,
     "ES": 213,
     "EU": 1,
-    "FI": 926,
-    "FR": 1572,
-    "GB": 2050,
+    "FI": 935,
+    "FR": 1573,
+    "GB": 2051,
     "GE": 26,
     "GR": 25,
     "GT": 1,
@@ -81,13 +81,13 @@
     "IE": 131,
     "IL": 30,
     "IM": 43,
-    "IN": 110,
+    "IN": 111,
     "IQ": 14,
-    "IR": 3984,
+    "IR": 3983,
     "IS": 2,
     "IT": 351,
     "JO": 17,
-    "JP": 966,
+    "JP": 967,
     "KE": 2,
     "KG": 2,
     "KH": 3,
@@ -112,7 +112,7 @@
     "MX": 14,
     "MY": 65,
     "NG": 92,
-    "NL": 2555,
+    "NL": 2553,
     "NO": 28,
     "NZ": 32,
     "OM": 9,
@@ -125,18 +125,18 @@
     "PT": 11,
     "PY": 1,
     "RE": 1,
-    "RO": 361,
+    "RO": 362,
     "RS": 6,
-    "RU": 10141,
+    "RU": 10140,
     "SA": 26,
     "SC": 1516,
     "SE": 2083,
-    "SG": 1169,
+    "SG": 1172,
     "SI": 69,
     "SK": 3,
     "TH": 34,
-    "TR": 565,
-    "TW": 221,
+    "TR": 567,
+    "TW": 220,
     "UA": 193,
     "UM": 3,
     "US": 15000,
@@ -151,13 +151,13 @@
     {
       "name": "barry-far-all",
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt",
-      "added": 6445,
+      "added": 6452,
       "error": null
     },
     {
       "name": "epodonios-all",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
-      "added": 4618,
+      "added": 4625,
       "error": null
     },
     {
@@ -187,31 +187,31 @@
     {
       "name": "epodonios-vless",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt",
-      "added": 438,
+      "added": 22,
       "error": null
     },
     {
       "name": "epodonios-vmess",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vmess.txt",
-      "added": 26,
+      "added": 0,
       "error": null
     },
     {
       "name": "epodonios-trojan",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/trojan.txt",
-      "added": 17,
+      "added": 0,
       "error": null
     },
     {
       "name": "epodonios-ss",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/ss.txt",
-      "added": 25,
+      "added": 0,
       "error": null
     },
     {
       "name": "fastnodes-everything",
       "url": "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/everything.txt",
-      "added": 64659,
+      "added": 64665,
       "error": null
     },
     {
@@ -235,25 +235,25 @@
     {
       "name": "solispirit-all",
       "url": "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt",
-      "added": 8191,
+      "added": 7725,
       "error": null
     },
     {
       "name": "aliilapro-sub",
       "url": "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
-      "added": 1309,
+      "added": 1310,
       "error": null
     },
     {
       "name": "aliilapro-server",
       "url": "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/server.txt",
-      "added": 2,
+      "added": 0,
       "error": null
     },
     {
       "name": "mfuu-v2ray",
       "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray",
-      "added": 53,
+      "added": 58,
       "error": null
     },
     {
@@ -265,27 +265,27 @@
     {
       "name": "peasoft-nomorewalls",
       "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt",
-      "added": 138,
+      "added": 144,
       "error": null
     },
     {
       "name": "pawdroid-free-servers",
       "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
-      "added": 9,
+      "added": 10,
       "error": null
     }
   ],
   "files": {
-    "all_configs.txt": 92952,
-    "all_extracted_configs.txt": 92952,
-    "MK-Studio-VPN-All-Type.txt": 92952,
+    "all_configs.txt": 92033,
+    "all_extracted_configs.txt": 92033,
+    "MK-Studio-VPN-All-Type.txt": 92033,
     "MK-Studio-VPN.txt": 1500,
-    "vmess_configs.txt": 7209,
-    "vless_configs.txt": 71232,
-    "trojan_configs.txt": 4942,
-    "ss_configs.txt": 9095,
+    "vmess_configs.txt": 7176,
+    "vless_configs.txt": 70440,
+    "trojan_configs.txt": 4902,
+    "ss_configs.txt": 9036,
     "ssr_configs.txt": 24,
-    "hysteria2_configs.txt": 446,
+    "hysteria2_configs.txt": 451,
     "tuic_configs.txt": 4
   }
 }
