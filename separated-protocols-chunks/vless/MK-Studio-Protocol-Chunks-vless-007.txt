@@ -1,3 +1,5 @@
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.26.2.173:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#EPODONIOS
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.26.9.48:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#EPODONIOS
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@108.162.198.201:443?&security=tls&fp=chrome&sni=support.zoom.us.yxls.eu.cc&type=ws&headerType=none&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi#EPODONIOS
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@108.162.198.201:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#EPODONIOS
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@108.162.198.201:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#EPODONIOS
@@ -996,5 +998,3 @@ vless://9c444a99-da61-4d82-939f-c3dd8fb41e9b@176.108.252.240:9443/?type=tcp&encr
 vless://9cf40e8b-07e0-4e4d-a1f0-09b37ca5f5f1@vip-76.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#EPODONIOS
 vless://9cf40e8b-07e0-4e4d-a1f0-09b37ca5f5f1@vip-81.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#EPODONIOS
 vless://9d1d8e70-f9c9-d68d-b4bc-ef851a2f444b@dl12sw.cdn-ir-prime.shop:2053?mode=gun&security=reality&encryption=none&pbk=78B5e70YAkLUjm7Pg2OlJcPVUWIR-vjDh0u6enzqqUs&fp=chrome&spx=/&type=grpc&sni=yahoo.com&sid=f1e1aa97#EPODONIOS
-vless://9e1671d2-4092-4ae4-93b3-1d2db0f1a071@89.39.121.54:110?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&host=google.com&path=/vless/&security=none&type=ws#EPODONIOS
