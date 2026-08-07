@@ -1,9 +1,3 @@
-vless://4f5ad1e2-0ae3-40d1-9aef-8cbbeed8b511@7.zaravds.cfd:22500?security=reality&encryption=none&pbk=kbMQl4k3RhWszX6EkZVPRWtbUiRZDGePfTDeNkKCBiY&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=f3e0c9#EPODONIOS
-vless://4f748d73-afbe-4eb0-918b-e6684b30a1f8@62.238.56.217:41982?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://4f985006-8cb0-cf98-2c37-51c111780604@dl12sw.cdn-ir-prime.shop:2053?mode=gun&security=reality&encryption=none&pbk=78B5e70YAkLUjm7Pg2OlJcPVUWIR-vjDh0u6enzqqUs&fp=chrome&spx=/&type=grpc&sni=yahoo.com&sid=f1e1aa97#EPODONIOS
-vless://4fcb91d0-bbc4-480c-b362-216d4a79bb5c@fast.cd-tur4.ir:443?security=tls&encryption=none&insecure=0&host=pan3.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#EPODONIOS
-vless://4fdd2f81-c8ce-3b48-cf69-61db93c872e4@timazadi-production-177e.up.railway.app:443?path=/ws/4fdd2f81-c8ce-3b48-cf69-61db93c872e4&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=timazadi-production-177e.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=timazadi-production-177e.up.railway.app#EPODONIOS
-vless://500cdc83-b189-4d79-b06b-139c7972a57f@91.107.139.186:50417?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://5019d2ea-fce0-4d58-b91d-49c83a073132@138.197.178.178:56842?encryption=none&host=play.google.com&path=/&security=none&type=ws#EPODONIOS
 vless://5019d2ea-fce0-4d58-b91d-49c83a073132@138.197.178.178:56842?encryption=none&host=play.google.com&security=none&type=ws&path=/#EPODONIOS
 vless://5019d2ea-fce0-4d58-b91d-49c83a073132@138.197.178.178:56842?encryption=none&type=ws&host=play.google.com&path=/&packetEncoding=xudp#EPODONIOS
@@ -597,6 +591,7 @@ vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@one-for-all.levikogjgfdd.ir:443?pat
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@soskeynets.hoyes.cloudns.ch:2053/?type=ws&encryption=none&flow=&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch#EPODONIOS
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@soskeynets.hoyes.cloudns.ch:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#EPODONIOS
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@soskeynets.levikogjgfdd.ir:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
+vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@159.69.192.171:1234?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#EPODONIOS
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@159.69.192.171:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@167.233.233.187:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@168.119.156.100:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
@@ -998,3 +993,8 @@ vless://@𝐕𝟐𝐗𝐍𝐄𝐓@fastly.com:80?mode=auto&path=/&security=none&e
 vless://@𝐕𝟐𝐗𝐍𝐄𝐓@speedtest.net:80?mode=auto&path=/&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=imcreeprd3.global.ssl.fastly.net&fp=chrome&type=xhttp#EPODONIOS
 vless://AlfredConfig@104.17.107.134:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#EPODONIOS
 vless://AlfredConfig@159.246.55.251:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#EPODONIOS
+vless://AlfredConfig@164.38.155.135:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#EPODONIOS
+vless://AlfredConfig@188.114.97.6:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#EPODONIOS
+vless://AlfredConfig@199.181.197.176:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#EPODONIOS
+vless://AlfredConfig@199.232.237.245:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=alfred-13.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#EPODONIOS
+vless://AlfredConfig@45.130.125.66:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#EPODONIOS
