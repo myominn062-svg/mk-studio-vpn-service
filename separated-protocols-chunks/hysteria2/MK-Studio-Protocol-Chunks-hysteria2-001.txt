@@ -226,15 +226,11 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.ker
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#EPODONIOS
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org@freenettir&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#EPODONIOS
 hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
-hysteria2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@fr2.xiaoliyu.cyou:10086/?insecure=1&obfs=salamander&obfs-password=T@T*FP7uq=!t&sni=fr2.xiaoliyu.cyou#EPODONIOS
 hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52046?security=tls&obfs=salamander&obfs-password=7h5we82pkgh4qwid&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52062?security=tls&obfs=salamander&obfs-password=hg7rfvz151ftjh0w&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
+hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52000?security=tls&obfs=salamander&alpn=h3&obfs-password=gu74jg3ym0e21zco&insecure=1&sni=#EPODONIOS
 hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52000?security=tls&obfs=salamander&alpn=h3&obfs-password=gu74jg3ym0e21zco&insecure=1&sni=assets.gateway-stream.com#EPODONIOS
-hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52008?security=tls&obfs=salamander&alpn=h3&obfs-password=93lc6r07zfx4crct&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
-hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52012?security=tls&obfs=salamander&alpn=h3&obfs-password=sdx1qdzqgp8lcajn&insecure=0&sni=#EPODONIOS
-hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52012?security=tls&obfs=salamander&alpn=h3&obfs-password=sdx1qdzqgp8lcajn&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52031?security=tls&obfs=salamander&obfs-password=p61ckuavkc1s2hfl&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
-hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52050?security=tls&obfs=salamander&obfs-password=gv77dpwof5y7lm3n&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://kjq3gpn1xom1ted9@soskeynets.gateway-stream.com:52000?security=tls&obfs=salamander&alpn=h3&obfs-password=gu74jg3ym0e21zco&insecure=1&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://kjq3gpn1xom1ted9@soskeynets.gateway-stream.com:52031?security=tls&obfs=salamander&obfs-password=p61ckuavkc1s2hfl&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://p0IbtS8wCZ@91.107.174.32:25810?security=tls&obfs=salamander&obfs-password=T-ME-V2RayyNGvpn&insecure=1&pinSHA256=acc6131ab42c77173ab179a5ac5707ececd64387bfd8b34c531278b561485d27&sni=www.amd.com#EPODONIOS
@@ -998,3 +994,7 @@ hysteria2://eq64TMTbpcsf5LERJoKcMwwSHEzBEm@194.87.2.3:443?insecure=0&allowInsecu
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@194.87.227.237:2052?insecure=1&sni=de1.xiaoliyu.us#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Baxet%20Group%20%7C%20194.87.227.237
 hy2://67a88042-c5e7-4ec7-9515-82355536c5a7@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20St%20Petersburg%2C%20RU%20%C2%B7%20LLC%20Baxet%20%7C%20194.87.68.196%20%231
 hy2://8b64477c-5f07-4c33-b131-7300cf1217c4@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20St%20Petersburg%2C%20RU%20%C2%B7%20LLC%20Baxet%20%7C%20194.87.68.196%20%232
+hy2://76a50590-502f-4c52-bbb8-71777eae4a96@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20St%20Petersburg%2C%20RU%20%C2%B7%20LLC%20Baxet%20%7C%20194.87.68.196%20%233
+hy2://b8df3284-01d8-4e2f-87f2-362f815a7e54@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20St%20Petersburg%2C%20RU%20%C2%B7%20LLC%20Baxet%20%7C%20194.87.68.196%20%234
+hy2://10a679b6-789c-4047-974a-719454d1a571@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20St%20Petersburg%2C%20RU%20%C2%B7%20LLC%20Baxet%20%7C%20194.87.68.196%20%235
+hy2://0f22ac99-5526-4dfb-bd95-42df05cd94e7@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20St%20Petersburg%2C%20RU%20%C2%B7%20LLC%20Baxet%20%7C%20194.87.68.196%20%236
