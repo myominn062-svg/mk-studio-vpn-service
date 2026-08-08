@@ -1,7 +1,7 @@
 {
   "brand": "MK Studio VPN Service",
-  "updated_at": "2026-08-08 20:45:32 UTC",
-  "total_unique_raw": 138326,
+  "updated_at": "2026-08-08 21:21:45 UTC",
+  "total_unique_raw": 139056,
   "total_unique": 100000,
   "caps": {
     "max_all": 100000,
@@ -13,12 +13,12 @@
   "counts": {
     "all": 100000,
     "featured": 1500,
-    "vmess": 9067,
+    "vmess": 9128,
     "vless": 100000,
-    "trojan": 7583,
-    "ss": 5139,
+    "trojan": 7633,
+    "ss": 5195,
     "ssr": 24,
-    "hysteria2": 3061,
+    "hysteria2": 3064,
     "tuic": 15,
     "mixed_chunks": 100,
     "protocol_chunks": {
@@ -30,7 +30,7 @@
       "hysteria2": 4,
       "tuic": 1
     },
-    "countries_detected": 67124,
+    "countries_detected": 67133,
     "countries_unknown": 15000,
     "country_files": 112
   },
@@ -50,7 +50,7 @@
     "BR": 136,
     "BY": 16,
     "BZ": 61,
-    "CA": 1066,
+    "CA": 1071,
     "CH": 353,
     "CL": 9,
     "CN": 270,
@@ -60,16 +60,16 @@
     "CW": 1,
     "CY": 118,
     "CZ": 172,
-    "DE": 8164,
+    "DE": 8167,
     "DK": 98,
     "EA": 2,
     "EC": 1,
     "EE": 268,
     "ES": 212,
     "EU": 1,
-    "FI": 1144,
-    "FR": 1682,
-    "GB": 2547,
+    "FI": 1143,
+    "FR": 1681,
+    "GB": 2546,
     "GE": 20,
     "GR": 18,
     "GT": 1,
@@ -82,7 +82,7 @@
     "IM": 53,
     "IN": 160,
     "IQ": 9,
-    "IR": 4093,
+    "IR": 4094,
     "IS": 3,
     "IT": 237,
     "JO": 23,
@@ -130,10 +130,10 @@
     "RO": 400,
     "RS": 8,
     "RU": 12535,
-    "SA": 31,
+    "SA": 33,
     "SC": 1708,
     "SE": 2228,
-    "SG": 1328,
+    "SG": 1329,
     "SI": 79,
     "SK": 5,
     "TH": 36,
@@ -159,7 +159,7 @@
     {
       "name": "epodonios-all",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
-      "added": 4997,
+      "added": 4920,
       "error": null
     },
     {
@@ -189,25 +189,25 @@
     {
       "name": "epodonios-vless",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt",
-      "added": 1,
+      "added": 407,
       "error": null
     },
     {
       "name": "epodonios-vmess",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vmess.txt",
-      "added": 0,
+      "added": 32,
       "error": null
     },
     {
       "name": "epodonios-trojan",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/trojan.txt",
-      "added": 0,
+      "added": 29,
       "error": null
     },
     {
       "name": "epodonios-ss",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/ss.txt",
-      "added": 0,
+      "added": 21,
       "error": null
     },
     {
@@ -237,13 +237,13 @@
     {
       "name": "solispirit-all",
       "url": "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt",
-      "added": 8146,
+      "added": 8458,
       "error": null
     },
     {
       "name": "aliilapro-sub",
       "url": "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
-      "added": 1492,
+      "added": 1502,
       "error": null
     },
     {
@@ -255,7 +255,7 @@
     {
       "name": "mfuu-v2ray",
       "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray",
-      "added": 32,
+      "added": 26,
       "error": null
     },
     {
@@ -273,7 +273,7 @@
     {
       "name": "pawdroid-free-servers",
       "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
-      "added": 7,
+      "added": 10,
       "error": null
     }
   ],
@@ -282,12 +282,12 @@
     "all_extracted_configs.txt": 100000,
     "MK-Studio-VPN-All-Type.txt": 100000,
     "MK-Studio-VPN.txt": 1500,
-    "vmess_configs.txt": 9067,
+    "vmess_configs.txt": 9128,
     "vless_configs.txt": 100000,
-    "trojan_configs.txt": 7583,
-    "ss_configs.txt": 5139,
+    "trojan_configs.txt": 7633,
+    "ss_configs.txt": 5195,
     "ssr_configs.txt": 24,
-    "hysteria2_configs.txt": 3061,
+    "hysteria2_configs.txt": 3064,
     "tuic_configs.txt": 15
   }
 }
