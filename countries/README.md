@@ -18,12 +18,12 @@ Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`
 | SC | 1724 | [`SC.txt`](./SC.txt) | [`SC.sub.txt`](./SC.sub.txt) |
 | FR | 1647 | [`FR.txt`](./FR.txt) | [`FR.sub.txt`](./FR.sub.txt) |
 | CY | 1332 | [`CY.txt`](./CY.txt) | [`CY.sub.txt`](./CY.sub.txt) |
-| SG | 1328 | [`SG.txt`](./SG.txt) | [`SG.sub.txt`](./SG.sub.txt) |
+| SG | 1329 | [`SG.txt`](./SG.txt) | [`SG.sub.txt`](./SG.sub.txt) |
 | JP | 1257 | [`JP.txt`](./JP.txt) | [`JP.sub.txt`](./JP.sub.txt) |
 | HK | 1163 | [`HK.txt`](./HK.txt) | [`HK.sub.txt`](./HK.sub.txt) |
 | FI | 1104 | [`FI.txt`](./FI.txt) | [`FI.sub.txt`](./FI.sub.txt) |
 | CA | 1080 | [`CA.txt`](./CA.txt) | [`CA.sub.txt`](./CA.sub.txt) |
-| KR | 628 | [`KR.txt`](./KR.txt) | [`KR.sub.txt`](./KR.sub.txt) |
+| KR | 627 | [`KR.txt`](./KR.txt) | [`KR.sub.txt`](./KR.sub.txt) |
 | PL | 557 | [`PL.txt`](./PL.txt) | [`PL.sub.txt`](./PL.sub.txt) |
 | TR | 534 | [`TR.txt`](./TR.txt) | [`TR.sub.txt`](./TR.sub.txt) |
 | RO | 406 | [`RO.txt`](./RO.txt) | [`RO.sub.txt`](./RO.sub.txt) |
