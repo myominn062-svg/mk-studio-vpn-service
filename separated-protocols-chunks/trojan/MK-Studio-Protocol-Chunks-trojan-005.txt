@@ -1,11 +1,3 @@
-trojan://NISHIKUITAN111@198.41.193.136:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20198.41.193.136
-trojan://NISHIKUITAN111@198.41.193.191:443/?type=tcp&security=tls#%F0%9F%8C%90%20Cloudflare%20%7C%20198.41.193.191
-trojan://NISHIKUITAN111@198.41.193.49:443/?type=tcp&security=tls#%F0%9F%8C%90%20Cloudflare%20%7C%20198.41.193.49
-trojan://NISHIKUITAN111@198.41.195.245:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20198.41.195.245
-trojan://NISHIKUITAN111@198.41.196.208:443/?type=tcp&security=tls#%F0%9F%8C%90%20Cloudflare%20%7C%20198.41.196.208
-trojan://bpb-trojan@198.41.197.94:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20198.41.197.94
-trojan://NISHIKUITAN111@198.41.198.25:443/?type=tcp&security=tls#%F0%9F%8C%90%20Cloudflare%20%7C%20198.41.198.25
-trojan://blue2024@198.41.200.142:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%8C%90%20Cloudflare%20%7C%20198.41.200.142
 trojan://NISHIKUITAN111@198.41.201.193:443/?type=tcp&security=tls#%F0%9F%8C%90%20Cloudflare%20%7C%20198.41.201.193
 trojan://bpb-trojan@198.41.202.175:443?type=ws&sni=bpb.my79801.com&path=/tr&host=bpb.my79801.com#%F0%9F%8C%90%20Cloudflare%20%7C%20198.41.202.175%20%231
 trojan://bpb-trojan@198.41.202.175:443/?type=tcp&security=tls&sni=bpb.my79801.com#%F0%9F%8C%90%20Cloudflare%20%7C%20198.41.202.175%20%232
@@ -998,3 +990,11 @@ trojan://2c9fc6cc-3834-4e3d-a4e5-1b1a63929d0f@78.17.8.23:443?path=%2Fvpn&securit
 trojan://8r%3C%5B9%27l6hAO%238ZQi@78.40.196.36:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%C2%B7%20Servers%20Tech%20Fz%20%7C%2078.40.196.36
 trojan://Aimer@8.20.125.1:443/?type=tcp&security=tls&sni=ngepo.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20San%20Francisco%2C%20US%20%C2%B7%20Cloudflare%20%7C%208.20.125.1
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@8.219.154.217:8443/?type=tcp&security=tls&sni=hhcm.hhxaf.cc.cd#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%C2%B7%20Alibaba%20%28US%29%20Technology%E2%80%A6%20%7C%208.219.154.217%20%232
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@8.219.155.125:443/?type=tcp&security=tls&sni=jy.hhllfly.kdns.fr#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%C2%B7%20Alibaba%20%28US%29%20Technology%E2%80%A6%20%7C%208.219.155.125%20%231
+trojan://8r%3C%5B9%27l6hAO%238ZQi@8.221.126.227:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Alibaba%20%28US%29%20Technology%E2%80%A6%20%7C%208.221.126.227
+trojan://8r%3C%5B9%27l6hAO%238ZQi@8.34.146.253:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20Cloudflare%20%7C%208.34.146.253
+trojan://Nova-Proxy@8.39.125.191:2083?path=%2F&amp;security=tls&amp;insecure=1&amp;host=spring-queen-a95f.cewon19053.workers.dev&amp;type=ws&amp;allowInsecure=1&amp;sni=spring-queen-a95f.cewon19053.workers.dev#%F0%9F%8C%90%20Cloudflare%20%7C%208.39.125.191
+trojan://humanity@8.6.112.0:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%8C%90%20Cloudflare%20%7C%208.6.112.0%20%236
+trojan://humanity@8.6.112.0:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Cloudflare%20%7C%208.6.112.0%20%237
+trojan://humanity@8.6.112.0:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com#%F0%9F%8C%90%20Cloudflare%20%7C%208.6.112.0%20%238
+trojan://8r%3C%5B9%27l6hAO%238ZQi@8.6.112.0:2096?path=%2Ftr&amp;security=tls&amp;insecure=0&amp;host=Koma-YT.PAGeS.Dev&amp;type=ws&amp;allowInsecure=0&amp;sni=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20Cloudflare%20%7C%208.6.112.0%20%23107
