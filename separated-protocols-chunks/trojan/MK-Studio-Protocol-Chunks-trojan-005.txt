@@ -1,3 +1,4 @@
+trojan://NISHIKUITAN111@198.41.201.193:443/?type=tcp&security=tls#%F0%9F%8C%90%20Cloudflare%20%7C%20198.41.201.193
 trojan://bpb-trojan@198.41.202.175:443/?type=tcp&security=tls&sni=bpb.my79801.com#%F0%9F%8C%90%20Cloudflare%20%7C%20198.41.202.175%20%231
 trojan://bpb-trojan@198.41.202.175:443?type=ws&sni=bpb.my79801.com&path=/tr&host=bpb.my79801.com#%F0%9F%8C%90%20Cloudflare%20%7C%20198.41.202.175%20%232
 trojan://bpb-trojan@198.41.202.175:443/?type=ws&host=bpb.my79801.com&path=%2Ftr&security=tls&sni=bpb.my79801.com#%F0%9F%8C%90%20Cloudflare%20%7C%20198.41.202.175%20%233
@@ -997,4 +998,3 @@ trojan://3763495982449565696@77.73.70.64:443/?type=tcp&security=tls&sni=relaxed-
 trojan://NISHIKUITAN111@77.75.199.86:443/?type=ws&host=za.ylks.xyz&path=%2F%2F&security=tls&sni=za.ylks.xyz&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%C2%B7%20Cloudflare%20London%20%7C%2077.75.199.86
 trojan://yooog56ts3ymtpp5@78.17.103.162:443?allowInsecure=0&sni=driveservice.mooo.com&type=grpc&serviceName=%2F16835%2FCba1c1ZOir#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%C2%B7%20Snowd%20Security%20OU%20%7C%2078.17.103.162%20%231
 trojan://yooog56ts3ymtpp5@78.17.103.162:443?security=tls&sni=driveservice.mooo.com&type=grpc&serviceName=%2F16835%2FCba1c1ZOir&allowInsecure=0#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%C2%B7%20Snowd%20Security%20OU%20%7C%2078.17.103.162%20%232
-trojan://2c9fc6cc-3834-4e3d-a4e5-1b1a63929d0f@78.17.8.23:443?path=%2Fvpn&security=tls&insecure=0&type=ws&allowInsecure=0&sni=platyscelis.duckdns.org#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%C2%B7%20Iphoster%20Ou%20%7C%2078.17.8.23
