@@ -1,3 +1,8 @@
+vless://bdba330b-dfc6-0023-93e4-b10f906bf4fb@185.86.145.253:443?security=reality&encryption=none&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&headerType=none&fp=chrome&type=tcp&sni=api-maps.yandex.ru#EPODONIOS
+vless://bdba330b-dfc6-4b66-93e4-b10f906bf4fb@104.167.197.22:443?security=reality&encryption=none&pbk=Td6pxpk4V5hmDKU7_K0zV64VzUL1mEtI-F_6TCHNwjE&headerType=none&fp=chrome&type=tcp&sni=monalisgame.com#EPODONIOS
+vless://bdba330b-dfc6-4b66-93e4-b10f906bf4fb@5.231.18.206:443?encryption=none&type=tcp&security=reality&headerType=none&sni=monalisgame.com&fp=chrome&insecure=1&allowInsecure=1&pbk=Td6pxpk4V5hmDKU7_K0zV64VzUL1mEtI-F_6TCHNwjE#EPODONIOS
+vless://bdba330b-dfc6-4b66-93e4-b10f906bf4fb@5.231.18.206:443?security=reality&encryption=none&pbk=Td6pxpk4V5hmDKU7_K0zV64VzUL1mEtI-F_6TCHNwjE&headerType=none&fp=chrome&type=tcp&sni=monalisgame.com#EPODONIOS
+vless://be02a7f9-9ce9-49a7-bbd7-b978dca372ed@free-de-02.la-la-land.top:443/?type=tcp&encryption=none&flow=&sni=free-de-02.la-la-land.top&fp=chrome&security=reality&pbk=uRuW2K9JNw64jgAVEdV39NMh_udtVD6xxEV-dQFATHY&sid=#EPODONIOS
 vless://be32aec6-9dde-4365-b574-2e0023462084@141.11.45.214:8080?path=/&security=none&encryption=none&host=net.hostingdata.ir&type=ws#EPODONIOS
 vless://be4494a3-9544-4eb6-b166-5a733706d505@89.105.210.100:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=ru-1.videoproeditor.com&type=tcp#EPODONIOS
 vless://be4494a3-9544-4eb6-b166-5a733706d505@89.105.210.102:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=ru-1.videoproeditor.com&type=tcp#EPODONIOS
@@ -993,8 +998,3 @@ vless://ff454950-3922-4398-8cfe-7d53f5687901@139.59.172.53:34619?encryption=none
 vless://ff454950-3922-4398-8cfe-7d53f5687901@139.59.172.53:34619?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://ff454950-3922-4398-8cfe-7d53f5687901@161.35.201.185:34619?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#EPODONIOS
 vless://ff454950-3922-4398-8cfe-7d53f5687901@161.35.201.185:34619?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
-vless://ff454950-3922-4398-8cfe-7d53f5687901@161.35.201.185:34619?encryption=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
-vless://ff454950-3922-4398-8cfe-7d53f5687901@161.35.201.185:34619?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://ff4873f3-ed68-7059-926c-6958fde22478@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/ff4873f3-ed68-7059-926c-6958fde22478#EPODONIOS
-vless://ff4873f3-ed68-7059-926c-6958fde22478@tmesubgift1.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift1.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift1.up.railway.app&path=/ws/ff4873f3-ed68-7059-926c-6958fde22478#EPODONIOS
-vless://ff8e7195-0ff1-ee52-f67c-33e4c1e768cf@rokervpn-production-bbae.up.railway.app:443?encryption=none&security=tls&type=ws&host=rokervpn-production-bbae.up.railway.app&path=/ws/ff8e7195-0ff1-ee52-f67c-33e4c1e768cf&sni=rokervpn-production-bbae.up.railway.app&fp=chrome&alpn=http/1.1#EPODONIOS
