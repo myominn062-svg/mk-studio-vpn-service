@@ -248,9 +248,11 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.ker
 hysteria2://gLkkfesaSD@156.226.175.33:40308?fastopen=0&insecure=1&obfs=salamander&obfs-password=Jdb392b3j838dkdn3j$$ueh#EPODONIOS
 hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52046?security=tls&obfs=salamander&obfs-password=7h5we82pkgh4qwid&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52062?security=tls&obfs=salamander&obfs-password=hg7rfvz151ftjh0w&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
+hysteria2://k1dom6dyqelryllv@assets.gateway-stream.com:52010?security=tls&obfs=salamander&alpn=h3&obfs-password=ntygj5lde0e7tm1m&insecure=1&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://k1dom6dyqelryllv@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://k1dom6dyqelryllv@assets.gateway-stream.com:52050?security=tls&obfs=salamander&alpn=h3&obfs-password=gv77dpwof5y7lm3n&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://k1dom6dyqelryllv@assets.gateway-stream.com:52076?security=tls&obfs=salamander&alpn=h3&obfs-password=zducqb7ro143x0t2&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
+hysteria2://k1dom6dyqelryllv@soskeynets.gateway-stream.com:52010?security=tls&obfs=salamander&alpn=h3&obfs-password=ntygj5lde0e7tm1m&insecure=1&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://k1dom6dyqelryllv@soskeynets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52000?security=tls&fm={"udp":[{"settings":{"password":"gu74jg3ym0e21zco"},"type":"salamander"}]}&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52002?security=tls&fm={"udp":[{"settings":{"password":"ielzukpwth087afx"},"type":"salamander"}]}&sni=assets.gateway-stream.com#EPODONIOS
@@ -996,5 +998,3 @@ hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.90.61.28:8443?sni=hopp-legen
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?sni=net2025.afsharidempire.uk&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam%2C%20NL%20%C2%B7%20The%20Constant%20Company%20%7C%20185.92.220.240
 hy2://628e821d-5151-48d6-8af3-e89cd74e6f4d@185.92.222.227:12454?sni=hdfyhys2.foriran.trade&obfs=salamander&obfs-password=Y7aunTuPJZBCfiDIm#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam%2C%20NL%20%C2%B7%20The%20Constant%20Company%20%7C%20185.92.222.227
 hy2://03bfcbaa-2cb5-42dc-9d8c-7a70dfffb451@188.253.6.117:5555?sni=tw01.poke-mon.xyz#%F0%9F%87%B9%F0%9F%87%BC%20Taipei%2C%20TW%20%C2%B7%20Akari%20Networks%20%7C%20188.253.6.117
-hy2://bc97f674-c578-4940-9234-0a1da46041b9@188.68.234.53:24662?insecure=1&sni=www.bing.com#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%C2%B7%20sprint%20%7C%20188.68.234.53
-hy2://ffed9ff9-ec0f-4c97-854b-369e2931a777@192.124.176.87:9781?obfs=salamander&obfs-password=ZTg1ZWVjNjAxZmRlNGI5MA%3D%3D&insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%C2%B7%20Baxet%20Group%20%7C%20192.124.176.87
