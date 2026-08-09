@@ -1,3 +1,4 @@
+trojan://i1j2k3l4-5678-9bcd-0abc-1234abcdef56@104.21.25.100:443/?type=tcp&security=tls&sni=trojan.workers.dev#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.25.100
 trojan://j3k4l5m6-7890-1bcd-2abc-3456abcdef78@104.21.25.110:443/?type=tcp&security=tls&sni=trojan.workers.dev&allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.25.110
 trojan://k5l6m7n8-9012-3bcd-4abc-5678abcdef90@104.21.25.130:443/?type=tcp&security=tls&sni=trojan.workers.dev#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.25.130
 trojan://m9n0o1p2-3456-7bcd-8abc-9012abcdef34@104.21.25.140:443/?type=tcp&security=tls&sni=trojan.workers.dev#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.25.140
@@ -997,4 +998,3 @@ trojan://MiTiVPN@151.101.194.172:80?type=ws&security=none&path=%2F---%40MiTiVPN-
 trojan://d6b6ea41-0950-4611-8246-224583e4ed1e@151.101.194.228:443?security=tls&type=ws&sni=pscresearch.faculty.ucdavis.edu&path=ws/?ed=2048&host=uhc6rhiubu.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Fastly%20%7C%20151.101.194.228%20%238
 trojan://f8bb4ae1-2358-4a76-ab75-2a6bc94272d6@151.101.194.228:443/?type=ws&host=hgc6rct87gy.com&security=tls&sni=pscresearch.faculty.ucdavis.edu#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Fastly%20%7C%20151.101.194.228%20%239
 trojan://29e0206a-2cef-4c8d-aa4b-dd7a43748167@151.101.2.133:443/?type=ws&host=fonmelo.com&security=tls&sni=zmaoz.faculty.ucdavis.edu.#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Fastly%20%7C%20151.101.2.133%20%237
-trojan://MITIVPN@151.101.243.172:80?security=none#%F0%9F%87%AE%F0%9F%87%B9%20Milan%2C%20IT%20%C2%B7%20Fastly%20%7C%20151.101.243.172%20%231
