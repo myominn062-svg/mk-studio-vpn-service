@@ -1,3 +1,10 @@
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BC%20New%20Taipei%20City%2C%20TW%20%C2%B7%20Data%20Communication%E2%80%A6%20%7C%20official.taipeicitygovernment.kiev.ua
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BC%20New%20Taipei%20City%2C%20TW%20%C2%B7%20Data%20Communication%E2%80%A6%20%7C%20official.taipeicitygovernment.kyiv.ua
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BC%20Taipei%2C%20TW%20%C2%B7%20Data%20Communication%E2%80%A6%20%7C%20official.taipeicitygovernment.net.ua
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BC%20Xizhi%20District%2C%20TW%20%C2%B7%20Data%20Communication%E2%80%A6%20%7C%20official.taipeicitygovernment.org.ua
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%C2%B7%20SAKURA%20Internet%20%7C%20official.tokyometropolis.chernigov.ua
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%C2%B7%20SAKURA%20Internet%20%7C%20official.tokyometropolis.ivano-frankivsk.ua
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%C2%B7%20SAKURA%20Internet%20%7C%20official.tokyometropolis.kharkov.ua
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kherson.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%C2%B7%20SAKURA%20Internet%20%7C%20official.tokyometropolis.kherson.ua
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%C2%B7%20SAKURA%20Internet%20%7C%20official.tokyometropolis.kiev.ua
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053/?type=tcp&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%C2%B7%20SAKURA%20Internet%20%7C%20official.tokyometropolis.kyiv.ua
@@ -991,10 +998,3 @@ trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-sg.05vr9nyqg5.download:13030?
 trojan://5e2ce79c-170e-484a-8802-40584a1a3a12@naiu-us.05vr9nyqg5.download:13020?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com&amp;type=tcp&amp;headerType=none#%F0%9F%8C%90%20Unknown%20%7C%20naiu-us.05vr9nyqg5.download%20%232
 trojan://nodes-b211f28a@node-de-1.v2sv.top:2083?type=tcp&amp;headerType=none&amp;security=tls&amp;sni=node-de-1.v2sv.top#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20Tom%20Gewiese%20%7C%20node-de-1.v2sv.top%20%232
 trojan://nodes-b211f28a@node-fr-1.v2sv.top:2083?type=tcp&amp;headerType=none&amp;security=tls&amp;sni=node-fr-1.v2sv.top#%F0%9F%8C%90%20Unknown%20%7C%20node-fr-1.v2sv.top%20%232
-trojan://nodes-b211f28a@node-id-1.v2sv.top:2083?type=tcp&amp;headerType=none&amp;security=tls&amp;sni=node-id-1.v2sv.top#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20%C2%B7%20PT.%20Media%20Antar%20Nusa%20%7C%20node-id-1.v2sv.top%20%232
-trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083?type=tcp&amp;headerType=none&amp;security=tls&amp;sni=node-tr-1.v2sv.top#%F0%9F%87%B9%F0%9F%87%B7%20Istanbul%2C%20TR%20%C2%B7%20Hostigger%20%7C%20node-tr-1.v2sv.top%20%232
-trojan://nodes-b211f28a@node-us-2.v2sv.top:2083?type=tcp&amp;headerType=none&amp;security=tls&amp;sni=node-us-2.v2sv.top#%F0%9F%87%BA%F0%9F%87%B8%20Las%20Vegas%2C%20US%20%C2%B7%20FranTech%20Solutions%20%7C%20node-us-2.v2sv.top%20%232
-trojan://an70aOaIjcCF43gOlSB6eKER53Z38DYDx8l9RCSCpYTwXS3pueyAqyFZx2zDNA@plowman.meijireform.com:443?security=tls&amp;type=tcp&amp;headerType=none#%F0%9F%8C%90%20Unknown%20%7C%20plowman.meijireform.com%20%231
-trojan://NUeBvQHox0BmnHpu@pplaca05.top:443?security=tls&amp;sni=pplaca05.top&amp;type=tcp&amp;headerType=none#%F0%9F%8C%90%20Unknown%20%7C%20pplaca05.top%20%231
-trojan://NUeBvQHox0BmnHpu@pplaca05.top:443?security=tls&amp;sni=pplaca05.top&amp;type=tcp&amp;headerType=none#%F0%9F%8C%90%20Unknown%20%7C%20pplaca05.top%20%232
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls&amp;type=tcp&amp;headerType=none#%F0%9F%8C%90%20Unknown%20%7C%20sg02.trojanyyds.xyz%20%231
