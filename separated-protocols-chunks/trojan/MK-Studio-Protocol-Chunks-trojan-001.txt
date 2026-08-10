@@ -916,14 +916,6 @@ trojan://ND91608427@star-kiwi.rooster465.autos:443?security=tls&sni=star-kiwi.ro
 trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&sni=great-krill.rooster465.autos#EPODONIOS
 trojan://ND91608427@3.64.59.246:443?security=tls&sni=gentle-raptor.rooster465.autos#EPODONIOS
 trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?security=tls&sni=www.nintendogames.net#EPODONIOS
-trojan://ND91608427@ace-starling.rooster465.autos:443?allowInsecure=1&sni=ace-starling.rooster465.autos#EPODONIOS
-trojan://ND91608427@chief-bluegill.rooster465.autos:443?allowInsecure=1&sni=chief-bluegill.rooster465.autos#EPODONIOS
-trojan://ND91608427@communal-sunbird.rooster465.autos:443?allowInsecure=1&sni=communal-sunbird.rooster465.autos#EPODONIOS
-trojan://ND91608427@devoted-heron.rooster465.autos:443?allowInsecure=1&sni=devoted-heron.rooster465.autos#EPODONIOS
-trojan://ND91608427@healthy-louse.rooster465.autos:443?allowInsecure=1&sni=healthy-louse.rooster465.autos#EPODONIOS
-trojan://ND91608427@nearby-egret.rooster465.autos:443?allowInsecure=1&sni=nearby-egret.rooster465.autos#EPODONIOS
-trojan://QV31589740@great-krill.rooster465.autos:443?allowInsecure=0#EPODONIOS
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#EPODONIOS
 trojan://09a7c68d-3a50-4fa8-b673-9f45214ec951@0.ir0.ir:443/?type=ws&amp;host=0.ir0.ir&amp;path=%2FKCuP73wj9ek6TobBgETclYD&amp;security=tls&amp;sni=0.ir0.ir&amp;alpn=http%2F1.1&amp;fp=chrome#%F0%9F%8C%90%20Unknown%20%7C%200.ir0.ir%20%231
 trojan://85bce006-4885-11ee-8792-f23c9164ca5d@004282c1-sbdj40-sdlngq-1n7jq.ru.z7zi.com:1007?security=tls&type=tcp#%F0%9F%8C%90%20Unknown%20%7C%20004282c1-sbdj40-sdlngq-1n7jq.ru.z7zi.com%20%231
 trojan://85bce006-4885-11ee-8792-f23c9164ca5d@004282c1-sbdj40-sdlngq-1n7jq.ru.z7zi.com:1007?allowInsecure=0#%F0%9F%8C%90%20Unknown%20%7C%20004282c1-sbdj40-sdlngq-1n7jq.ru.z7zi.com%20%232
@@ -998,3 +990,11 @@ trojan://Aimer@103.116.7.100:2087?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h
 trojan://Aimer@103.116.7.100:2087/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20Redwood%20City%2C%20US%20%C2%B7%20Cloudflare%20London%20%7C%20103.116.7.100%20%233
 trojan://Aimer@103.116.7.103:2083?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#%F0%9F%87%BA%F0%9F%87%B8%20Redwood%20City%2C%20US%20%C2%B7%20Cloudflare%20London%20%7C%20103.116.7.103%20%231
 trojan://Aimer@103.116.7.103:2083?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%BA%F0%9F%87%B8%20Redwood%20City%2C%20US%20%C2%B7%20Cloudflare%20London%20%7C%20103.116.7.103%20%232
+trojan://Aimer@103.116.7.133:2083/?type=ws&host=epmo.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=epmo.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20Redwood%20City%2C%20US%20%C2%B7%20Cloudflare%20London%20%7C%20103.116.7.133%20%231
+trojan://Aimer@103.116.7.133:2083?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20Redwood%20City%2C%20US%20%C2%B7%20Cloudflare%20London%20%7C%20103.116.7.133%20%232
+trojan://Aimer@103.116.7.152:2096/?type=tcp&security=tls&sni=epccs.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20Redwood%20City%2C%20US%20%C2%B7%20Cloudflare%20London%20%7C%20103.116.7.152%20%231
+trojan://Aimer@103.116.7.189:443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20Redwood%20City%2C%20US%20%C2%B7%20Cloudflare%20London%20%7C%20103.116.7.189%20%231
+trojan://Aimer@103.116.7.189:443?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20Redwood%20City%2C%20US%20%C2%B7%20Cloudflare%20London%20%7C%20103.116.7.189%20%232
+trojan://Aimer@103.116.7.189:443?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%BA%F0%9F%87%B8%20Redwood%20City%2C%20US%20%C2%B7%20Cloudflare%20London%20%7C%20103.116.7.189%20%233
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@103.116.7.20:443/?type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&security=tls&sni=icecream.955850.xyz&alpn=h3&fp=randomized#%F0%9F%87%BA%F0%9F%87%B8%20Redwood%20City%2C%20US%20%C2%B7%20Cloudflare%20London%20%7C%20103.116.7.20
+trojan://Aimer@103.116.7.230:443/?type=tcp&security=tls&sni=agepj.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20Redwood%20City%2C%20US%20%C2%B7%20Cloudflare%20London%20%7C%20103.116.7.230%20%231
