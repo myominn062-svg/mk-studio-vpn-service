@@ -1,3 +1,9 @@
+vless://a1a91a85-4997-40ca-a32c-269f39d1381c@104.18.32.47:2053?encryption=none&security=tls&sni=s4294287AAMf.gamenexus.ir&insecure=0&allowInsecure=0&type=ws&host=s4294287AAMf.gamenexus.ir&path=%2F#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.32.47%20%23171
+vless://40a85be7-5692-41c3-93d9-e35aa3772463@104.18.32.47:2053?encryption=none&security=tls&sni=fr.roomode.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=fr.roomode.ir&path=%2F#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.32.47%20%23172
+vless://nasnet@104.18.32.47:2053?path=%2Fnasnet%2Fcdn%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=nasnet-511952424.mcitel.co&fp=randomized&type=httpupgrade&sni=nasnet-511952424.mcitel.co#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.32.47%20%23173
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.18.32.47:2053?security=tls&encryption=none&host=ir1.airpanel.top&fp=chrome&type=ws&sni=ir1.airpanel.top#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.32.47%20%23174
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.18.32.47:2053?encryption=none&security=tls&sni=ir1.airpanel.top&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ir1.airpanel.top&path=%2F#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.32.47%20%23175
+vless://e48b0bd4-8ddb-4901-9244-9bfca2d65d75@104.18.32.47:2053?path=%2FMsV2ray&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=Khamenei.FastCon.Store&fp=chrome&type=ws&allowInsecure=1&sni=Khamenei.FastCon.Store#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.32.47%20%23176
 vless://e3d97326-0914-4269-b11c-65840992b600@104.18.32.47:2053?encryption=none&type=ws&host=new.hupcloud.com&path=/&security=tls&fp=chrome&sni=new.hupcloud.com#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.32.47%20%23177
 vless://de0fd952-2184-4078-8340-cd1ffe4f3395@104.18.32.47:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=temp.iranvatanam.com#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.32.47%20%23178
 vless://dab2a176-7715-448c-959c-6c07244bb72f@104.18.32.47:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=temp.iranvatanam.com#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.32.47%20%23179
@@ -992,9 +998,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.91.56:80?security=none&type=
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.92.0:80?type=ws&host=us3.rtacg.com&path=%2F#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.92.0
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.92.106:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.92.106
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.92.154:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.92.154
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.92.157:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.92.157
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.92.188:80?type=ws&host=us3.rtacg.com&path=%2F#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.92.188
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.92.242:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.92.242
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.92.48:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.92.48
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.92.51:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.92.51
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.18.93.103:443/?type=ws&encryption=none&host=rayan-12.parastoo.dpdns.org&path=%2F%40Rayan_Config&security=tls&sni=rayan-12.parastoo.dpdns.org&fp=chrome#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.93.103
