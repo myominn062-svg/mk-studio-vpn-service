@@ -66,7 +66,7 @@ Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`
 | TH | 61 | [`TH.txt`](./TH.txt) | [`TH.sub.txt`](./TH.sub.txt) |
 | IM | 53 | [`IM.txt`](./IM.txt) | [`IM.sub.txt`](./IM.sub.txt) |
 | GE | 50 | [`GE.txt`](./GE.txt) | [`GE.sub.txt`](./GE.sub.txt) |
-| SA | 48 | [`SA.txt`](./SA.txt) | [`SA.sub.txt`](./SA.sub.txt) |
+| SA | 49 | [`SA.txt`](./SA.txt) | [`SA.sub.txt`](./SA.sub.txt) |
 | AZ | 47 | [`AZ.txt`](./AZ.txt) | [`AZ.sub.txt`](./AZ.sub.txt) |
 | PT | 46 | [`PT.txt`](./PT.txt) | [`PT.sub.txt`](./PT.sub.txt) |
 | MH | 45 | [`MH.txt`](./MH.txt) | [`MH.sub.txt`](./MH.sub.txt) |
