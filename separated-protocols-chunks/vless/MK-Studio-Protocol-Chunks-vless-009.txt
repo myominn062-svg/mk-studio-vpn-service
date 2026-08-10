@@ -1,5 +1,3 @@
-vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@api.noneok.com:443?encryption=none&security=reality&sni=api.noneok.com&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&sid=1ea59febb8d4fc8e&type=grpc&mode=gun&authority=&serviceName=api.v1.StreamService#EPODONIOS
-vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@api.noneok.com:443?encryption=none&type=grpc&security=reality&serviceName=api.v1.StreamService&mode=gun&sni=api.noneok.com&insecure=1&allowInsecure=1&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&sid=1ea59febb8d4fc8e#EPODONIOS
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@files.noneok.com:443?mode=gun&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#EPODONIOS
 vless://a8f84171-5f96-4547-b621-59758fe668c8@94.139.251.19:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api.browser.yandex.ru&fp=chrome&security=reality&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&sid=7a5b89ecdb01f781#EPODONIOS
 vless://a937a82e-593a-49a3-8585-cc3422e040b3@104.194.148.116:23821?path=/&security=none&encryption=none&type=ws#EPODONIOS
@@ -998,3 +996,5 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.levikogjgfdd.ir:443?path=/fp&sec
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.levikogjgfdd.ir:8443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#EPODONIOS
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.levikogjgfdd.ir:8443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#EPODONIOS
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cloudflare-ip.mofashi.ltd:443?path=/&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&sni=t1s1.rittbo.kdns.fr#EPODONIOS
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cloudflare-ip.mofashi.ltd:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#EPODONIOS
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cloudflare.czkcdn.cn:443?path=/&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#EPODONIOS

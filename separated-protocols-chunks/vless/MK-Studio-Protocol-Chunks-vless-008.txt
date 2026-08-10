@@ -1,5 +1,3 @@
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=bastona.aroonsid.ir#EPODONIOS
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=buligh.aroonsid.ir#EPODONIOS
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=latvia.aroonsid.ir#EPODONIOS
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=armwwww.appleseraj.ir&sni=armwwww.appleseraj.ir&fp=chrome#EPODONIOS
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=bbbbbposawe-iuu.appleseraj.ir&sni=bbbbbposawe-iuu.appleseraj.ir&fp=chrome#EPODONIOS
@@ -998,3 +996,5 @@ vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?mode=gun&security
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?mode=gun&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#EPODONIOS
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#EPODONIOS
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@api.noneok.com:443/?type=grpc&encryption=none&flow=&serviceName=api.v1.StreamService&sni=api.noneok.com&security=reality&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&sid=1ea59febb8d4fc8e#EPODONIOS
+vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@api.noneok.com:443?encryption=none&security=reality&sni=api.noneok.com&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&sid=1ea59febb8d4fc8e&type=grpc&mode=gun&authority=&serviceName=api.v1.StreamService#EPODONIOS
+vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@api.noneok.com:443?encryption=none&type=grpc&security=reality&serviceName=api.v1.StreamService&mode=gun&sni=api.noneok.com&insecure=1&allowInsecure=1&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&sid=1ea59febb8d4fc8e#EPODONIOS
