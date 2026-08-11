@@ -1,11 +1,3 @@
-trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.81.84%20%231
-trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:3161?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.81.84%20%232
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.81.84:4054?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.81.84%20%233
-trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@160.16.82.176:64804?security=tls&sni=t9.qifei.app#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.82.176%20%231
-trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@160.16.82.176:64804?#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.82.176%20%232
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.85.33:3057?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.85.33%20%231
-trojan://4843e94d205f3893f588255a591abe94@160.16.85.33:3901?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.85.33%20%232
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.85.33:4674?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.85.33%20%233
 trojan://4843e94d205f3893f588255a591abe94@160.16.87.174:1933?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.87.174%20%231
 trojan://4843e94d205f3893f588255a591abe94@160.16.87.174:3076?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.87.174%20%232
 trojan://61d8077bfb174e171b8283f155a555ad@160.16.87.174:3901?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.87.174%20%233
@@ -998,3 +990,11 @@ trojan://Rm6JhT-Rz8H6Mjy3dtSglA@157.85.102.28:1084?security=none&type=raw&sni=15
 trojan://Rm6JhT-Rz8H6Mjy3dtSglA@157.85.102.28:1084?security=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%20%C2%B7%20Siamdata%20Communication%E2%80%A6%20%7C%20157.85.102.28%20%235
 trojan://3bedceff-1956-4f2c-a9c1-45c74568a560@ty11t.twty.dynu.net:13761?allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BC%20Bade%20District%2C%20TW%20%C2%B7%20Data%20Communication%E2%80%A6%20%7C%20ty11t.twty.dynu.net
 trojan://4bacb8f1a089763b@60.248.114.182:3306?security=tls&allowInsecure=1&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Caotun%2C%20TW%20%C2%B7%20Data%20Communication%E2%80%A6%20%7C%2060.248.114.182
+trojan://3c4e10af98c30972@60.248.114.184:3306?security=tls&sni=n2.gladns.com&allowInsecure=1&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Caotun%2C%20TW%20%C2%B7%20Data%20Communication%E2%80%A6%20%7C%2060.248.114.184
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BC%20Daan%2C%20TW%20%C2%B7%20Data%20Communication%E2%80%A6%20%7C%20official.taipeicitygovernment.org.ua%20%231
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?sni=#%F0%9F%87%B9%F0%9F%87%BC%20Daan%2C%20TW%20%C2%B7%20Data%20Communication%E2%80%A6%20%7C%20official.taipeicitygovernment.org.ua%20%232
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@61.221.189.241:8443?sni=207.148.100.75#%F0%9F%87%B9%F0%9F%87%BC%20Fongshan%20District%2C%20TW%20%C2%B7%20Data%20Communication%E2%80%A6%20%7C%2061.221.189.241%20%231
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@61.221.189.241:8443?sni=official.taipeicitygovernment.org.ua#%F0%9F%87%B9%F0%9F%87%BC%20Fongshan%20District%2C%20TW%20%C2%B7%20Data%20Communication%E2%80%A6%20%7C%2061.221.189.241%20%232
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@61.221.189.241:8443?sni=official.taipeicitygovernment.com.ua#%F0%9F%87%B9%F0%9F%87%BC%20Fongshan%20District%2C%20TW%20%C2%B7%20Data%20Communication%E2%80%A6%20%7C%2061.221.189.241%20%233
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@61.221.189.241:8443?sni=official.taipeicitygovernment.cn.ua#%F0%9F%87%B9%F0%9F%87%BC%20Fongshan%20District%2C%20TW%20%C2%B7%20Data%20Communication%E2%80%A6%20%7C%2061.221.189.241%20%234
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@61.221.189.241:8443?sni=official.taipeicitygovernment.if.ua#%F0%9F%87%B9%F0%9F%87%BC%20Fongshan%20District%2C%20TW%20%C2%B7%20Data%20Communication%E2%80%A6%20%7C%2061.221.189.241%20%235
