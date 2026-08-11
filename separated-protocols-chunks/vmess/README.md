@@ -1,7 +1,7 @@
 # vmess
 
 Chunk size: **1000** configs per file.
-Total chunks: **13** · Total configs: **12195**
+Total chunks: **14** · Total configs: **13900**
 
 Use these when a single large list is too heavy for your client.
 
@@ -19,5 +19,6 @@ Use these when a single large list is too heavy for your client.
 | `MK-Studio-Protocol-Chunks-vmess-010.txt` | 1000 |
 | `MK-Studio-Protocol-Chunks-vmess-011.txt` | 1000 |
 | `MK-Studio-Protocol-Chunks-vmess-012.txt` | 1000 |
-| `MK-Studio-Protocol-Chunks-vmess-013.txt` | 195 |
+| `MK-Studio-Protocol-Chunks-vmess-013.txt` | 1000 |
+| `MK-Studio-Protocol-Chunks-vmess-014.txt` | 900 |
 
