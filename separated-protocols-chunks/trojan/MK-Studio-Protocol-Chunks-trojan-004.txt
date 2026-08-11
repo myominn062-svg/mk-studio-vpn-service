@@ -1,10 +1,3 @@
-trojan://ND91608427@fancy-skink.rooster465.autos:443?security=tls&sni=fancy-skink.rooster465.autos&path=%2f#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%20fancy-skink.rooster465.autos%20%234
-trojan://ND91608427@fr1.levikogjgfdd.ir:443?type=tcp&security=tls&encryption=none&fp=qq&sni=classic-gator.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%20fr1.levikogjgfdd.ir%20%231
-trojan://ND91608427@fr1.levikogjgfdd.ir:443?sni=classic-gator.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%20fr1.levikogjgfdd.ir%20%232
-trojan://ND91608427@fr1.levikogjgfdd.ir:443?sni=classic-gator.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%20fr1.levikogjgfdd.ir%20%233
-trojan://ND91608427@fr1.levikogjgfdd.ir:443?security=tls&sni=classic-gator.rooster465.autos&fp=chrome&type=tcp&headerType=none&host=Telegram-Leviko_v2ray&path=/&allow_insecure=0#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%20fr1.levikogjgfdd.ir%20%234
-trojan://ND91608427@fr1.levikogjgfdd.ir:443?security=tls&amp;host=Telegram-Leviko_v2ray&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=classic-gator.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%20fr1.levikogjgfdd.ir%20%235
-trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&sni=great-krill.rooster465.autos&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%20great-krill.rooster465.autos%20%231
 trojan://QV31589740@great-krill.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=great-krill.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%20great-krill.rooster465.autos%20%232
 trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&sni=great-krill.rooster465.autos&path=%2f#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%20great-krill.rooster465.autos%20%233
 trojan://QV31589740@great-krill.rooster465.autos:443?allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%20great-krill.rooster465.autos%20%234
@@ -998,3 +991,10 @@ trojan://1e32fe52198848788f029c2ec244f347@212.192.14.227:9443?sni=ya.ru#%F0%9F%8
 trojan://1e3b3ecf567f44d2b6e82116795ec598@94.103.91.22:9443?security=reality&sni=ya.ru&pbk=PhloUsQA9lx6AKOBdIOAFVggP72U8MHUEWNe-MnuYH0&sid=aabbccdd&type=tcp&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20Moscow%2C%20RU%20%C2%B7%20Hosting%20technology%20%7C%2094.103.91.22
 trojan://Aimer@212.41.15.119:443?sni=agepy.ambercc.filegear-sg.me&allowInsecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Moscow%2C%20RU%20%C2%B7%20JSC%20Selectel%20%7C%20212.41.15.119%20%232
 trojan://Aimer@212.41.15.119:443/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%BA%20Moscow%2C%20RU%20%C2%B7%20JSC%20Selectel%20%7C%20212.41.15.119%20%233
+trojan://PU3f7528NtNXnQqb9X263rGSD@195.133.11.229:443/?type=ws&host=get.fragmentary.info&path=%2Fsocks5tobefree&security=tls&sni=get.fragmentary.info#%F0%9F%87%B7%F0%9F%87%BA%20Moscow%2C%20RU%20%C2%B7%20LLC%20Baxet%20%7C%20195.133.11.229%20%231
+trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.129.3.220:10668?sni=www.vk.com#%F0%9F%87%B7%F0%9F%87%BA%20Moscow%2C%20RU%20%C2%B7%20LLC%20Baxet%20%7C%2045.129.3.220%20%231
+trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.129.3.220:10668/?type=tcp&security=tls&sni=www.vk.com#%F0%9F%87%B7%F0%9F%87%BA%20Moscow%2C%20RU%20%C2%B7%20LLC%20Baxet%20%7C%2045.129.3.220%20%232
+trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.135.134.198:10668?sni=api-maps.yandex.ru#%F0%9F%87%B7%F0%9F%87%BA%20Moscow%2C%20RU%20%C2%B7%20LLC%20Baxet%20%7C%2045.135.134.198
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@45.147.200.44:443/?type=tcp&security=tls&sni=%24%24paydiu.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Moscow%2C%20RU%20%C2%B7%20LLC%20Baxet%20%7C%2045.147.200.44%20%231
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@45.147.200.44:443?sni=%2524%2524paydiu.com#%F0%9F%87%B7%F0%9F%87%BA%20Moscow%2C%20RU%20%C2%B7%20LLC%20Baxet%20%7C%2045.147.200.44%20%232
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.88.148.234:28443?security=tls#%F0%9F%87%B7%F0%9F%87%BA%20Moscow%2C%20RU%20%C2%B7%20Moshonkin%20Ilia%E2%80%A6%20%7C%2045.88.148.234%20%231

@@ -880,13 +880,6 @@ trojan://ND91608427@15.237.137.197:443?security=tls&sni=fancy-skink.rooster465.a
 trojan://ND91608427@fancy-skink.rooster465.autos:443?security=tls&sni=fancy-skink.rooster465.autos#EPODONIOS
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?security=tls&sni=t11.qifei.app#EPODONIOS
 trojan://d06a3f01-1ff0-4792-9b8e-a5a604bc74a2@168.138.43.89:443?security=tls#EPODONIOS
-trojan://humanity@104.19.229.21:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#EPODONIOS
-trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com¬e=@FreeOnlineVPN#EPODONIOS
-trojan://humanity@172.67.149.60:443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8#EPODONIOS
-trojan://humanity@188.114.97.7:443?type=ws&path=/assignment&security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8#EPODONIOS
-trojan://humanity@45.130.125.75:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#EPODONIOS
-trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#EPODONIOS
 trojan://M2M4M2E0Rma3OA==@46.38.151.36:50187?path=/p/uk/1/t/w/3g7fwj6&security=none&host=pressure-calm-new.nic.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%7C%2046.38.151.36
 trojan://8r%3C%5B9%27l6hAO%238ZQi@213.176.113.98:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%C2%B7%20Aeza%20Group%20%7C%20213.176.113.98
 trojan://yu7AvNL9rW@212.33.206.111:80?allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%C2%B7%20Asiatech%20Data%E2%80%A6%20%7C%20212.33.206.111
@@ -998,3 +991,10 @@ trojan://Aimer@188.164.159.171:443?allowInsecure=0&sni=epccn.ambercc.filegear-sg
 trojan://Aimer@188.164.159.174:2053/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.174%20%231
 trojan://Aimer@188.164.159.174:2053?sni=agept.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.174%20%232
 trojan://Aimer@188.164.159.174:2053?sni=epcch.ambercc.filegear-sg.me&allowInsecure=0#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.174%20%233
+trojan://Aimer@188.164.159.174:2053?security=tls&sni=agept.ambercc.filegear-sg.me&type=tcp#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.174%20%234
+trojan://Aimer@188.164.159.175:8443?security=tls&sni=epcch.ambercc.filegear-sg.me&type=tcp#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.175%20%231
+trojan://Aimer@188.164.159.175:8443?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.175%20%232
+trojan://Aimer@188.164.159.175:8443?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.175%20%233
+trojan://Aimer@188.164.159.175:8443?sni=epcch.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.175%20%234
+trojan://Aimer@188.164.159.18:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&path=/?ed=2560&Host=epgb.aimercc.dpdns.org#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.18%20%231
+trojan://Aimer@188.164.159.18:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.18%20%232
