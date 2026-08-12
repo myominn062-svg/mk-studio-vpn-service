@@ -1,4 +1,3 @@
-vless://9150748b-fa2b-4ef1-a7f1-7c4a76e2dc0b@64.188.62.138:40443?security=reality&encryption=none&pbk=U1ABwLTij71fW63nwMukZBezSQKADiBRuKCATiNUxUw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=27bb#EPODONIOS
 vless://9150748b-fa2b-4ef1-a7f1-7c4a76e2dc0b@update.netraidly.ru:40443?security=reality&encryption=none&pbk=U1ABwLTij71fW63nwMukZBezSQKADiBRuKCATiNUxUw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=27bb#EPODONIOS
 vless://916ad802-80bf-4369-9f79-27babbeb091b@84.47.232.14:2052?security=none&encryption=none&headerType=http&type=tcp#EPODONIOS
 vless://91802465-1a09-8678-04d3-7105678a9bce@69.46.46.10:443?path=/ws/91802465-1a09-8678-04d3-7105678a9bce&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-6509.up.railway.app&fp=chrome&type=ws&sni=rvg-production-6509.up.railway.app#EPODONIOS
@@ -123,7 +122,6 @@ vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&
 vless://9f0a81d9-7c1a-4d5c-a18a-a19a2dac1c07@3x-ui-multi-production-5f14.up.railway.app:443?fp=chrome&host=3x-ui-multi-production-5f14.up.railway.app&path=/direct&security=tls&sni=3x-ui-multi-production-5f14.up.railway.app&type=ws#EPODONIOS
 vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&encryption=none&headerType=none&sni=deepl.com&security=reality&sid=a8ae&type=tcp#EPODONIOS
 vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sid=a8ae&type=tcp&security=reality&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&sni=deepl.com&headerType=none&encryption=none#EPODONIOS
-vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?encryption=none&fp=&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&security=reality&sid=a8ae&sni=deepl.com&type=tcp#EPODONIOS
 vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?security=reality&encryption=none&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&headerType=none&type=tcp&sni=deepl.com&sid=a8ae#EPODONIOS
 vless://9f108161-c3cf-444b-989a-2d864b165435@93.123.13.7:40312?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://9f108161-c3cf-444b-989a-2d864b165435@93.123.13.7:40312?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
@@ -998,3 +996,5 @@ vless://dacb912c-39ef-4fe0-d720-fadaa53111c0@3.72.6.34:443?security=none&encrypt
 vless://db9cf031-33ec-4a39-b27e-6da323144963@162.159.135.232:2053?security=tls&sni=shakhle.jd-vpn.shop.&type=ws&host=shakhle.jd-vpn.shop.&path=/@Jd_Vpn&fp=chrome#EPODONIOS
 vless://dbdf1950-b40e-4533-88bb-05ebca375781@104.18.155.141:8443?path=/&security=tls&encryption=none&host=dig.jhju.ir&fp=chrome&type=ws&sni=dig.jhju.ir#EPODONIOS
 vless://dbdf1950-b40e-4533-88bb-05ebca375781@104.18.155.141:8443?path=/&security=tls&encryption=none&insecure=0&host=dig.jhju.ir&fp=chrome&type=ws&allowInsecure=0&sni=dig.jhju.ir#EPODONIOS
+vless://dbdf1950-b40e-4533-88bb-05ebca375781@104.18.155.141:8443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=dig.jhju.ir&fp=chrome&type=ws&allowInsecure=0&sni=dig.jhju.ir#EPODONIOS
+vless://dbdf1950-b40e-4533-88bb-05ebca375781@172.66.146.2:2087?path=/&security=tls&encryption=none&host=dig.jhju.ir&fp=chrome&type=ws&sni=dig.jhju.ir#EPODONIOS
