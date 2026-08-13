@@ -1,9 +1,3 @@
-trojan://5ceb716a-9a0c-493a-9a0b-a05e08a1b1fc@202.8.9.67:28443?security=tls&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20TeraSwitch%20Networks%20%7C%20202.8.9.67
-trojan://Aimer@185.184.223.47:443?sni=epme.ambercc.filegear-sg.me#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20xTom%20Japan%20Corporation%20%7C%20185.184.223.47
-trojan://4467ae8518abf1ef321618c0bfb5549ccc@188.240.213.45:20071/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#%F0%9F%87%B0%F0%9F%87%AC%20Bishkek%2C%20KG%20%C2%B7%20Anton%20Levin%20%7C%20188.240.213.45
-trojan://Aimer@221.164.192.95:50003?sni=agepj.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20Andong%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%20221.164.192.95
-trojan://Aimer@121.139.207.184:12370?sni=epcci.ambercc.filegear-sg.me&allowInsecure=0#%F0%9F%87%B0%F0%9F%87%B7%20Anyang-Si%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%20121.139.207.184%20%231
-trojan://Aimer@121.139.207.184:12370?security=tls&sni=epcci.ambercc.filegear-sg.me&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20Anyang-Si%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%20121.139.207.184%20%232
 trojan://Aimer@14.54.146.110:50000/?type=tcp&security=tls&sni=ngepz.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20Bonghwa-Gun%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%2014.54.146.110
 trojan://Aimer@119.203.202.120:12226?sni=epcch.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20Boryeong%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%20119.203.202.120%20%231
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.178.83.161:26214/?type=tcp&security=tls&sni=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7%20Buk-Gu%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%20121.178.83.161
@@ -998,3 +992,9 @@ trojan://16132fb0-4945-11f0-a95e-1239d0255272@91.192.81.167:443?sni=sg4.6n6.net#
 trojan://df1f7e80-48a2-11f0-8b4b-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Melbikomas%20UAB%20%7C%20sg4.6n6.net%20%231
 trojan://c623a730-48a2-11f0-b6c7-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Melbikomas%20UAB%20%7C%20sg4.6n6.net%20%232
 trojan://c25c4610-489e-11f0-bd10-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Melbikomas%20UAB%20%7C%20sg4.6n6.net%20%233
+trojan://16132fb0-4945-11f0-a95e-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Melbikomas%20UAB%20%7C%20sg4.6n6.net%20%234
+trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@13.76.251.170:443?security=tls&sni=jp.iamnotagoodman.com&type=tcp&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Microsoft%20Corporation%20%7C%2013.76.251.170
+trojan://dQUWbcwECl@20.191.138.47:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=automq4-proxy.automq-sg.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Microsoft%20Corporation%20%7C%2020.191.138.47%20%231
+trojan://dQUWbcwECl@20.191.138.47:443?security=tls&sni=automq4-proxy.automq-sg.com&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Microsoft%20Corporation%20%7C%2020.191.138.47%20%232
+trojan://c3a2639c-bb97-41ee-82a7-aa872980fd49@20.24.44.110:28443?sni=www.download.windowsupdate1.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Microsoft%20Corporation%20%7C%2020.24.44.110%20%231
+trojan://c3a2639c-bb97-41ee-82a7-aa872980fd49@20.24.44.110:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Microsoft%20Corporation%20%7C%2020.24.44.110%20%232
