@@ -1,3 +1,13 @@
+trojan://4843e94d205f3893f588255a591abe94@160.16.72.33:3901?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.72.33%20%236
+trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:4674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.72.33%20%237
+trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:4674?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.72.33%20%238
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.74.162:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.74.162
+trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@160.16.77.214:54860?security=tls&sni=t5.qifei.app&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.77.214
+trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.81.84%20%231
+trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:3161?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.81.84%20%232
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.81.84:4054?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.81.84%20%233
+trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@160.16.82.176:64804?security=tls&sni=t9.qifei.app#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.82.176%20%231
+trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@160.16.82.176:64804?#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.82.176%20%232
 trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.85.33:3057?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.85.33%20%231
 trojan://4843e94d205f3893f588255a591abe94@160.16.85.33:3901?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.85.33%20%232
 trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.85.33:4674?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.85.33%20%233
@@ -988,13 +998,3 @@ trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@27.122.59.45:443?security=tls&sni=
 trojan://BxceQaOe@38.180.191.251:443/?type=tcp&amp;security=tls&amp;sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20M247%20Europe%20SRL%20%7C%2038.180.191.251%20%231
 trojan://BxceQaOe@38.180.191.251:443/?type=tcp&security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20M247%20Europe%20SRL%20%7C%2038.180.191.251%20%232
 trojan://253bc477d4e43c209f2d427272968280@38.180.249.152:443?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20M247%20Europe%20SRL%20%7C%2038.180.249.152
-trojan://installshield@38.180.249.177:8443?security=tls&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20M247%20Europe%20SRL%20%7C%2038.180.249.177%20%231
-trojan://installshield@38.180.249.177:8443?#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20M247%20Europe%20SRL%20%7C%2038.180.249.177%20%232
-trojan://9a27800ca7b52ee0@103.172.116.113:3389?security=tls&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Melbikomas%20UAB%20%7C%20103.172.116.113
-trojan://0c6a3341e8d5ab17@103.172.116.138:3389?security=tls&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Melbikomas%20UAB%20%7C%20103.172.116.138
-trojan://0c6a3341e8d5ab17@103.172.116.196:3389?security=tls#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Melbikomas%20UAB%20%7C%20103.172.116.196%20%231
-trojan://0c6a3341e8d5ab17@103.172.116.196:3389?sni=#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Melbikomas%20UAB%20%7C%20103.172.116.196%20%232
-trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@103.172.116.219:17712?allowInsecure=0#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Melbikomas%20UAB%20%7C%20103.172.116.219
-trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@146.19.196.90:17711/?type=tcp&security=tls&sni=data.52daishu.life&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Melbikomas%20UAB%20%7C%20146.19.196.90
-trojan://3c4e10af98c30972@185.230.245.210:3306?security=tls&sni=n2.gladns.com&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Melbikomas%20UAB%20%7C%20185.230.245.210
-trojan://3c4e10af98c30972@185.230.245.211:3306?security=tls&sni=n2.gladns.com&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Melbikomas%20UAB%20%7C%20185.230.245.211
