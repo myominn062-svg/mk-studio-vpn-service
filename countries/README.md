@@ -18,9 +18,9 @@ Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`
 | FI | 3827 | [`FI.txt`](./FI.txt) | [`FI.sub.txt`](./FI.sub.txt) |
 | JP | 3457 | [`JP.txt`](./JP.txt) | [`JP.sub.txt`](./JP.sub.txt) |
 | SG | 3274 | [`SG.txt`](./SG.txt) | [`SG.sub.txt`](./SG.sub.txt) |
-| HK | 3164 | [`HK.txt`](./HK.txt) | [`HK.sub.txt`](./HK.sub.txt) |
+| HK | 3165 | [`HK.txt`](./HK.txt) | [`HK.sub.txt`](./HK.sub.txt) |
 | SC | 2960 | [`SC.txt`](./SC.txt) | [`SC.sub.txt`](./SC.sub.txt) |
-| CA | 2956 | [`CA.txt`](./CA.txt) | [`CA.sub.txt`](./CA.sub.txt) |
+| CA | 2957 | [`CA.txt`](./CA.txt) | [`CA.sub.txt`](./CA.sub.txt) |
 | AE | 2904 | [`AE.txt`](./AE.txt) | [`AE.sub.txt`](./AE.sub.txt) |
 | KR | 2236 | [`KR.txt`](./KR.txt) | [`KR.sub.txt`](./KR.sub.txt) |
 | TR | 2022 | [`TR.txt`](./TR.txt) | [`TR.sub.txt`](./TR.sub.txt) |
