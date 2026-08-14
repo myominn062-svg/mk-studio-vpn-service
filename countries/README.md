@@ -13,11 +13,11 @@ Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`
 | US | 15000 | [`US.txt`](./US.txt) | [`US.sub.txt`](./US.sub.txt) |
 | NL | 7538 | [`NL.txt`](./NL.txt) | [`NL.sub.txt`](./NL.sub.txt) |
 | FR | 7396 | [`FR.txt`](./FR.txt) | [`FR.sub.txt`](./FR.sub.txt) |
-| GB | 5486 | [`GB.txt`](./GB.txt) | [`GB.sub.txt`](./GB.sub.txt) |
+| GB | 5487 | [`GB.txt`](./GB.txt) | [`GB.sub.txt`](./GB.sub.txt) |
 | SE | 3962 | [`SE.txt`](./SE.txt) | [`SE.sub.txt`](./SE.sub.txt) |
 | FI | 3866 | [`FI.txt`](./FI.txt) | [`FI.sub.txt`](./FI.sub.txt) |
 | JP | 3505 | [`JP.txt`](./JP.txt) | [`JP.sub.txt`](./JP.sub.txt) |
-| SG | 3392 | [`SG.txt`](./SG.txt) | [`SG.sub.txt`](./SG.sub.txt) |
+| SG | 3393 | [`SG.txt`](./SG.txt) | [`SG.sub.txt`](./SG.sub.txt) |
 | HK | 3189 | [`HK.txt`](./HK.txt) | [`HK.sub.txt`](./HK.sub.txt) |
 | SC | 3079 | [`SC.txt`](./SC.txt) | [`SC.sub.txt`](./SC.sub.txt) |
 | CA | 3026 | [`CA.txt`](./CA.txt) | [`CA.sub.txt`](./CA.sub.txt) |
