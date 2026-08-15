@@ -1,7 +1,7 @@
 {
   "brand": "MK Studio VPN Service",
-  "updated_at": "2026-08-15 21:41:26 UTC",
-  "total_unique_raw": 264171,
+  "updated_at": "2026-08-15 22:03:30 UTC",
+  "total_unique_raw": 264386,
   "total_unique": 100000,
   "caps": {
     "max_all": 100000,
@@ -13,12 +13,12 @@
   "counts": {
     "all": 100000,
     "featured": 1500,
-    "vmess": 13359,
+    "vmess": 13375,
     "vless": 100000,
-    "trojan": 18742,
-    "ss": 13745,
+    "trojan": 18765,
+    "ss": 13800,
     "ssr": 63,
-    "hysteria2": 3649,
+    "hysteria2": 3645,
     "tuic": 11,
     "mixed_chunks": 100,
     "protocol_chunks": {
@@ -86,14 +86,14 @@
     "IE": 671,
     "IL": 95,
     "IM": 80,
-    "IN": 438,
+    "IN": 437,
     "IQ": 50,
     "IR": 15000,
     "IS": 19,
     "IT": 716,
     "JM": 7,
     "JO": 41,
-    "JP": 3973,
+    "JP": 3974,
     "KE": 25,
     "KG": 9,
     "KH": 4,
@@ -163,13 +163,13 @@
     {
       "name": "barry-far-all",
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt",
-      "added": 6308,
+      "added": 6309,
       "error": null
     },
     {
       "name": "epodonios-all",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
-      "added": 4591,
+      "added": 4585,
       "error": null
     },
     {
@@ -199,31 +199,31 @@
     {
       "name": "epodonios-vless",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt",
-      "added": 30,
+      "added": 162,
       "error": null
     },
     {
       "name": "epodonios-vmess",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vmess.txt",
-      "added": 10,
+      "added": 27,
       "error": null
     },
     {
       "name": "epodonios-trojan",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/trojan.txt",
-      "added": 0,
+      "added": 10,
       "error": null
     },
     {
       "name": "epodonios-ss",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/ss.txt",
-      "added": 6,
+      "added": 65,
       "error": null
     },
     {
       "name": "fastnodes-everything",
       "url": "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/everything.txt",
-      "added": 237652,
+      "added": 237653,
       "error": null
     },
     {
@@ -253,7 +253,7 @@
     {
       "name": "aliilapro-sub",
       "url": "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
-      "added": 1558,
+      "added": 1559,
       "error": null
     },
     {
@@ -292,12 +292,12 @@
     "all_extracted_configs.txt": 100000,
     "MK-Studio-VPN-All-Type.txt": 100000,
     "MK-Studio-VPN.txt": 1500,
-    "vmess_configs.txt": 13359,
+    "vmess_configs.txt": 13375,
     "vless_configs.txt": 100000,
-    "trojan_configs.txt": 18742,
-    "ss_configs.txt": 13745,
+    "trojan_configs.txt": 18765,
+    "ss_configs.txt": 13800,
     "ssr_configs.txt": 63,
-    "hysteria2_configs.txt": 3649,
+    "hysteria2_configs.txt": 3645,
     "tuic_configs.txt": 11
   }
 }
