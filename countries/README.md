@@ -17,15 +17,15 @@ Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`
 | SE | 3927 | [`SE.txt`](./SE.txt) | [`SE.sub.txt`](./SE.sub.txt) |
 | FI | 3821 | [`FI.txt`](./FI.txt) | [`FI.sub.txt`](./FI.sub.txt) |
 | JP | 3745 | [`JP.txt`](./JP.txt) | [`JP.sub.txt`](./JP.sub.txt) |
-| SG | 3340 | [`SG.txt`](./SG.txt) | [`SG.sub.txt`](./SG.sub.txt) |
+| SG | 3344 | [`SG.txt`](./SG.txt) | [`SG.sub.txt`](./SG.sub.txt) |
 | HK | 3294 | [`HK.txt`](./HK.txt) | [`HK.sub.txt`](./HK.sub.txt) |
 | SC | 2966 | [`SC.txt`](./SC.txt) | [`SC.sub.txt`](./SC.sub.txt) |
 | AE | 2873 | [`AE.txt`](./AE.txt) | [`AE.sub.txt`](./AE.sub.txt) |
-| CA | 2632 | [`CA.txt`](./CA.txt) | [`CA.sub.txt`](./CA.sub.txt) |
+| CA | 2633 | [`CA.txt`](./CA.txt) | [`CA.sub.txt`](./CA.sub.txt) |
 | KR | 2341 | [`KR.txt`](./KR.txt) | [`KR.sub.txt`](./KR.sub.txt) |
 | TR | 1991 | [`TR.txt`](./TR.txt) | [`TR.sub.txt`](./TR.sub.txt) |
 | PL | 1780 | [`PL.txt`](./PL.txt) | [`PL.sub.txt`](./PL.sub.txt) |
-| CN | 1597 | [`CN.txt`](./CN.txt) | [`CN.sub.txt`](./CN.sub.txt) |
+| CN | 1593 | [`CN.txt`](./CN.txt) | [`CN.sub.txt`](./CN.sub.txt) |
 | CH | 1470 | [`CH.txt`](./CH.txt) | [`CH.sub.txt`](./CH.sub.txt) |
 | LV | 1264 | [`LV.txt`](./LV.txt) | [`LV.sub.txt`](./LV.sub.txt) |
 | MD | 1145 | [`MD.txt`](./MD.txt) | [`MD.sub.txt`](./MD.sub.txt) |
@@ -44,7 +44,7 @@ Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`
 | AT | 510 | [`AT.txt`](./AT.txt) | [`AT.sub.txt`](./AT.sub.txt) |
 | BG | 475 | [`BG.txt`](./BG.txt) | [`BG.sub.txt`](./BG.sub.txt) |
 | UA | 434 | [`UA.txt`](./UA.txt) | [`UA.sub.txt`](./UA.sub.txt) |
-| IN | 432 | [`IN.txt`](./IN.txt) | [`IN.sub.txt`](./IN.sub.txt) |
+| IN | 433 | [`IN.txt`](./IN.txt) | [`IN.sub.txt`](./IN.sub.txt) |
 | BR | 347 | [`BR.txt`](./BR.txt) | [`BR.sub.txt`](./BR.sub.txt) |
 | VN | 290 | [`VN.txt`](./VN.txt) | [`VN.sub.txt`](./VN.sub.txt) |
 | AM | 271 | [`AM.txt`](./AM.txt) | [`AM.sub.txt`](./AM.sub.txt) |
