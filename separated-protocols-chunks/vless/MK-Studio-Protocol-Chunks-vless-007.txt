@@ -1,4 +1,3 @@
-vless://793ddc21-ef27-4420-aea5-f1776460d6ac@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=SvnTeamChannel.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://794bfec4-09ca-3a1f-f6ce-6e006485a359@x4g-production-c75b.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-c75b.up.railway.app&path=/ws/794bfec4-09ca-3a1f-f6ce-6e006485a359&sni=x4g-production-c75b.up.railway.app&fp=chrome&alpn=http/1.1#EPODONIOS
 vless://795d5f5b-318c-49a6-844f-ee2ab63bbe94@35.180.187.82:12228?security=reality&encryption=none&pbk=hvyaRhFtrj3cGv1Ya5uXpE256i2PoUi2fOgU0KlvKmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=59625eb3275249ca#EPODONIOS
 vless://795d5f5b-318c-49a6-844f-ee2ab63bbe94@35.180.187.82:12228?security=reality&encryption=none&pbk=hvyaRhFtrj3cGv1Ya5uXpE256i2PoUi2fOgU0KlvKmI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=59625eb3275249ca#EPODONIOS
@@ -998,3 +997,4 @@ vless://c05b3513-6fd0-4a12-a888-d40028126d68@tr2.ramcalshoping.ir:18020?security
 vless://c06ab4be-e7e4-4f53-a5bb-bb500b58f2a7@38.180.112.246:52315?path=/&security=none&encryption=none&type=ws#EPODONIOS
 vless://c06b2815-c117-4319-8cf2-725fbf864f7e@freeiran-opiran-2.shaygan.site:8880?path=/&security=none&encryption=none&type=ws#EPODONIOS
 vless://c07e7a66-fc43-4958-a50b-16d619d754f5@87.107.146.184:15804?security=none&type=tcp&host=host:nasa.gov&headerType=http#EPODONIOS
+vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@VARZESH3.COM:2096?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=Sha.artarona.ir&fp=chrome&type=ws&allowInsecure=0&sni=Sha.artarona.ir#EPODONIOS
