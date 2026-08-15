@@ -1,7 +1,7 @@
 {
   "brand": "MK Studio VPN Service",
-  "updated_at": "2026-08-15 17:41:16 UTC",
-  "total_unique_raw": 263435,
+  "updated_at": "2026-08-15 18:03:17 UTC",
+  "total_unique_raw": 263698,
   "total_unique": 100000,
   "caps": {
     "max_all": 100000,
@@ -13,12 +13,12 @@
   "counts": {
     "all": 100000,
     "featured": 1500,
-    "vmess": 13296,
+    "vmess": 13315,
     "vless": 100000,
-    "trojan": 18383,
-    "ss": 13633,
+    "trojan": 18397,
+    "ss": 13695,
     "ssr": 62,
-    "hysteria2": 3645,
+    "hysteria2": 3644,
     "tuic": 12,
     "mixed_chunks": 100,
     "protocol_chunks": {
@@ -30,7 +30,7 @@
       "hysteria2": 4,
       "tuic": 1
     },
-    "countries_detected": 133865,
+    "countries_detected": 133867,
     "countries_unknown": 15000,
     "country_files": 122
   },
@@ -79,7 +79,7 @@
     "GI": 2,
     "GR": 199,
     "GT": 4,
-    "HK": 3265,
+    "HK": 3267,
     "HR": 32,
     "HU": 159,
     "ID": 147,
@@ -169,7 +169,7 @@
     {
       "name": "epodonios-all",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
-      "added": 4552,
+      "added": 4559,
       "error": null
     },
     {
@@ -199,25 +199,25 @@
     {
       "name": "epodonios-vless",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt",
-      "added": 29,
+      "added": 190,
       "error": null
     },
     {
       "name": "epodonios-vmess",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vmess.txt",
-      "added": 9,
+      "added": 29,
       "error": null
     },
     {
       "name": "epodonios-trojan",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/trojan.txt",
-      "added": 0,
+      "added": 8,
       "error": null
     },
     {
       "name": "epodonios-ss",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/ss.txt",
-      "added": 5,
+      "added": 69,
       "error": null
     },
     {
@@ -253,13 +253,13 @@
     {
       "name": "aliilapro-sub",
       "url": "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
-      "added": 1569,
+      "added": 1568,
       "error": null
     },
     {
       "name": "aliilapro-server",
       "url": "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/server.txt",
-      "added": 0,
+      "added": 4,
       "error": null
     },
     {
@@ -292,12 +292,12 @@
     "all_extracted_configs.txt": 100000,
     "MK-Studio-VPN-All-Type.txt": 100000,
     "MK-Studio-VPN.txt": 1500,
-    "vmess_configs.txt": 13296,
+    "vmess_configs.txt": 13315,
     "vless_configs.txt": 100000,
-    "trojan_configs.txt": 18383,
-    "ss_configs.txt": 13633,
+    "trojan_configs.txt": 18397,
+    "ss_configs.txt": 13695,
     "ssr_configs.txt": 62,
-    "hysteria2_configs.txt": 3645,
+    "hysteria2_configs.txt": 3644,
     "tuic_configs.txt": 12
   }
 }
