@@ -1,3 +1,7 @@
+hy2://sysadmin.sysadmin@129.153.85.205:443?insecure=1&sni=xiaoji.maptoca.monster#%F0%9F%87%BA%F0%9F%87%B8%20Phoenix%2C%20US%20%C2%B7%20Oracle%20Corporation%20%7C%20129.153.85.205
+hysteria2://ca5c8e49-3b25-45f8-9fbb-6dd1806a1444@132.226.117.48:30000?insecure=1&sni=www.apple.com#%F0%9F%87%BA%F0%9F%87%B8%20Phoenix%2C%20US%20%C2%B7%20Oracle%20Corporation%20%7C%20132.226.117.48
+hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@141.148.182.2:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#%F0%9F%87%BA%F0%9F%87%B8%20Phoenix%2C%20US%20%C2%B7%20Oracle%20Corporation%20%7C%20141.148.182.2
+hy2://ad90f973-ac78-4161-8601-28c44b37b34b@152.70.146.227:44300?insecure=1&sni=us-01.worldfirst.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20Phoenix%2C%20US%20%C2%B7%20Oracle%20Corporation%20%7C%20152.70.146.227
 hy2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@158.101.25.115:52773?insecure=1&sni=ssrsub.h03.trojan.tel#%F0%9F%87%BA%F0%9F%87%B8%20Phoenix%2C%20US%20%C2%B7%20Oracle%20Corporation%20%7C%20158.101.25.115
 hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@gy9.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=gy9.nezhasu.com#%F0%9F%87%BA%F0%9F%87%B8%20Phoenix%2C%20US%20%C2%B7%20Oracle%20Corporation%20%7C%20gy9.nezhasu.com
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@phoenix-1.nezhasu.com:443?insecure=1&sni=phoenix-1.nezhasu.com#%F0%9F%87%BA%F0%9F%87%B8%20Phoenix%2C%20US%20%C2%B7%20Oracle%20Corporation%20%7C%20phoenix-1.nezhasu.com
@@ -576,8 +580,10 @@ hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@109.176.30.146:2056?insecure=1&
 hysteria2://Configvibes@107.181.155.107:2096?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=IL+pm5
 hysteria2://Krab9Hyst2_Rk7pQ2xL@151.247.197.253:36723?insecure=1&sni=www.cloudflare.com#%F0%9F%87%AB%F0%9F%87%B7142943%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S
 hysteria2://o8qxh96m6i335s6k@gr.nexovip.cyou:46918?insecure=0&sni=gr.nexovip.cyou&obfs=salamander&obfs-password=w086cefx0803sepr#Tunnel%20%20germany%20%C2%B2%20%F0%9F%87%A9%F0%9F%87%AA-%40vpnserve
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2Fclashv8%F0%9F%87%A8%F0%9F%87%B3#%E9%A6%99%E6%B8%AF+%E7%89%B9%E5%88%AB%E8%A1%8C%E6%94%BF%E5%8C%BA
+hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@mg2.mangshe.xyz:2056?insecure=1&security=tls&sni=mg2.mangshe.xyz#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
+hysteria2://ce24c43947331f36746c1f692c3812e0@129-150-54-169.liao.kdns.fr:50160?allowInsecure=0&insecure=0&security=tls&sni=129-150-54-169.liao.kdns.fr#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@sg1.xiaoliyu.cyou:1935?insecure=1&security=tls&sni=sg1.xiaoliyu.cyou#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+hy2://ce24c43947331f36746c1f692c3812e0@129-150-54-169.liao.kdns.fr:50160?security=tls&sni=129-150-54-169.liao.kdns.fr#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 hysteria://195.154.200.40:15010/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Scaleway%20%7C%20195.154.200.40
 hysteria://62.210.10.186:35511?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&downmbps=55&protocol=udp&insecure=1&peer=apple.com&udp=true&upmbps=11#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Scaleway%20%7C%2062.210.10.186%20%231
 hysteria://62.210.10.186:50011?alpn=h3&auth=dongtaiwang.com&downmbps=55#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Scaleway%20%7C%2062.210.10.186%20%232
