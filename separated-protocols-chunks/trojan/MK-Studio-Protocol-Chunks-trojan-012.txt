@@ -1,11 +1,3 @@
-trojan://humanity@165.215.250.14:443?fp=chrome&amp;host=www.calmlunch.com&amp;path=/assignment&amp;sni=www.calmlunch.com&amp;type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20PROQUEST%20%7C%20165.215.250.14%20%2312
-trojan://humanity@165.215.250.14:443?type=ws&security=tls&fp=firefox&sni=www.ignitelimit.com&Host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20PROQUEST%20%7C%20165.215.250.14%20%2313
-trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20PROQUEST%20%7C%20165.215.250.14%20%232
-trojan://humanity@165.215.250.14:443?fp=chrome&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20PROQUEST%20%7C%20165.215.250.14%20%233
-trojan://humanity@165.215.250.14:443?sni=www.calmlunch.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20PROQUEST%20%7C%20165.215.250.14%20%234
-trojan://humanity@165.215.250.14:443?sni=www.ignitelimit.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20PROQUEST%20%7C%20165.215.250.14%20%235
-trojan://humanity@165.215.250.14:443?sni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20PROQUEST%20%7C%20165.215.250.14%20%236
-trojan://humanity@165.215.250.14:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.ignitelimit.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20PROQUEST%20%7C%20165.215.250.14%20%237
 trojan://humanity@165.215.250.14:443?security=tls&amp;sni=www.calmlunch.com&amp;allowInsecure=1&amp;fp=chrome&amp;type=ws&amp;path=/assignment&amp;host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20PROQUEST%20%7C%20165.215.250.14%20%238
 trojan://humanity@165.215.250.14:443/?type=tcp&security=tls&sni=www.calmlunch.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20PROQUEST%20%7C%20165.215.250.14%20%239
 trojan://Aimer@209.94.90.64:443/?type=tcp&security=tls&sni=epccu.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Protocol%20Labs%20%7C%20209.94.90.64%20%231
@@ -998,3 +990,11 @@ trojan://Aimer@104.17.223.37:443?sni=epmq.ambercc.filegear-sg.me#%F0%9F%8C%90%20
 trojan://blue2024@104.17.225.125:443/?type=tcp&security=tls&sni=td.promote.icu&allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.225.125
 trojan://blue2024@104.17.226.120:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.226.120
 trojan://Aimer@104.17.228.173:443?sni=epccj.ambercc.filegear-sg.me#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.228.173
+trojan://b9e82117-ed3a-4098-8153-100ca12aa523@104.17.228.60:443/?type=grpc&security=tls&sni=hdfy5persiaserverc1.afsharidempire.uk#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.228.60%20%231
+trojan://Aimer@104.17.229.63:443?sni=epcch.ambercc.filegear-sg.me#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.229.63
+trojan://blue2024@104.17.23.86:443/?type=ws&host=td.promote.icu&security=tls&sni=td.promote.icu#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.23.86
+trojan://Aimer@104.17.230.144:443?sni=epcch.ambercc.filegear-sg.me#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.230.144
+trojan://Aimer@104.17.230.172:443?sni=epcch.ambercc.filegear-sg.me#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.230.172
+trojan://Aimer@104.17.231.201:443?sni=epccv.ambercc.filegear-sg.me#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.231.201
+trojan://Telegram-frev2ray@104.17.234.12:443/?type=ws&host=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.frev2ray.abrha.co.za&security=tls&sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.frev2ray.abrha.co.za#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.234.12%20%2310
+trojan://Join-VPNCUSTOMIZE@104.17.234.12:443?security=tls&amp;sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&amp;type=ws&amp;host=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&amp;path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.234.12%20%2311

@@ -1,11 +1,3 @@
-trojan://Aimer@121.140.9.141:12331?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%B0%F0%9F%87%B7%20Gwangmyeong-Si%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%20121.140.9.141%20%231
-trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@182.209.240.254:443/?type=tcp&security=tls#%F0%9F%87%B0%F0%9F%87%B7%20Gwangmyeong-Si%2C%20KR%20%C2%B7%20LG%20POWERCOMM%20%7C%20182.209.240.254
-trojan://Aimer@220.71.185.223:10093?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20Gwangsan-Gu%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%20220.71.185.223
-trojan://Aimer@59.3.254.50:50000?sni=epccz.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20Gwangsan-Gu%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%2059.3.254.50
-trojan://Aimer@121.188.117.151:50000?sni=agepw.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20Gyeongsan-Si%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%20121.188.117.151
-trojan://Aimer@210.123.143.214:12514?sni=epcci.ambercc.filegear-sg.me&allowInsecure=0#%F0%9F%87%B0%F0%9F%87%B7%20Gyeongsan-Si%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%20210.123.143.214
-trojan://Aimer@14.32.12.235:12109?sni=epccf.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20Hanam%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%2014.32.12.235%20%235
-trojan://ttfang@116.47.199.34:50000?sni=ttfang.fange.me#%F0%9F%87%B0%F0%9F%87%B7%20Hanam%2C%20KR%20%C2%B7%20LG%20POWERCOMM%20%7C%20116.47.199.34%20%231
 trojan://Aimer@211.57.146.108:50000?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%87%B0%F0%9F%87%B7%20Hongcheon-Gun%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%20211.57.146.108
 trojan://ttfang@112.155.173.72:30069?sni=ttfang.fange.me#%F0%9F%87%B0%F0%9F%87%B7%20Hongseong-Gun%2C%20KR%20%C2%B7%20LG%20POWERCOMM%20%7C%20112.155.173.72
 trojan://AE62539071@13.209.16.12:443?sni=light-sheepdog.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B7%20Amazon.com%20%7C%2013.209.16.12%20%231
@@ -998,3 +990,11 @@ trojan://FH72359861@52.221.252.138:443?type=tcp&security=none&encryption=none&sn
 trojan://Aimer@52.76.137.189:443?sni=epcco.ambercc.filegear-sg.me&allowInsecure=0#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2052.76.137.189
 trojan://FH72359861@52.77.218.157:443?sni=simple-sunbeam.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2052.77.218.157%20%231
 trojan://FH72359861@52.77.218.157:443?type=tcp&security=none&encryption=none&sni=simple-sunbeam.rooster465.autos&fp=edge#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2052.77.218.157%20%232
+trojan://4467ae8518abf1ef321618c0bfb5549ccc@54.169.111.81:10001?security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2054.169.111.81%20%231
+trojan://4467ae8518abf1ef321618c0bfb5549ccc@54.169.111.81:10002?security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2054.169.111.81%20%232
+trojan://4467ae8518abf1ef321618c0bfb5549ccc@54.169.111.81:10003?security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2054.169.111.81%20%233
+trojan://4467ae8518abf1ef321618c0bfb5549ccc@54.169.111.81:10004?security=tls&sni=www.cloudflare.com&type=tcp&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2054.169.111.81%20%234
+trojan://4467ae8518abf1ef321618c0bfb5549ccc@54.169.111.81:10005?security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2054.169.111.81%20%235
+trojan://AE62539071@54.169.117.161:443?sni=simple-rodent.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2054.169.117.161%20%231
+trojan://AE62539071@54.169.117.161:443?type=tcp&security=none&encryption=none&sni=simple-rodent.rooster465.autos&fp=qq#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2054.169.117.161%20%232
+trojan://AE62539071@54.169.117.191:443?sni=excited-sole.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2054.169.117.191%20%231

@@ -1,11 +1,3 @@
-trojan://4467ae8518abf1ef321618c0bfb5549ccc@54.169.111.81:10001?security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2054.169.111.81%20%231
-trojan://4467ae8518abf1ef321618c0bfb5549ccc@54.169.111.81:10002?security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2054.169.111.81%20%232
-trojan://4467ae8518abf1ef321618c0bfb5549ccc@54.169.111.81:10003?security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2054.169.111.81%20%233
-trojan://4467ae8518abf1ef321618c0bfb5549ccc@54.169.111.81:10004?security=tls&sni=www.cloudflare.com&type=tcp&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2054.169.111.81%20%234
-trojan://4467ae8518abf1ef321618c0bfb5549ccc@54.169.111.81:10005?security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2054.169.111.81%20%235
-trojan://AE62539071@54.169.117.161:443?sni=simple-rodent.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2054.169.117.161%20%231
-trojan://AE62539071@54.169.117.161:443?type=tcp&security=none&encryption=none&sni=simple-rodent.rooster465.autos&fp=qq#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2054.169.117.161%20%232
-trojan://AE62539071@54.169.117.191:443?sni=excited-sole.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2054.169.117.191%20%231
 trojan://AE62539071@54.169.117.191:443?type=tcp&security=tls&encryption=none&fp=edge&sni=excited-sole.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2054.169.117.191%20%232
 trojan://AE62539071@54.169.174.154:443?sni=absolute-hare.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2054.169.174.154%20%231
 trojan://AE62539071@54.169.174.154:443?type=tcp&security=none&encryption=none&sni=absolute-hare.rooster465.autos&fp=edge#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2054.169.174.154%20%232
@@ -998,3 +990,11 @@ trojan://l9lTBt.P8x2LOHCsnhNRq@45.76.62.85:14090?sni=eh.vk.com#%F0%9F%87%BA%F0%9
 trojan://AE62539071@100.22.163.167:443?sni=bright-baboon.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Boardman%2C%20US%20%C2%B7%20Amazon.com%20%7C%20100.22.163.167%20%231
 trojan://AE62539071@100.22.163.167:443?type=tcp&security=none&encryption=none&sni=bright-baboon.rooster465.autos&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20Boardman%2C%20US%20%C2%B7%20Amazon.com%20%7C%20100.22.163.167%20%232
 trojan://FH72359861@16.146.11.254:443?sni=live-stallion.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20Boardman%2C%20US%20%C2%B7%20Amazon.com%20%7C%2016.146.11.254%20%231
+trojan://FH72359861@16.146.11.254:443?sni=live-stallion.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%87%BA%F0%9F%87%B8%20Boardman%2C%20US%20%C2%B7%20Amazon.com%20%7C%2016.146.11.254%20%232
+trojan://FH72359861@16.146.11.254:443?type=tcp&security=none&encryption=none&sni=live-stallion.rooster465.autos&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20Boardman%2C%20US%20%C2%B7%20Amazon.com%20%7C%2016.146.11.254%20%233
+trojan://FH72359861@34.210.213.17:443?sni=tough-tuna.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20Boardman%2C%20US%20%C2%B7%20Amazon.com%20%7C%2034.210.213.17%20%231
+trojan://FH72359861@34.210.213.17:443?sni=tough-tuna.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%87%BA%F0%9F%87%B8%20Boardman%2C%20US%20%C2%B7%20Amazon.com%20%7C%2034.210.213.17%20%232
+trojan://FH72359861@34.210.213.17:443?type=tcp&security=none&encryption=none&sni=tough-tuna.rooster465.autos&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20Boardman%2C%20US%20%C2%B7%20Amazon.com%20%7C%2034.210.213.17%20%233
+trojan://telegram-id-directvpn@34.210.47.105:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8%20Boardman%2C%20US%20%C2%B7%20Amazon.com%20%7C%2034.210.47.105%20%231
+trojan://telegram-id-directvpn@34.210.47.105:22222?sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8%20Boardman%2C%20US%20%C2%B7%20Amazon.com%20%7C%2034.210.47.105%20%232
+trojan://FH72359861@34.217.192.97:443?sni=warm-aardvark.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Boardman%2C%20US%20%C2%B7%20Amazon.com%20%7C%2034.217.192.97%20%231

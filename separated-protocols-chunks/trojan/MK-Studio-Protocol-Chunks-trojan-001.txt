@@ -965,14 +965,6 @@ trojan://ND91608427@15.237.137.197:443?security=tls&sni=fancy-skink.rooster465.a
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?security=tls&sni=t11.qifei.app#EPODONIOS
 trojan://UO36402987@34.251.228.118:443?security=tls&sni=definite-ladybird.rooster465.autos#EPODONIOS
 trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&sni=great-krill.rooster465.autos#EPODONIOS
-trojan://FH72359861@3.253.78.205:443?allowInsecure=0&sni=balanced-heron.rooster465.autos#EPODONIOS
-trojan://Mitivpn@151.101.110.219:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#EPODONIOS
-trojan://Telegram_healer_config@104.21.16.123:443?path=/tr/qL8YIeH28wNcXfNTPgLCwOhNFEr?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=7x7o3vtq5z6ymu3hv1fh-op9blt.hya6losm6lznoxhm6w3mk.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=7X7o3VTq5z6ymu3Hv1fH-Op9BlT.hYa6LOSM6lZNOXHm6w3MK.woRKErS.DeV#EPODONIOS
-trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos#EPODONIOS
-trojan://UO36402987@definite-ladybird.rooster465.autos:443?fp=chrome#EPODONIOS
-trojan://bbe734f4-3b51-40d6-8bf7-1c9216eba283@185.246.131.170:443?type=ws&path=/&host=amp-api-edge.apps.apple.com&security=none#EPODONIOS
-trojan://humanity@104.18.152.133:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
-trojan://humanity@165.215.250.14:443?fp=chrome&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#EPODONIOS
 trojan://M2M4M2E0Rma3OA==@46.38.151.36:50187?path=/p/uk/1/t/w/3g7fwj6&security=none&host=pressure-calm-new.nic.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%7C%2046.38.151.36
 trojan://8r%3C%5B9%27l6hAO%238ZQi@213.176.113.98:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%C2%B7%20Aeza%20Group%20%7C%20213.176.113.98
 trojan://yu7AvNL9rW@212.33.206.111:80?allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%C2%B7%20Asiatech%20Data%E2%80%A6%20%7C%20212.33.206.111
@@ -998,3 +990,11 @@ trojan://ecd5e68e-92a5-4f85-afe1-1775ec84bf54@5.239.245.250:443?security=tls&sni
 trojan://-EleP1yiGc6SD72p-m8Brw@78.39.9.168:6161?mode=gun&security=tls&alpn=h2&fp=chrome&type=grpc&serviceName=gg&sni=speedtest.net#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%C2%B7%20Iran%20Telecommunication%E2%80%A6%20%7C%2078.39.9.168%20%232
 trojan://G4CjsAfHNn@45.129.36.151:443?security=tls&sni=x1.ehccn.site&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%C2%B7%20Mobin%20Arvand%E2%80%A6%20%7C%2045.129.36.151
 trojan://2ad5f69a-0d8f-4e33-af04-6b82d0acc672@62.220.127.60:8080?security=tls&sni=node5.servernode.store&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%C2%B7%20Mobin%20Arvand%E2%80%A6%20%7C%2062.220.127.60
+trojan://WES_fgw3oQW65zFx4_Ax1AmdW-rrAorU@62.60.216.10:443?sni=de2.nnvpn.io#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%C2%B7%20NetCrafters%20OU%20%7C%2062.60.216.10%20%231
+trojan://WES_fgw3oQW65zFx4_Ax1AmdW-rrAorU@62.60.216.10:443?sni=#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%C2%B7%20NetCrafters%20OU%20%7C%2062.60.216.10%20%232
+trojan://KAFtZ_hlCPQM2RIglPZDGQ@62.60.249.178:8390?security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%C2%B7%20NetCrafters%20OU%20%7C%2062.60.249.178
+trojan://GdsXparyS16_BEopMz6SAg@185.143.234.110:2087?path=/&security=tls&insecure=0&host=nlhell.nikatelstore.ir&fp=chrome&type=ws&allowInsecure=0&sni=nlhell.nikatelstore.ir#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%C2%B7%20Noyan%20Abr%20Arvan%20Co.%20%28%E2%80%A6%20%7C%20185.143.234.110%20%232
+trojan://dTaXAtuoQF@185.143.235.200:443/?type=ws&host=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir&path=%2Fdownloadgame&security=tls&sni=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%C2%B7%20Noyan%20Abr%20Arvan%20Co.%20%28%E2%80%A6%20%7C%20185.143.235.200%20%237
+trojan://dTaXAtuoQF@185.143.235.200:443/?type=tcp&security=tls&sni=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%C2%B7%20Noyan%20Abr%20Arvan%20Co.%20%28%E2%80%A6%20%7C%20185.143.235.200%20%238
+trojan://dTaXAtuoQF@185.143.235.200:443?sni=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%C2%B7%20Noyan%20Abr%20Arvan%20Co.%20%28%E2%80%A6%20%7C%20185.143.235.200%20%239
+trojan://$Iu_sL4k*u,9@185.143.235.201:2096?security=tls&type=ws&sni=anten.ir&path=/trPrm7agLwtAsC9J9F?ed\u003d2560&host=mail.link.link-kon.ir#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%C2%B7%20Noyan%20Abr%20Arvan%20Co.%20%28%E2%80%A6%20%7C%20185.143.235.201%20%2316
