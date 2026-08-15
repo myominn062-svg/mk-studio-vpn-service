@@ -1,7 +1,7 @@
 {
   "brand": "MK Studio VPN Service",
-  "updated_at": "2026-08-15 16:40:09 UTC",
-  "total_unique_raw": 263523,
+  "updated_at": "2026-08-15 17:05:33 UTC",
+  "total_unique_raw": 263535,
   "total_unique": 100000,
   "caps": {
     "max_all": 100000,
@@ -18,7 +18,7 @@
     "trojan": 18392,
     "ss": 13659,
     "ssr": 62,
-    "hysteria2": 3632,
+    "hysteria2": 3633,
     "tuic": 12,
     "mixed_chunks": 100,
     "protocol_chunks": {
@@ -30,7 +30,7 @@
       "hysteria2": 4,
       "tuic": 1
     },
-    "countries_detected": 133715,
+    "countries_detected": 133714,
     "countries_unknown": 15000,
     "country_files": 122
   },
@@ -141,7 +141,7 @@
     "SA": 62,
     "SC": 2951,
     "SE": 3918,
-    "SG": 3386,
+    "SG": 3385,
     "SI": 178,
     "SK": 14,
     "TH": 68,
@@ -169,7 +169,7 @@
     {
       "name": "epodonios-all",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
-      "added": 4550,
+      "added": 4547,
       "error": null
     },
     {
@@ -199,7 +199,7 @@
     {
       "name": "epodonios-vless",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt",
-      "added": 27,
+      "added": 40,
       "error": null
     },
     {
@@ -253,7 +253,7 @@
     {
       "name": "aliilapro-sub",
       "url": "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
-      "added": 1551,
+      "added": 1553,
       "error": null
     },
     {
@@ -297,7 +297,7 @@
     "trojan_configs.txt": 18392,
     "ss_configs.txt": 13659,
     "ssr_configs.txt": 62,
-    "hysteria2_configs.txt": 3632,
+    "hysteria2_configs.txt": 3633,
     "tuic_configs.txt": 12
   }
 }

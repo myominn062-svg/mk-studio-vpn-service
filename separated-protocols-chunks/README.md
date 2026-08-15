@@ -9,6 +9,6 @@ Large protocol lists split into smaller files for lighter clients.
 | [trojan/](./trojan/) | 19 | 18392 |
 | [ss/](./ss/) | 14 | 13659 |
 | [ssr/](./ssr/) | 1 | 62 |
-| [hysteria2/](./hysteria2/) | 4 | 3632 |
+| [hysteria2/](./hysteria2/) | 4 | 3633 |
 | [tuic/](./tuic/) | 1 | 12 |
 
