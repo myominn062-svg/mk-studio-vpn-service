@@ -1,3 +1,12 @@
+trojan://o9p0q1r2-3456-7bcd-8abc-9012abcdef56@104.21.25.480:443?type=ws&host=trojan.workers.dev&path=/trojan#%F0%9F%8C%90%20Unknown%20%7C%20104.21.25.480%20%232
+trojan://q1r2s3t4-3456-7bcd-8abc-9012abcdef12@104.21.25.490:443?type=ws&host=trojan.workers.dev&path=/trojan#%F0%9F%8C%90%20Unknown%20%7C%20104.21.25.490%20%232
+trojan://s3t4u5v6-5678-9abc-def0-1234567890ab@104.21.25.500:443?type=ws&host=trojan.workers.dev&path=/trojan#%F0%9F%8C%90%20Unknown%20%7C%20104.21.25.500%20%232
+trojan://t4u5v6w7-5678-9abc-def0-1234567890ab@104.21.25.510:443?type=ws&host=trojan.workers.dev&path=/trojan#%F0%9F%8C%90%20Unknown%20%7C%20104.21.25.510%20%232
+trojan://u5v6w7x8-9012-3bcd-4abc-5678abcdef78@104.21.25.520:443?type=ws&host=trojan.workers.dev&path=/trojan#%F0%9F%8C%90%20Unknown%20%7C%20104.21.25.520%20%232
+trojan://v6w7x8y9-3456-7bcd-8abc-9012abcdef12@104.21.25.530:443?type=ws&host=trojan.workers.dev&path=/trojan#%F0%9F%8C%90%20Unknown%20%7C%20104.21.25.530%20%232
+trojan://y9z0a1b2-5678-9abc-def0-1234567890ab@104.21.25.540:443?type=ws&host=trojan.workers.dev&path=/trojan#%F0%9F%8C%90%20Unknown%20%7C%20104.21.25.540%20%232
+trojan://3f29ee90-8567-4671-8d99-9875874e472f@116.fastea.top:53316?security=tls&type=tcp&headerType=none#%F0%9F%8C%90%20Unknown%20%7C%20116.fastea.top
+trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?allowInsecure=0&sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#%F0%9F%8C%90%20Unknown%20%7C%2013c2c931-swin40-swy6li-tni2.cu.plebai.net
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@1744156156.tencentapp.cn:2053/?type=grpc&serviceName=m3u8&security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%F0%9F%8C%90%20Unknown%20%7C%201744156156.tencentapp.cn%20%231
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@1744156156.tencentapp.cn:2083/?type=grpc&serviceName=m3u8&security=tls&sni=1744156312.speed.dlsvara.china.nicchina.pp.ua#%F0%9F%8C%90%20Unknown%20%7C%201744156156.tencentapp.cn%20%232
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@1744156156.tencentapp.cn:2087/?type=grpc&serviceName=m3u8&security=tls&sni=1744156312.speed.laxvara.china.nicchina.pp.ua#%F0%9F%8C%90%20Unknown%20%7C%201744156156.tencentapp.cn%20%233
@@ -989,12 +998,3 @@ trojan://FcnFFxR3
 trojan://blue2024@104.24.59.48:443?allowInsecure=1&amp;sni=hb.lii2010.us.kg&amp;ws=1&amp;wspath=%2F%3Fed%3D2560#%F0%9F%8C%90%20Cloudflare%20%7C%20104.24.59.48%20%231
 trojan://blue2024@108.162.195.202:443?sni=hb.lii2010.us.kg&amp;allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20108.162.195.202%20%231
 trojan://blue2024@162.159.14.2:443?sni=hb.lii2010.us.kg&amp;allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20162.159.14.2%20%231
-trojan://%3AZ%23%253cdIG
-trojan://:bC5^lakx
-trojan://8r%3C%5B9
-trojan://blue2024@craig.ns.cloudflare.com:443?allowInsecure=1&amp;sni=tb.promote.icu&amp;ws=1&amp;wspath=%2F%3Fed%3D2560#%F0%9F%8C%90%20Cloudflare%20%7C%20craig.ns.cloudflare.com%20%231
-trojan://4e399fb9-5a4c-49cd-9849-2051512f4c6c@aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27101?security=tls&amp;sni=q08m.vgraxiw73s.hasyaf.cn&amp;type=tcp&amp;headerType=none#%F0%9F%8C%90%20Unknown%20%7C%20aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz%20%231
-trojan://26e159d2-ec3a-4005-97c7-eb480bab096d@aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27101?security=tls&amp;sni=q08m.vgraxiw73s.hasyaf.cn&amp;type=tcp&amp;headerType=none#%F0%9F%8C%90%20Unknown%20%7C%20aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz%20%232
-trojan://c4da094b-3487-4607-b703-bc380ea3f461@aafrtpfxr.twl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27201?security=tls&amp;sni=q08m.vgraxiw73s.hasyaf.cn&amp;type=tcp&amp;headerType=none#%F0%9F%8C%90%20Unknown%20%7C%20aafrtpfxr.twl01i9zjfegelp.5xfsur8v62.gosdk.xyz%20%231
-trojan://3672449442956713984@champion-dog.lab300.lat:443?security=tls&amp;type=tcp&amp;headerType=none#%F0%9F%8C%90%20Unknown%20%7C%20champion-dog.lab300.lat%20%231
-trojan://YA3aEKa6lSDxRB3X5SOwCTNDZjIpyDeepC3gOlcY4a2nZ837zyxR089qAFCFuS@chapter.freetrade.link:443?security=tls&amp;sni=chapter.freetrade.link&amp;type=tcp&amp;headerType=none#%F0%9F%8C%90%20Unknown%20%7C%20chapter.freetrade.link%20%231

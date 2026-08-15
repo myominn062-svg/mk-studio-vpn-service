@@ -1,3 +1,12 @@
+trojan://Aimer@27.50.49.136:443?sni=agepy.aimercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%C2%B7%20Cloudflare%20London%20%7C%2027.50.49.136%20%231
+trojan://Aimer@27.50.49.136:443?security=tls&sni=epccj.ambercc.filegear-sg.me&type=ws&host=epccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%C2%B7%20Cloudflare%20London%20%7C%2027.50.49.136%20%232
+trojan://Aimer@27.50.49.136:443?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%C2%B7%20Cloudflare%20London%20%7C%2027.50.49.136%20%233
+trojan://Aimer@27.50.49.136:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%C2%B7%20Cloudflare%20London%20%7C%2027.50.49.136%20%234
+trojan://Aimer@27.50.49.136:443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%C2%B7%20Cloudflare%20London%20%7C%2027.50.49.136%20%235
+trojan://Aimer@27.50.49.154:2083?sni=epccv.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%C2%B7%20Cloudflare%20London%20%7C%2027.50.49.154%20%231
+trojan://SSorg@27.50.49.154:2083/?type=tcp&security=tls&sni=ssjj.esslh.filegear-sg.me&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%C2%B7%20Cloudflare%20London%20%7C%2027.50.49.154%20%232
+trojan://Aimer@27.50.49.154:2083?sni=epccz.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%C2%B7%20Cloudflare%20London%20%7C%2027.50.49.154%20%233
+trojan://Aimer@27.50.49.156:2096?sni=epcci.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%C2%B7%20Cloudflare%20London%20%7C%2027.50.49.156%20%231
 trojan://Aimer@27.50.49.156:2096?security=tls&sni=epcch.ambercc.filegear-sg.me&type=ws&host=epcch.ambercc.filegear-sg.me&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%C2%B7%20Cloudflare%20London%20%7C%2027.50.49.156%20%232
 trojan://Aimer@27.50.49.156:2096/?type=tcp&security=tls&sni=epcch.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%C2%B7%20Cloudflare%20London%20%7C%2027.50.49.156%20%233
 trojan://Aimer@27.50.49.156:2096?sni=epccn.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%C2%B7%20Cloudflare%20London%20%7C%2027.50.49.156%20%234
@@ -989,12 +998,3 @@ trojan://Aimer@154.211.8.90:443?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=256
 trojan://Aimer@154.211.8.90:443?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Cloudflare%20London%20%7C%20154.211.8.90%20%234
 trojan://Aimer@154.211.8.98:2087?sni=epccu.ambercc.filegear-sg.me&allowInsecure=0#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Cloudflare%20London%20%7C%20154.211.8.98%20%231
 trojan://Aimer@154.211.8.98:2087?sni=agepy.aimercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Cloudflare%20London%20%7C%20154.211.8.98%20%232
-trojan://SSorg@154.211.8.98:2087/?type=tcp&security=tls&sni=ssjj.esslh.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Cloudflare%20London%20%7C%20154.211.8.98%20%233
-trojan://Aimer@154.218.15.250:2083?security=tls&sni=agept.ambercc.filegear-sg.me&type=tcp#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Cloudflare%20London%20%7C%20154.218.15.250%20%231
-trojan://Aimer@154.219.5.242:2053?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Cloudflare%20London%20%7C%20154.219.5.242%20%231
-trojan://Aimer@154.219.5.242:2053?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Cloudflare%20London%20%7C%20154.219.5.242%20%232
-trojan://Aimer@154.219.5.249:8443?allowInsecure=0&sni=epccn.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Cloudflare%20London%20%7C%20154.219.5.249
-trojan://Aimer@154.219.5.55:443?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Cloudflare%20London%20%7C%20154.219.5.55
-trojan://NISHIKUITAN111@154.83.2.121:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Cloudflare%20London%20%7C%20154.83.2.121%20%231
-trojan://amclubs@154.83.2.125:2087?sni=tran.amclubstest.nyc.mn#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Cloudflare%20London%20%7C%20154.83.2.125%20%231
-trojan://amclubs@154.83.2.125:2087/?type=tcp&security=tls&sni=tran.amclubstest.nyc.mn#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Cloudflare%20London%20%7C%20154.83.2.125%20%232

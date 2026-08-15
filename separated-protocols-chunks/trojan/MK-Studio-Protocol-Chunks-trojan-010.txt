@@ -1,3 +1,12 @@
+trojan://SSorg@154.211.8.98:2087/?type=tcp&security=tls&sni=ssjj.esslh.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Cloudflare%20London%20%7C%20154.211.8.98%20%233
+trojan://Aimer@154.218.15.250:2083?security=tls&sni=agept.ambercc.filegear-sg.me&type=tcp#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Cloudflare%20London%20%7C%20154.218.15.250%20%231
+trojan://Aimer@154.219.5.242:2053?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Cloudflare%20London%20%7C%20154.219.5.242%20%231
+trojan://Aimer@154.219.5.242:2053?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Cloudflare%20London%20%7C%20154.219.5.242%20%232
+trojan://Aimer@154.219.5.249:8443?allowInsecure=0&sni=epccn.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Cloudflare%20London%20%7C%20154.219.5.249
+trojan://Aimer@154.219.5.55:443?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Cloudflare%20London%20%7C%20154.219.5.55
+trojan://NISHIKUITAN111@154.83.2.121:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Cloudflare%20London%20%7C%20154.83.2.121%20%231
+trojan://amclubs@154.83.2.125:2087?sni=tran.amclubstest.nyc.mn#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Cloudflare%20London%20%7C%20154.83.2.125%20%231
+trojan://amclubs@154.83.2.125:2087/?type=tcp&security=tls&sni=tran.amclubstest.nyc.mn#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Cloudflare%20London%20%7C%20154.83.2.125%20%232
 trojan://amclubs2024@154.83.2.200:443?security=tls&sni=tr.amclub.us.kg&type=ws&host=tr.amclub.us.kg#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Cloudflare%20London%20%7C%20154.83.2.200%20%231
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096/?type=ws&path=%2F&security=tls&sni=vle.amclubsvip.dpdns.org#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Cloudflare%20London%20%7C%20154.83.2.54%20%231
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?path=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&security=tls&host=vle.amclubsvip.dpdns.org&type=ws&sni=vle.amclubsvip.dpdns.org#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Cloudflare%20London%20%7C%20154.83.2.54%20%232
@@ -989,12 +998,3 @@ trojan://Aimer@107.172.30.194:587?sni=epmw.ambercc.filegear-sg.me#%F0%9F%87%BA%F
 trojan://Aimer@107.172.87.159:12354?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20Santa%20Clara%2C%20US%20%C2%B7%20HostPapa%20%7C%20107.172.87.159%20%231
 trojan://Aimer@107.172.87.159:12354?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%BA%F0%9F%87%B8%20Santa%20Clara%2C%20US%20%C2%B7%20HostPapa%20%7C%20107.172.87.159%20%232
 trojan://Aimer@107.173.111.232:20082?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20Santa%20Clara%2C%20US%20%C2%B7%20HostPapa%20%7C%20107.173.111.232%20%231
-trojan://Aimer@107.173.111.232:20087?type=ws&sni=epcca.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20Santa%20Clara%2C%20US%20%C2%B7%20HostPapa%20%7C%20107.173.111.232%20%232
-trojan://Aimer@107.173.111.232:20087/?type=tcp&security=tls&sni=epccd.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20Santa%20Clara%2C%20US%20%C2%B7%20HostPapa%20%7C%20107.173.111.232%20%233
-trojan://Aimer@107.173.111.232:20087?sni=epccd.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20Santa%20Clara%2C%20US%20%C2%B7%20HostPapa%20%7C%20107.173.111.232%20%234
-trojan://Aimer@107.173.149.166:8081?sni=epms.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20Santa%20Clara%2C%20US%20%C2%B7%20HostPapa%20%7C%20107.173.149.166
-trojan://Aimer@107.173.155.242:2087?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20Santa%20Clara%2C%20US%20%C2%B7%20HostPapa%20%7C%20107.173.155.242%20%231
-trojan://Aimer@107.173.155.242:2087?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%BA%F0%9F%87%B8%20Santa%20Clara%2C%20US%20%C2%B7%20HostPapa%20%7C%20107.173.155.242%20%232
-trojan://Aimer@107.174.192.67:42522?sni=epmd.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20Santa%20Clara%2C%20US%20%C2%B7%20HostPapa%20%7C%20107.174.192.67%20%231
-trojan://Aimer@107.174.192.67:42522?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%BA%F0%9F%87%B8%20Santa%20Clara%2C%20US%20%C2%B7%20HostPapa%20%7C%20107.174.192.67%20%232
-trojan://Aimer@107.174.88.160:443?sni=epmw.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20Santa%20Clara%2C%20US%20%C2%B7%20HostPapa%20%7C%20107.174.88.160
