@@ -1,7 +1,7 @@
 {
   "brand": "MK Studio VPN Service",
-  "updated_at": "2026-08-15 08:49:36 UTC",
-  "total_unique_raw": 263074,
+  "updated_at": "2026-08-15 09:20:13 UTC",
+  "total_unique_raw": 262798,
   "total_unique": 100000,
   "caps": {
     "max_all": 100000,
@@ -13,10 +13,10 @@
   "counts": {
     "all": 100000,
     "featured": 1500,
-    "vmess": 13255,
+    "vmess": 13223,
     "vless": 100000,
-    "trojan": 17940,
-    "ss": 13707,
+    "trojan": 17920,
+    "ss": 13634,
     "ssr": 63,
     "hysteria2": 3551,
     "tuic": 12,
@@ -169,7 +169,7 @@
     {
       "name": "epodonios-all",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
-      "added": 4675,
+      "added": 4676,
       "error": null
     },
     {
@@ -199,7 +199,7 @@
     {
       "name": "epodonios-vless",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt",
-      "added": 2,
+      "added": 9,
       "error": null
     },
     {
@@ -247,13 +247,13 @@
     {
       "name": "solispirit-all",
       "url": "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt",
-      "added": 8151,
+      "added": 7865,
       "error": null
     },
     {
       "name": "aliilapro-sub",
       "url": "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
-      "added": 1567,
+      "added": 1568,
       "error": null
     },
     {
@@ -283,7 +283,7 @@
     {
       "name": "pawdroid-free-servers",
       "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
-      "added": 11,
+      "added": 12,
       "error": null
     }
   ],
@@ -292,10 +292,10 @@
     "all_extracted_configs.txt": 100000,
     "MK-Studio-VPN-All-Type.txt": 100000,
     "MK-Studio-VPN.txt": 1500,
-    "vmess_configs.txt": 13255,
+    "vmess_configs.txt": 13223,
     "vless_configs.txt": 100000,
-    "trojan_configs.txt": 17940,
-    "ss_configs.txt": 13707,
+    "trojan_configs.txt": 17920,
+    "ss_configs.txt": 13634,
     "ssr_configs.txt": 63,
     "hysteria2_configs.txt": 3551,
     "tuic_configs.txt": 12
