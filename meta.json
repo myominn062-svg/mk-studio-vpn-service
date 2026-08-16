@@ -1,7 +1,7 @@
 {
   "brand": "MK Studio VPN Service",
-  "updated_at": "2026-08-16 20:38:19 UTC",
-  "total_unique_raw": 263798,
+  "updated_at": "2026-08-16 21:03:57 UTC",
+  "total_unique_raw": 263808,
   "total_unique": 100000,
   "caps": {
     "max_all": 100000,
@@ -13,12 +13,12 @@
   "counts": {
     "all": 100000,
     "featured": 1500,
-    "vmess": 12525,
+    "vmess": 12526,
     "vless": 100000,
-    "trojan": 19010,
-    "ss": 13516,
+    "trojan": 19008,
+    "ss": 13517,
     "ssr": 110,
-    "hysteria2": 3727,
+    "hysteria2": 3728,
     "tuic": 12,
     "mixed_chunks": 100,
     "protocol_chunks": {
@@ -170,7 +170,7 @@
     {
       "name": "epodonios-all",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
-      "added": 4734,
+      "added": 4733,
       "error": null
     },
     {
@@ -200,7 +200,7 @@
     {
       "name": "epodonios-vless",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt",
-      "added": 26,
+      "added": 35,
       "error": null
     },
     {
@@ -230,7 +230,7 @@
     {
       "name": "alirewa-config",
       "url": "https://raw.githubusercontent.com/Alirewa/V2ray-Configs/main/config.txt",
-      "added": 1996,
+      "added": 1997,
       "error": null
     },
     {
@@ -254,7 +254,7 @@
     {
       "name": "aliilapro-sub",
       "url": "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
-      "added": 1611,
+      "added": 1612,
       "error": null
     },
     {
@@ -293,12 +293,12 @@
     "all_extracted_configs.txt": 100000,
     "MK-Studio-VPN-All-Type.txt": 100000,
     "MK-Studio-VPN.txt": 1500,
-    "vmess_configs.txt": 12525,
+    "vmess_configs.txt": 12526,
     "vless_configs.txt": 100000,
-    "trojan_configs.txt": 19010,
-    "ss_configs.txt": 13516,
+    "trojan_configs.txt": 19008,
+    "ss_configs.txt": 13517,
     "ssr_configs.txt": 110,
-    "hysteria2_configs.txt": 3727,
+    "hysteria2_configs.txt": 3728,
     "tuic_configs.txt": 12
   }
 }

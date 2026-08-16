@@ -1,3 +1,11 @@
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.196.44:2090?encryption=none&headerType=http&security=none&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20Riga%2C%20LV%20%C2%B7%20Cgi%20Global%20Limited%20%7C%2031.56.196.44
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.196.5:2090?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%BB%20Riga%2C%20LV%20%C2%B7%20Cgi%20Global%20Limited%20%7C%2031.56.196.5
+vless://NamedZadim@31.56.196.53:67?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20Riga%2C%20LV%20%C2%B7%20Cgi%20Global%20Limited%20%7C%2031.56.196.53%20%231
+vless://NamedZadim@31.56.196.53:67?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20Riga%2C%20LV%20%C2%B7%20Cgi%20Global%20Limited%20%7C%2031.56.196.53%20%232
+vless://NamedZadim@31.56.196.53:80?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%87%B1%F0%9F%87%BB%20Riga%2C%20LV%20%C2%B7%20Cgi%20Global%20Limited%20%7C%2031.56.196.53%20%233
+vless://NamedZadim@31.56.196.53:80?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20Riga%2C%20LV%20%C2%B7%20Cgi%20Global%20Limited%20%7C%2031.56.196.53%20%234
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.196.56:8882?security=&encryption=none&headerType=http&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20Riga%2C%20LV%20%C2%B7%20Cgi%20Global%20Limited%20%7C%2031.56.196.56
+vless://9d564717-cee2-482f-a841-f7a3af7a08d3@31.56.196.59:61224?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20Riga%2C%20LV%20%C2%B7%20Cgi%20Global%20Limited%20%7C%2031.56.196.59
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.196.94:2090?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20Riga%2C%20LV%20%C2%B7%20Cgi%20Global%20Limited%20%7C%2031.56.196.94
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.197.120:8882?security=&encryption=none&headerType=http&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20Riga%2C%20LV%20%C2%B7%20Cgi%20Global%20Limited%20%7C%2031.56.197.120%20%231
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.197.120:8882?encryption=none&security=none&type=tcp&headerType=http&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#%F0%9F%87%B1%F0%9F%87%BB%20Riga%2C%20LV%20%C2%B7%20Cgi%20Global%20Limited%20%7C%2031.56.197.120%20%232
@@ -990,11 +998,3 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?mode=gun&secur
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.157:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%7C%20185.236.232.157
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.159:80?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&type=grpc#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%7C%20185.236.232.159
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.171:80?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%7C%20185.236.232.171%20%231
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.171:80?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&type=grpc#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%7C%20185.236.232.171%20%232
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.175:80?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%7C%20185.236.232.175%20%231
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.175:80?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&type=grpc#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%7C%20185.236.232.175%20%232
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880/?type=grpc&encryption=none#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%7C%20185.236.232.189%20%231
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&security=none&type=grpc#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%7C%20185.236.232.189%20%232
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.199:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%7C%20185.236.232.199
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.20:80?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%7C%20185.236.232.20%20%231
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.20:80?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%7C%20185.236.232.20%20%232
