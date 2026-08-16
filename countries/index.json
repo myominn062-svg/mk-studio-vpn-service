@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16 03:58:11 UTC",
+  "updated_at": "2026-08-16 04:45:17 UTC",
   "countries": [
     {
       "code": "DE",
@@ -87,7 +87,7 @@
     },
     {
       "code": "CA",
-      "count": 2948,
+      "count": 2950,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/CA.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/CA.sub.txt"
     },
@@ -231,7 +231,7 @@
     },
     {
       "code": "IN",
-      "count": 438,
+      "count": 437,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/IN.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/IN.sub.txt"
     },
