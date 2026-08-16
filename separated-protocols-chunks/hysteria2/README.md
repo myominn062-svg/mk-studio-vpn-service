@@ -1,7 +1,7 @@
 # hysteria2
 
 Chunk size: **1000** configs per file.
-Total chunks: **4** · Total configs: **3615**
+Total chunks: **4** · Total configs: **3576**
 
 Use these when a single large list is too heavy for your client.
 
@@ -10,5 +10,5 @@ Use these when a single large list is too heavy for your client.
 | `MK-Studio-Protocol-Chunks-hysteria2-001.txt` | 1000 |
 | `MK-Studio-Protocol-Chunks-hysteria2-002.txt` | 1000 |
 | `MK-Studio-Protocol-Chunks-hysteria2-003.txt` | 1000 |
-| `MK-Studio-Protocol-Chunks-hysteria2-004.txt` | 615 |
+| `MK-Studio-Protocol-Chunks-hysteria2-004.txt` | 576 |
 
