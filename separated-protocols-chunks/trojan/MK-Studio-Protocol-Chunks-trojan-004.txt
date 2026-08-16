@@ -1,9 +1,3 @@
-trojan://telegram-id-privatevpns@35.181.241.230:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.241.230%20%231
-trojan://telegram-id-directvpn@35.181.246.153:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.246.153
-trojan://telegram-id-directvpn@35.181.247.254:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.247.254
-trojan://telegram-id-privatevpns@35.181.46.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.46.125%20%231
-trojan://telegram-id-directvpn@35.181.46.125:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.46.125%20%232
-trojan://NQ26071394@35.181.65.111:443?sni=ready-kangaroo.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.65.111%20%231
 trojan://NQ26071394@35.181.65.111:443?type=tcp&security=tls&headerType=none&sni=ready-kangaroo.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.65.111%20%232
 trojan://telegram-id-privatevpns@35.181.70.2:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.70.2%20%231
 trojan://telegram-id-directvpn@35.181.70.2:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.70.2%20%232
@@ -998,3 +992,9 @@ trojan://94af0550-902b-11eb-b135-1239d0255272@nl-trojan.bonds.id:443?sni=#%F0%9F
 trojan://88939272-790a-441f-b12b-8ce531aca810@polo01.kctr2038.icu:443?security=tls&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20Meppel%2C%20NL%20%C2%B7%20Scalaxy%20%7C%20polo01.kctr2038.icu
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.52:443?security=tls&sni=trus.moonfree.top&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Roosendaal%2C%20NL%20%C2%B7%20NForce%20Entertainment%20%7C%20185.107.56.52
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.53:443?security=tls&sni=trus.moonfree.top&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Roosendaal%2C%20NL%20%C2%B7%20NForce%20Entertainment%20%7C%20185.107.56.53
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.54:443?security=tls&sni=trus.moonfree.top#%F0%9F%87%B3%F0%9F%87%B1%20Roosendaal%2C%20NL%20%C2%B7%20NForce%20Entertainment%20%7C%20185.107.56.54
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.55:443?security=tls&sni=trus.moonfree.top&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Roosendaal%2C%20NL%20%C2%B7%20NForce%20Entertainment%20%7C%20185.107.56.55
+trojan://blue2024@188.164.248.160:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%C2%B7%20Cloudflare%20London%20%7C%20188.164.248.160
+trojan://NISHIKUITAN111@194.152.44.218:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%C2%B7%20Cloudflare%20London%20%7C%20194.152.44.218
+trojan://NISHIKUITAN111@45.131.208.126:443/?type=ws&host=za.ylks.xyz&path=%2F%2F&security=tls&sni=za.ylks.xyz&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%C2%B7%20Cloudflare%20London%20%7C%2045.131.208.126%20%232
+trojan://ttfang@45.131.208.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%C2%B7%20Cloudflare%20London%20%7C%2045.131.208.216
