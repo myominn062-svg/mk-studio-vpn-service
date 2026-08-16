@@ -43,7 +43,7 @@ Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`
 | CO | 524 | [`CO.txt`](./CO.txt) | [`CO.sub.txt`](./CO.sub.txt) |
 | AT | 507 | [`AT.txt`](./AT.txt) | [`AT.sub.txt`](./AT.sub.txt) |
 | BG | 458 | [`BG.txt`](./BG.txt) | [`BG.sub.txt`](./BG.sub.txt) |
-| IN | 443 | [`IN.txt`](./IN.txt) | [`IN.sub.txt`](./IN.sub.txt) |
+| IN | 444 | [`IN.txt`](./IN.txt) | [`IN.sub.txt`](./IN.sub.txt) |
 | UA | 434 | [`UA.txt`](./UA.txt) | [`UA.sub.txt`](./UA.sub.txt) |
 | BR | 336 | [`BR.txt`](./BR.txt) | [`BR.sub.txt`](./BR.sub.txt) |
 | AM | 273 | [`AM.txt`](./AM.txt) | [`AM.sub.txt`](./AM.sub.txt) |
