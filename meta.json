@@ -1,7 +1,7 @@
 {
   "brand": "MK Studio VPN Service",
-  "updated_at": "2026-08-17 22:50:14 UTC",
-  "total_unique_raw": 237679,
+  "updated_at": "2026-08-17 23:09:55 UTC",
+  "total_unique_raw": 237674,
   "total_unique": 100000,
   "caps": {
     "max_all": 100000,
@@ -13,12 +13,12 @@
   "counts": {
     "all": 100000,
     "featured": 1500,
-    "vmess": 10650,
+    "vmess": 10648,
     "vless": 100000,
-    "trojan": 19541,
-    "ss": 13664,
+    "trojan": 19549,
+    "ss": 13668,
     "ssr": 132,
-    "hysteria2": 3790,
+    "hysteria2": 3788,
     "tuic": 15,
     "mixed_chunks": 100,
     "protocol_chunks": {
@@ -30,7 +30,7 @@
       "hysteria2": 4,
       "tuic": 1
     },
-    "countries_detected": 128186,
+    "countries_detected": 128187,
     "countries_unknown": 15000,
     "country_files": 123
   },
@@ -121,7 +121,7 @@
     "MY": 196,
     "NE": 2,
     "NG": 104,
-    "NL": 7105,
+    "NL": 7106,
     "NO": 79,
     "NZ": 66,
     "OM": 34,
@@ -248,13 +248,13 @@
     {
       "name": "solispirit-all",
       "url": "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt",
-      "added": 7589,
+      "added": 7583,
       "error": null
     },
     {
       "name": "aliilapro-sub",
       "url": "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
-      "added": 702,
+      "added": 703,
       "error": null
     },
     {
@@ -293,12 +293,12 @@
     "all_extracted_configs.txt": 100000,
     "MK-Studio-VPN-All-Type.txt": 100000,
     "MK-Studio-VPN.txt": 1500,
-    "vmess_configs.txt": 10650,
+    "vmess_configs.txt": 10648,
     "vless_configs.txt": 100000,
-    "trojan_configs.txt": 19541,
-    "ss_configs.txt": 13664,
+    "trojan_configs.txt": 19549,
+    "ss_configs.txt": 13668,
     "ssr_configs.txt": 132,
-    "hysteria2_configs.txt": 3790,
+    "hysteria2_configs.txt": 3788,
     "tuic_configs.txt": 15
   }
 }
