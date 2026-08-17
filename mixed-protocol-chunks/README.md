@@ -1,7 +1,7 @@
 # mixed-protocol-chunks
 
 Chunk size: **1000** configs per file.
-Total chunks: **100** · Total configs: **100000**
+Total chunks: **20** · Total configs: **19621**
 
 Use these when a single large list is too heavy for your client.
 
@@ -26,85 +26,5 @@ Use these when a single large list is too heavy for your client.
 | `MK-Studio-Mixed-Config-017.txt` | 1000 |
 | `MK-Studio-Mixed-Config-018.txt` | 1000 |
 | `MK-Studio-Mixed-Config-019.txt` | 1000 |
-| `MK-Studio-Mixed-Config-020.txt` | 1000 |
-| `MK-Studio-Mixed-Config-021.txt` | 1000 |
-| `MK-Studio-Mixed-Config-022.txt` | 1000 |
-| `MK-Studio-Mixed-Config-023.txt` | 1000 |
-| `MK-Studio-Mixed-Config-024.txt` | 1000 |
-| `MK-Studio-Mixed-Config-025.txt` | 1000 |
-| `MK-Studio-Mixed-Config-026.txt` | 1000 |
-| `MK-Studio-Mixed-Config-027.txt` | 1000 |
-| `MK-Studio-Mixed-Config-028.txt` | 1000 |
-| `MK-Studio-Mixed-Config-029.txt` | 1000 |
-| `MK-Studio-Mixed-Config-030.txt` | 1000 |
-| `MK-Studio-Mixed-Config-031.txt` | 1000 |
-| `MK-Studio-Mixed-Config-032.txt` | 1000 |
-| `MK-Studio-Mixed-Config-033.txt` | 1000 |
-| `MK-Studio-Mixed-Config-034.txt` | 1000 |
-| `MK-Studio-Mixed-Config-035.txt` | 1000 |
-| `MK-Studio-Mixed-Config-036.txt` | 1000 |
-| `MK-Studio-Mixed-Config-037.txt` | 1000 |
-| `MK-Studio-Mixed-Config-038.txt` | 1000 |
-| `MK-Studio-Mixed-Config-039.txt` | 1000 |
-| `MK-Studio-Mixed-Config-040.txt` | 1000 |
-| `MK-Studio-Mixed-Config-041.txt` | 1000 |
-| `MK-Studio-Mixed-Config-042.txt` | 1000 |
-| `MK-Studio-Mixed-Config-043.txt` | 1000 |
-| `MK-Studio-Mixed-Config-044.txt` | 1000 |
-| `MK-Studio-Mixed-Config-045.txt` | 1000 |
-| `MK-Studio-Mixed-Config-046.txt` | 1000 |
-| `MK-Studio-Mixed-Config-047.txt` | 1000 |
-| `MK-Studio-Mixed-Config-048.txt` | 1000 |
-| `MK-Studio-Mixed-Config-049.txt` | 1000 |
-| `MK-Studio-Mixed-Config-050.txt` | 1000 |
-| `MK-Studio-Mixed-Config-051.txt` | 1000 |
-| `MK-Studio-Mixed-Config-052.txt` | 1000 |
-| `MK-Studio-Mixed-Config-053.txt` | 1000 |
-| `MK-Studio-Mixed-Config-054.txt` | 1000 |
-| `MK-Studio-Mixed-Config-055.txt` | 1000 |
-| `MK-Studio-Mixed-Config-056.txt` | 1000 |
-| `MK-Studio-Mixed-Config-057.txt` | 1000 |
-| `MK-Studio-Mixed-Config-058.txt` | 1000 |
-| `MK-Studio-Mixed-Config-059.txt` | 1000 |
-| `MK-Studio-Mixed-Config-060.txt` | 1000 |
-| `MK-Studio-Mixed-Config-061.txt` | 1000 |
-| `MK-Studio-Mixed-Config-062.txt` | 1000 |
-| `MK-Studio-Mixed-Config-063.txt` | 1000 |
-| `MK-Studio-Mixed-Config-064.txt` | 1000 |
-| `MK-Studio-Mixed-Config-065.txt` | 1000 |
-| `MK-Studio-Mixed-Config-066.txt` | 1000 |
-| `MK-Studio-Mixed-Config-067.txt` | 1000 |
-| `MK-Studio-Mixed-Config-068.txt` | 1000 |
-| `MK-Studio-Mixed-Config-069.txt` | 1000 |
-| `MK-Studio-Mixed-Config-070.txt` | 1000 |
-| `MK-Studio-Mixed-Config-071.txt` | 1000 |
-| `MK-Studio-Mixed-Config-072.txt` | 1000 |
-| `MK-Studio-Mixed-Config-073.txt` | 1000 |
-| `MK-Studio-Mixed-Config-074.txt` | 1000 |
-| `MK-Studio-Mixed-Config-075.txt` | 1000 |
-| `MK-Studio-Mixed-Config-076.txt` | 1000 |
-| `MK-Studio-Mixed-Config-077.txt` | 1000 |
-| `MK-Studio-Mixed-Config-078.txt` | 1000 |
-| `MK-Studio-Mixed-Config-079.txt` | 1000 |
-| `MK-Studio-Mixed-Config-080.txt` | 1000 |
-| `MK-Studio-Mixed-Config-081.txt` | 1000 |
-| `MK-Studio-Mixed-Config-082.txt` | 1000 |
-| `MK-Studio-Mixed-Config-083.txt` | 1000 |
-| `MK-Studio-Mixed-Config-084.txt` | 1000 |
-| `MK-Studio-Mixed-Config-085.txt` | 1000 |
-| `MK-Studio-Mixed-Config-086.txt` | 1000 |
-| `MK-Studio-Mixed-Config-087.txt` | 1000 |
-| `MK-Studio-Mixed-Config-088.txt` | 1000 |
-| `MK-Studio-Mixed-Config-089.txt` | 1000 |
-| `MK-Studio-Mixed-Config-090.txt` | 1000 |
-| `MK-Studio-Mixed-Config-091.txt` | 1000 |
-| `MK-Studio-Mixed-Config-092.txt` | 1000 |
-| `MK-Studio-Mixed-Config-093.txt` | 1000 |
-| `MK-Studio-Mixed-Config-094.txt` | 1000 |
-| `MK-Studio-Mixed-Config-095.txt` | 1000 |
-| `MK-Studio-Mixed-Config-096.txt` | 1000 |
-| `MK-Studio-Mixed-Config-097.txt` | 1000 |
-| `MK-Studio-Mixed-Config-098.txt` | 1000 |
-| `MK-Studio-Mixed-Config-099.txt` | 1000 |
-| `MK-Studio-Mixed-Config-100.txt` | 1000 |
+| `MK-Studio-Mixed-Config-020.txt` | 621 |
 
