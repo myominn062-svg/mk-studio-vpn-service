@@ -1,3 +1,8 @@
+trojan://telegram-id-privatevpns@15.236.223.157:22222?sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2015.236.223.157%20%231
+trojan://telegram-id-privatevpns@15.236.27.89:22222?sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2015.236.27.89%20%231
+trojan://telegram-id-privatevpns@15.236.29.84:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2015.236.29.84%20%231
+trojan://telegram-id-privatevpns@15.236.29.84:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2015.236.29.84%20%232
+trojan://telegram-id-directvpn@15.236.29.84:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2015.236.29.84%20%233
 trojan://telegram-id-v2rayvpnchannel@15.236.29.84:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2015.236.29.84%20%234
 trojan://telegram-id-privatevpns@15.236.31.11:22222?sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2015.236.31.11
 trojan://telegram-id-privatevpns@15.236.44.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2015.236.44.47%20%231
@@ -993,8 +998,3 @@ trojan://AE62539071@present-warthog.rooster465.autos:443?security=tls&sni=presen
 trojan://AE62539071@present-warthog.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=present-warthog.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam%2C%20NL%20%C2%B7%20G-Core%20Labs%20%7C%20present-warthog.rooster465.autos%20%233
 trojan://PD07395842@present-warthog.rooster465.autos:443?sni=#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam%2C%20NL%20%C2%B7%20G-Core%20Labs%20%7C%20present-warthog.rooster465.autos%20%234
 trojan://FH72359861@pro-crane.rooster465.autos:443?security=tls&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam%2C%20NL%20%C2%B7%20G-Core%20Labs%20%7C%20pro-crane.rooster465.autos%20%231
-trojan://FH72359861@pro-crane.rooster465.autos:443?security=tls&sni=pro-crane.rooster465.autos&path=/#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam%2C%20NL%20%C2%B7%20G-Core%20Labs%20%7C%20pro-crane.rooster465.autos%20%232
-trojan://FH72359861@pro-crane.rooster465.autos:443?#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam%2C%20NL%20%C2%B7%20G-Core%20Labs%20%7C%20pro-crane.rooster465.autos%20%233
-trojan://PD07395842@pro-crane.rooster465.autos:443?sni=#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam%2C%20NL%20%C2%B7%20G-Core%20Labs%20%7C%20pro-crane.rooster465.autos%20%234
-trojan://FH72359861@renewed-chigger.rooster465.autos:443?security=tls&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam%2C%20NL%20%C2%B7%20G-Core%20Labs%20%7C%20renewed-chigger.rooster465.autos%20%231
-trojan://FH72359861@renewed-chigger.rooster465.autos:443?#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam%2C%20NL%20%C2%B7%20G-Core%20Labs%20%7C%20renewed-chigger.rooster465.autos%20%232
