@@ -199,6 +199,7 @@ hysteria2://425e9e31-b017-4e32-bbd3-656473466d5e@latvia.koalaexpress.ru:2443/?in
 hysteria2://4T3sB0DeFo@51.79.91.52:38871?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=0d1a3bdb9ed6df1bdccf9745055822b46ae00b63150c73b5447e09447666745a&sni=play.google.com#EPODONIOS
 hysteria2://4ff4adfb8e7a4bae9c959c54fa5af52f@assets.gateway-stream.com:52000?security=tls&obfs=salamander&alpn=h3&obfs-password=gu74jg3ym0e21zco&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#EPODONIOS
+hysteria2://6aab8efdf13945829ae3699c342be406@fiproxy1.lockdwn.com:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#EPODONIOS
 hysteria2://6aab8efdf13945829ae3699c342be406@fiproxy1.lockdwn.com:443?sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#EPODONIOS
 hysteria2://9cc2113e-6b5b-4ced-9c46-70cf78d2c599@dns.devmrzero.ir:2096?security=tls&obfs=salamander&obfs-password=AIbOe_791iQ4k6kPUgdsO7B9&insecure=0&sni=a26738d5774ad803.devmrzero.ir#EPODONIOS
 hysteria2://@Tel@Configvibes@198.105.123.106:11504?security=tls&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------&insecure=1&pinSHA256=faabd9eda7a1f97ebe67769a903eb816af7be17ce8825dd3f8af070b62c86961&sni=archive.ubuntu.com#EPODONIOS
@@ -229,6 +230,8 @@ hysteria2://m3bqxk03mg221yi2@assets.gateway-stream.com:52067?security=tls&obfs=s
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#EPODONIOS
 hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fm={"udp":[{"settings":{"password":"2gg0tx9d2etug8n9"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=2gg0tx9d2etug8n9&security=tls&sni=pro2.riziro.ir#EPODONIOS
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52008?alpn=h3&fm={"udp":[{"settings":{"password":"93lc6r07zfx4crct"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=93lc6r07zfx4crct&security=tls&sni=assets.gateway-stream.com#EPODONIOS
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52009?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&obfs=salamander&alpn=h3&obfs-password=kf1lypzqidy6pimt&insecure=0&sni=#EPODONIOS
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52009?security=tls&obfs=salamander&alpn=h3&obfs-password=kf1lypzqidy6pimt&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52009?security=tls&obfs=salamander&obfs-password=kf1lypzqidy6pimt&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52026?security=tls&obfs=salamander&obfs-password=d6pv15sghiq1onts&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52029?security=tls&obfs=salamander&obfs-password=v8h63irhnay97090&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
@@ -995,6 +998,3 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.197.139:443?sni=https%3A%2F%2Ft.me%2
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.219.57:443?insecure=0&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2015.237.219.57%20%231
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.219.57:443?sni=https%3A%2F%2Ft.me%2Fclashv8%F0%9F%87%A8%F0%9F%87%B3&insecure=0&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2015.237.219.57%20%232
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.219.57:443?sni=vpn-fr-002.fastervpn.world&insecure=0&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2015.237.219.57%20%233
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.219.57:443?sni=https%3A%2F%2Ft.me%2Fclashv8&insecure=0&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2015.237.219.57%20%234
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.180.193.231:443?sni=vpn-fr-002.fastervpn.world&insecure=0&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.180.193.231
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.52.234:443?insecure=0&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.52.234%20%231
