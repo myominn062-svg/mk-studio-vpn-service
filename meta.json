@@ -1,7 +1,7 @@
 {
   "brand": "MK Studio VPN Service",
-  "updated_at": "2026-08-17 16:54:26 UTC",
-  "total_unique_raw": 257738,
+  "updated_at": "2026-08-17 17:36:24 UTC",
+  "total_unique_raw": 258062,
   "total_unique": 100000,
   "caps": {
     "max_all": 100000,
@@ -13,13 +13,13 @@
   "counts": {
     "all": 100000,
     "featured": 1500,
-    "vmess": 9831,
+    "vmess": 9875,
     "vless": 100000,
-    "trojan": 18713,
-    "ss": 12296,
+    "trojan": 18731,
+    "ss": 12309,
     "ssr": 118,
-    "hysteria2": 3835,
-    "tuic": 15,
+    "hysteria2": 3831,
+    "tuic": 16,
     "mixed_chunks": 100,
     "protocol_chunks": {
       "vmess": 10,
@@ -30,7 +30,7 @@
       "hysteria2": 4,
       "tuic": 1
     },
-    "countries_detected": 135508,
+    "countries_detected": 135523,
     "countries_unknown": 15000,
     "country_files": 124
   },
@@ -53,7 +53,7 @@
     "BR": 348,
     "BY": 38,
     "BZ": 69,
-    "CA": 2654,
+    "CA": 2655,
     "CH": 1473,
     "CI": 1,
     "CL": 37,
@@ -70,17 +70,17 @@
     "EC": 5,
     "EE": 547,
     "EG": 8,
-    "ES": 592,
+    "ES": 593,
     "EU": 1,
     "FF": 1,
     "FI": 4066,
     "FR": 7307,
-    "GB": 5503,
+    "GB": 5504,
     "GE": 44,
     "GI": 2,
     "GR": 215,
     "GT": 4,
-    "HK": 3002,
+    "HK": 3007,
     "HR": 33,
     "HU": 164,
     "ID": 152,
@@ -94,12 +94,12 @@
     "IT": 737,
     "JM": 7,
     "JO": 41,
-    "JP": 4211,
+    "JP": 4213,
     "KE": 25,
     "KG": 6,
     "KH": 4,
     "KP": 1,
-    "KR": 2544,
+    "KR": 2545,
     "KW": 7,
     "KZ": 567,
     "LB": 3,
@@ -121,13 +121,13 @@
     "MY": 211,
     "NE": 2,
     "NG": 110,
-    "NL": 7740,
+    "NL": 7742,
     "NO": 82,
     "NZ": 66,
     "OM": 45,
     "PA": 9,
     "PE": 24,
-    "PH": 18,
+    "PH": 20,
     "PK": 25,
     "PL": 1897,
     "PR": 6,
@@ -171,7 +171,7 @@
     {
       "name": "epodonios-all",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
-      "added": 4858,
+      "added": 4932,
       "error": null
     },
     {
@@ -201,37 +201,37 @@
     {
       "name": "epodonios-vless",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt",
-      "added": 0,
+      "added": 170,
       "error": null
     },
     {
       "name": "epodonios-vmess",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vmess.txt",
-      "added": 0,
+      "added": 22,
       "error": null
     },
     {
       "name": "epodonios-trojan",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/trojan.txt",
-      "added": 0,
+      "added": 30,
       "error": null
     },
     {
       "name": "epodonios-ss",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/ss.txt",
-      "added": 0,
+      "added": 10,
       "error": null
     },
     {
       "name": "fastnodes-everything",
       "url": "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/everything.txt",
-      "added": 239347,
+      "added": 239346,
       "error": null
     },
     {
       "name": "alirewa-config",
       "url": "https://raw.githubusercontent.com/Alirewa/V2ray-Configs/main/config.txt",
-      "added": 1998,
+      "added": 1997,
       "error": null
     },
     {
@@ -255,7 +255,7 @@
     {
       "name": "aliilapro-sub",
       "url": "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
-      "added": 632,
+      "added": 652,
       "error": null
     },
     {
@@ -294,12 +294,12 @@
     "all_extracted_configs.txt": 100000,
     "MK-Studio-VPN-All-Type.txt": 100000,
     "MK-Studio-VPN.txt": 1500,
-    "vmess_configs.txt": 9831,
+    "vmess_configs.txt": 9875,
     "vless_configs.txt": 100000,
-    "trojan_configs.txt": 18713,
-    "ss_configs.txt": 12296,
+    "trojan_configs.txt": 18731,
+    "ss_configs.txt": 12309,
     "ssr_configs.txt": 118,
-    "hysteria2_configs.txt": 3835,
-    "tuic_configs.txt": 15
+    "hysteria2_configs.txt": 3831,
+    "tuic_configs.txt": 16
   }
 }
