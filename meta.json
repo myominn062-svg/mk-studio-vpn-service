@@ -1,7 +1,7 @@
 {
   "brand": "MK Studio VPN Service",
-  "updated_at": "2026-08-18 14:51:39 UTC",
-  "total_unique_raw": 228872,
+  "updated_at": "2026-08-18 15:23:44 UTC",
+  "total_unique_raw": 228775,
   "total_unique": 100000,
   "caps": {
     "max_all": 100000,
@@ -13,9 +13,9 @@
   "counts": {
     "all": 100000,
     "featured": 1500,
-    "vmess": 10516,
+    "vmess": 10523,
     "vless": 100000,
-    "trojan": 18356,
+    "trojan": 18297,
     "ss": 13660,
     "ssr": 146,
     "hysteria2": 3757,
@@ -164,7 +164,7 @@
     {
       "name": "barry-far-all",
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt",
-      "added": 6837,
+      "added": 6836,
       "error": null
     },
     {
@@ -248,13 +248,13 @@
     {
       "name": "solispirit-all",
       "url": "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt",
-      "added": 7760,
+      "added": 7663,
       "error": null
     },
     {
       "name": "aliilapro-sub",
       "url": "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
-      "added": 717,
+      "added": 718,
       "error": null
     },
     {
@@ -293,9 +293,9 @@
     "all_extracted_configs.txt": 100000,
     "MK-Studio-VPN-All-Type.txt": 100000,
     "MK-Studio-VPN.txt": 1500,
-    "vmess_configs.txt": 10516,
+    "vmess_configs.txt": 10523,
     "vless_configs.txt": 100000,
-    "trojan_configs.txt": 18356,
+    "trojan_configs.txt": 18297,
     "ss_configs.txt": 13660,
     "ssr_configs.txt": 146,
     "hysteria2_configs.txt": 3757,

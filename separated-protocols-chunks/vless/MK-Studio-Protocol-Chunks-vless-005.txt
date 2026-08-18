@@ -1,4 +1,3 @@
-vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@151.101.56.6:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=h2&type=ws&host=c12.com&path=/#@Daily_Configs
 vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@151.101.56.6:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=h2&type=ws&host=c12.com&path=/#@bisto4_service
 vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@151.101.56.6:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@prrofile_purple
 vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@151.101.56.6:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#MTMVPN
@@ -998,3 +997,4 @@ vless://f1349fb7-899b-4076-ad67-c2cc6e4bd1f9@140.233.177.28:39521?security=&encr
 vless://f13af51e-0b80-bbf8-deb0-af3156521a3d@x4g-production-cfa09.up.railway.app:443?encryption=none&security=tls&sni=x4g-production-cfa09.up.railway.app&alpn=h2
 vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@194.150.166.12:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.avito.ru&fp=chrome&pbk=b75SrHI--As9QxOVfRIPkGmGfXjs53CGAjbws2K99Rs&allowinsecure=0&type=tcp&headerType=none#🇩🇪All³
 vless://f2083aa4-f27d-43da-81cf-8bab31730400@cdn.tzpro.xyz:80?security=none&allowInsecure=0&encryption=none&type=ws&host=germany.vipserver14.workers.dev&path=/?ed=2048#🇩🇪
+vless://f2083aa4-f27d-43da-81cf-8bab317304c0@cdn.tzpro.xyz:80?security=none&allowInsecure=0&encryption=none&type=ws&host=germany.vipserver14.workers.dev&path=/?ed=2048#🇩🇪
