@@ -1,3 +1,5 @@
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.18.1.1:2053?encryption=none&type=ws&security=tls&path=%2F&host=music1000.melobitmusic1.ir&sni=music1000.melobitmusic1.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&insecure=0&allowInsecure=0#%3E%3E%40freeland8%3A%3APL
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@music1000.melobitmusic1.ir:2053?path=%2F&security=tls&encryption=none&insecure=0&host=music1000.melobitmusic1.ir&fp=chrome&type=ws&allowInsecure=0&sni=music1000.melobitmusic1.ir#%3E%3E%40configV2rayNG%3A%3APL
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.246.118:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3ADE
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.246.118:22223?encryption=none&security=none&type=tcp#%3E%3E%40DirectVPN%3A%3ADE
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.246.118:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3ADE
@@ -996,5 +998,3 @@ vless://7ee0cedb-1f06-4be9-8444-51f289a4bf12@104.24.218.13:80?encryption=none&se
 vless://7ee0cedb-1f06-4be9-8444-51f289a4bf12@172.64.86.167:80?encryption=none&security=none&type=ws&host=morning-sound-6fa2-ppal03.tinemo7285.workers.dev&path=/?ed=2560#Tel:
 vless://7eed7440-df4b-150b-a43b-763539ee8b7f@69.46.46.13:443?path=/ws/7eed7440-df4b-150b-a43b-763539ee8b7f&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-ed62.up.railway.app&fp=chrome&type=ws&sni=rvg-production-ed62.up.railway.app#All
 vless://7eed7440-df4b-150b-a43b-763539ee8b7f@69.46.46.13:443?path=/ws/7eed7440-df4b-150b-a43b-763539ee8b7f&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-ed62.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-ed62.up.railway.app#@prrofile_purple
-vless://7f082bc5-f127-4aca-88af-07eca43d6170@assets.sinafc.ir:443?encryption=none&fp=chrome&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&security=reality&sid=06b75703cbf1&sni=adn-stg.yourservice.samsung.com&spx=/a81d8053fe96460&type=tcp#[25685
-vless://7f082bc5-f127-4aca-88af-07eca43d6170@record.sinafc.ir:2095?encryption=none&fp=chrome&pbk=ODHRr6cqYEtv3OMvjokQe-8EMd5sIQG8Ymx-FZLjWmM&security=reality&sid=a6&sni=test-www.amazon.com&spx=/f62eaa00bf1e39c&type=tcp#[25682

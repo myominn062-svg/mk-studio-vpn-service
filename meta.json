@@ -1,7 +1,7 @@
 {
   "brand": "MK Studio VPN Service",
-  "updated_at": "2026-08-19 11:54:23 UTC",
-  "total_unique_raw": 229115,
+  "updated_at": "2026-08-19 12:15:30 UTC",
+  "total_unique_raw": 228905,
   "total_unique": 100000,
   "caps": {
     "max_all": 100000,
@@ -13,12 +13,12 @@
   "counts": {
     "all": 100000,
     "featured": 1500,
-    "vmess": 9409,
+    "vmess": 9402,
     "vless": 100000,
-    "trojan": 18680,
-    "ss": 13779,
+    "trojan": 18634,
+    "ss": 13767,
     "ssr": 110,
-    "hysteria2": 3722,
+    "hysteria2": 3721,
     "tuic": 12,
     "mixed_chunks": 100,
     "protocol_chunks": {
@@ -30,7 +30,7 @@
       "hysteria2": 4,
       "tuic": 1
     },
-    "countries_detected": 123440,
+    "countries_detected": 123441,
     "countries_unknown": 15000,
     "country_files": 124
   },
@@ -88,7 +88,7 @@
     "IM": 76,
     "IN": 394,
     "IQ": 44,
-    "IR": 14112,
+    "IR": 14113,
     "IS": 19,
     "IT": 592,
     "JM": 7,
@@ -165,13 +165,13 @@
     {
       "name": "barry-far-all",
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt",
-      "added": 6987,
+      "added": 6989,
       "error": null
     },
     {
       "name": "epodonios-all",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
-      "added": 5041,
+      "added": 5039,
       "error": null
     },
     {
@@ -201,7 +201,7 @@
     {
       "name": "epodonios-vless",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt",
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -249,7 +249,7 @@
     {
       "name": "solispirit-all",
       "url": "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt",
-      "added": 7877,
+      "added": 7666,
       "error": null
     },
     {
@@ -294,12 +294,12 @@
     "all_extracted_configs.txt": 100000,
     "MK-Studio-VPN-All-Type.txt": 100000,
     "MK-Studio-VPN.txt": 1500,
-    "vmess_configs.txt": 9409,
+    "vmess_configs.txt": 9402,
     "vless_configs.txt": 100000,
-    "trojan_configs.txt": 18680,
-    "ss_configs.txt": 13779,
+    "trojan_configs.txt": 18634,
+    "ss_configs.txt": 13767,
     "ssr_configs.txt": 110,
-    "hysteria2_configs.txt": 3722,
+    "hysteria2_configs.txt": 3721,
     "tuic_configs.txt": 12
   }
 }

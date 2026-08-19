@@ -4,11 +4,11 @@ Large protocol lists split into smaller files for lighter clients.
 
 | Protocol | Chunks | Configs |
 |----------|-------:|--------:|
-| [vmess/](./vmess/) | 10 | 9409 |
+| [vmess/](./vmess/) | 10 | 9402 |
 | [vless/](./vless/) | 100 | 100000 |
-| [trojan/](./trojan/) | 19 | 18680 |
-| [ss/](./ss/) | 14 | 13779 |
+| [trojan/](./trojan/) | 19 | 18634 |
+| [ss/](./ss/) | 14 | 13767 |
 | [ssr/](./ssr/) | 1 | 110 |
-| [hysteria2/](./hysteria2/) | 4 | 3722 |
+| [hysteria2/](./hysteria2/) | 4 | 3721 |
 | [tuic/](./tuic/) | 1 | 12 |
 

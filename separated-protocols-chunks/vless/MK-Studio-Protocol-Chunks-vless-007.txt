@@ -1,3 +1,4 @@
+vless://486169a3-ce5f-4d93-8d01-f619d4443e5d@cp.so.rezzip.com:443?path=?ed=2560&security=tls&alpn=h2&encryption=none&insecure=0&host=pandura.lat&fp=chrome&type=ws&allowInsecure=0&sni=pandura.lat#EPODONIOS
 vless://486466bd-3902-f414-60a7-d10ea2f3009a@69.46.46.12:443?path=/ws/486466bd-3902-f414-60a7-d10ea2f3009a&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-6ba2.up.railway.app&fp=chrome&type=ws&sni=rvg-production-6ba2.up.railway.app#EPODONIOS
 vless://486fe30a-18d8-4913-b0ba-a301d9b7d505@176.120.17.94:16427?type=tcp&encryption=none&security=reality&pbk=cIPzdA0vCMszJwDwNf3WrJvxoegoLHq0-zmoJ7iMHCE&fp=chrome&sni=yahoo.com&sid=c8144f81&spx=/#EPODONIOS
 vless://48cb335c-2210-4f81-bde9-e9c8d454ed7b@pl154.slovovpn.com:26417?security=reality&encryption=none&pbk=UIW5K60pwiph20ht5dLF22CmD68KphGRiYTBK0wBXXw&headerType=none&fp=chrome&type=tcp&sni=github.com&sid=deff65#EPODONIOS
@@ -997,4 +998,3 @@ vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xfr.saturn-cloud.net:443?flow=xtls-
 vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=xit.saturn-cloud.net&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&sid=2762604ed2e0fa2f&type=tcp&headerType=none#EPODONIOS
 vless://95e8532b-cc69-42d4-9553-e3c23292b15b@45.151.101.103:443?encryption=none&security=reality&sni=maps.apple.com&fp=chrome&pbk=gr7DAOBqoNiHEUhWZQh3nSqBOmg6QwmRC0HKj7TOsUk&sid=2da4299da566b7&type=grpc&authority=&serviceName=your-custom-path&mode=gun#EPODONIOS
 vless://95e8532b-cc69-42d4-9553-e3c23292b15b@85.192.56.3:443?mode=gun&security=reality&encryption=none&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&fp=chrome&type=grpc&serviceName=grpc&sni=www.google.com&sid=d3124debabf1456c#EPODONIOS
-vless://9627c5e0-9a11-4d36-a470-3ce64797149e@api.pl.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
