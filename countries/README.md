@@ -30,7 +30,7 @@ Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`
 | LT | 1013 | [`LT.txt`](./LT.txt) | [`LT.sub.txt`](./LT.sub.txt) |
 | CY | 866 | [`CY.txt`](./CY.txt) | [`CY.sub.txt`](./CY.sub.txt) |
 | MD | 844 | [`MD.txt`](./MD.txt) | [`MD.sub.txt`](./MD.sub.txt) |
-| LV | 823 | [`LV.txt`](./LV.txt) | [`LV.sub.txt`](./LV.sub.txt) |
+| LV | 825 | [`LV.txt`](./LV.txt) | [`LV.sub.txt`](./LV.sub.txt) |
 | AU | 638 | [`AU.txt`](./AU.txt) | [`AU.sub.txt`](./AU.sub.txt) |
 | RO | 632 | [`RO.txt`](./RO.txt) | [`RO.sub.txt`](./RO.sub.txt) |
 | TW | 619 | [`TW.txt`](./TW.txt) | [`TW.sub.txt`](./TW.sub.txt) |
