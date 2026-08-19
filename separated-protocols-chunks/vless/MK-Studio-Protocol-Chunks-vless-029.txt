@@ -1,6 +1,3 @@
-vless://c21ba381-5808-4098-b94d-86c468a683d9@3.125.43.74:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%203.125.43.74%20%231
-vless://c21ba381-5808-4098-b94d-86c468a683d9@3.125.43.74:443?security=tls&type=tcp&sni=#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%203.125.43.74%20%232
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.125.5.177:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%203.125.5.177%20%231
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.125.5.177:22223?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%203.125.5.177%20%232
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@3.125.52.213:443?type=tcp&security=none#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%203.125.52.213
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.125.59.35:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%203.125.59.35%20%231
@@ -998,3 +995,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.22.229:22224?type=ws&securit
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.220.145:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2063.181.220.145
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.236.109:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2063.181.236.109
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.24.193:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2063.181.24.193
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.24.39:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2063.181.24.39
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.240.40:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2063.181.240.40%20%231
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.240.40:22223?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2063.181.240.40%20%232

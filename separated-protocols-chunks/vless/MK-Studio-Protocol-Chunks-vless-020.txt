@@ -1,6 +1,3 @@
-vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.136:9830?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%C2%B7%20GEOCOM%20%7C%2085.133.197.136
-vless://86b0bdc5-94fe-4791-8874-7c7952c40022@85.133.197.143:2052?security=none&type=tcp&host=idem.ir&path=%2F&headerType=http#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%C2%B7%20GEOCOM%20%7C%2085.133.197.143
-vless://76ad9780-85eb-4816-88bf-fe6f28a11fd2@85.133.197.197:30555?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%C2%B7%20GEOCOM%20%7C%2085.133.197.197
 vless://13e-2@85.133.197.205:21?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%C2%B7%20GEOCOM%20%7C%2085.133.197.205
 vless://079a3f24-7200-435b-a74a-184d179f04e7@85.133.197.218:17700?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%C2%B7%20GEOCOM%20%7C%2085.133.197.218
 vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.236:9828?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%C2%B7%20GEOCOM%20%7C%2085.133.197.236%20%231
@@ -998,3 +995,6 @@ vless://1a7a39e4-8c9b-4052-b8b2-c0929536bba5@95.164.4.88:8443?security=tls&sni=p
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%7C%2095.164.6.149
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.15:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%7C%2095.164.6.15%20%231
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.15:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%7C%2095.164.6.15%20%232
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%7C%2095.164.6.156
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.169:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%7C%2095.164.6.169
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.183:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%7C%2095.164.6.183
