@@ -1,7 +1,7 @@
 {
   "brand": "MK Studio VPN Service",
-  "updated_at": "2026-08-19 08:53:41 UTC",
-  "total_unique_raw": 229463,
+  "updated_at": "2026-08-19 09:30:55 UTC",
+  "total_unique_raw": 229205,
   "total_unique": 100000,
   "caps": {
     "max_all": 100000,
@@ -13,12 +13,12 @@
   "counts": {
     "all": 100000,
     "featured": 1500,
-    "vmess": 9397,
+    "vmess": 9391,
     "vless": 100000,
-    "trojan": 18650,
-    "ss": 13850,
+    "trojan": 18622,
+    "ss": 13828,
     "ssr": 112,
-    "hysteria2": 3749,
+    "hysteria2": 3752,
     "tuic": 12,
     "mixed_chunks": 100,
     "protocol_chunks": {
@@ -164,7 +164,7 @@
     {
       "name": "barry-far-all",
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt",
-      "added": 6946,
+      "added": 6944,
       "error": null
     },
     {
@@ -248,7 +248,7 @@
     {
       "name": "solispirit-all",
       "url": "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt",
-      "added": 7969,
+      "added": 7713,
       "error": null
     },
     {
@@ -293,12 +293,12 @@
     "all_extracted_configs.txt": 100000,
     "MK-Studio-VPN-All-Type.txt": 100000,
     "MK-Studio-VPN.txt": 1500,
-    "vmess_configs.txt": 9397,
+    "vmess_configs.txt": 9391,
     "vless_configs.txt": 100000,
-    "trojan_configs.txt": 18650,
-    "ss_configs.txt": 13850,
+    "trojan_configs.txt": 18622,
+    "ss_configs.txt": 13828,
     "ssr_configs.txt": 112,
-    "hysteria2_configs.txt": 3749,
+    "hysteria2_configs.txt": 3752,
     "tuic_configs.txt": 12
   }
 }

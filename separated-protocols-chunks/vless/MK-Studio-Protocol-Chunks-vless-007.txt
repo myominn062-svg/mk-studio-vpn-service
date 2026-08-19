@@ -1,5 +1,3 @@
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.64.146.86:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#EPODONIOS
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi#EPODONIOS
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#EPODONIOS
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#EPODONIOS
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@188.114.97.3:443?&security=tls&fp=chrome&sni=support.zoom.us.yxls.eu.cc&type=ws&headerType=none&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi#EPODONIOS
@@ -998,3 +996,5 @@ vless://9bf81377-d077-4569-9fc9-5f0a55180651@172.64.151.134:8880?host=super-feat
 vless://9c62943d-ba8f-4f49-b135-ae6e9b891d81@spider-panel-production-4f22.up.railway.app:443?path=/ws/9c62943d-ba8f-4f49-b135-ae6e9b891d81&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=spider-panel-production-4f22.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=spider-panel-production-4f22.up.railway.app#EPODONIOS
 vless://9c71e3bf-d79c-41ad-ba08-1028aff0eaa5@156.248.10.58:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nono.hhhkkhktt.xyz&fp=chrome&security=reality&pbk=EXIEsAJq-s30mA0r997iwrR8ijvGLZ7DOTkr_R39QCE&sid=54fc3827c8#EPODONIOS
 vless://9ca41eeb-4b30-4271-a123-22021b1230d0@104.17.121.71:443?mode=auto&path=/Telegram-Zedmodeon&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=mano.tll-far.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=mano.tll-far.ir#EPODONIOS
+vless://9cf40e8b-07e0-4e4d-a1f0-09b37ca5f5f1@vip-76.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#EPODONIOS
+vless://9cf40e8b-07e0-4e4d-a1f0-09b37ca5f5f1@vip-81.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#EPODONIOS
