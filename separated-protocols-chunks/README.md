@@ -6,9 +6,9 @@ Large protocol lists split into smaller files for lighter clients.
 |----------|-------:|--------:|
 | [vmess/](./vmess/) | 10 | 9447 |
 | [vless/](./vless/) | 100 | 100000 |
-| [trojan/](./trojan/) | 19 | 18536 |
-| [ss/](./ss/) | 14 | 13911 |
+| [trojan/](./trojan/) | 19 | 18458 |
+| [ss/](./ss/) | 14 | 13875 |
 | [ssr/](./ssr/) | 1 | 119 |
-| [hysteria2/](./hysteria2/) | 4 | 3675 |
+| [hysteria2/](./hysteria2/) | 4 | 3678 |
 | [tuic/](./tuic/) | 1 | 15 |
 
