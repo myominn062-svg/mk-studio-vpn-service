@@ -163,7 +163,6 @@ hysteria2://085178e12d2211ec@nl.prisma-access.club:8445/?insecure=1&sni=nl.prism
 hysteria2://09e4b638945d44bfa60b4fd00edad131@assets.gateway-stream.com:52000?security=tls&obfs=salamander&alpn=h3&obfs-password=gu74jg3ym0e21zco&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://0ansucp5k6aop125@185.47.172.226:32950?security=tls&obfs=salamander&obfs-password=dnwx30hvcobf7xcf&insecure=0&sni=185.47.172.226#EPODONIOS
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#EPODONIOS
-hysteria2://6aab8efdf13945829ae3699c342be406@fiproxy1.lockdwn.com:443?sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#EPODONIOS
 hysteria2://9cc2113e-6b5b-4ced-9c46-70cf78d2c599@dns.devmrzero.ir:2096?security=tls&obfs=salamander&obfs-password=AIbOe_791iQ4k6kPUgdsO7B9&insecure=0&sni=a26738d5774ad803.devmrzero.ir#EPODONIOS
 hysteria2://@Tel@Configvibes@198.105.123.106:11504?security=tls&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------&insecure=1&pinSHA256=faabd9eda7a1f97ebe67769a903eb816af7be17ce8825dd3f8af070b62c86961&sni=archive.ubuntu.com#EPODONIOS
 hysteria2://@Telegram@Configvibes@107.181.155.107:2096?security=tls&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes&insecure=1&pinSHA256=4d885985ade324c2cee16b7107ae41fdda03800eb8676b946ea4760162a1279c&sni=ftp.debian.org#EPODONIOS
@@ -184,7 +183,6 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tl
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&alpn=h3&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#EPODONIOS
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#EPODONIOS
 hysteria2://cd74c0a406664a5bc0bac098220a2468@node1.sferavpn.pro:443/?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=node1.sferavpn.pro#EPODONIOS
-hysteria2://d86efa900c2f4bb6bde662f1ef6413b8@assets.gateway-stream.com:52029?security=tls&obfs=salamander&obfs-password=v8h63irhnay97090&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://d86efa900c2f4bb6bde662f1ef6413b8@assets.gateway-stream.com:52029?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=v8h63irhnay97090#EPODONIOS
 hysteria2://m3bqxk03mg221yi2@95.217.96.131:52000?security=tls&obfs=salamander&obfs-password=gu74jg3ym0e21zco&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://m3bqxk03mg221yi2@assets.gateway-stream.com:52009?security=tls&obfs=salamander&obfs-password=kf1lypzqidy6pimt&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
@@ -195,6 +193,7 @@ hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52009?security=tls&obfs=s
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52026?security=tls&obfs=salamander&obfs-password=d6pv15sghiq1onts&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52040?security=tls&obfs=salamander&obfs-password=7206pa46enqqdnmt&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52040?sni=assets.gateway-stream.com&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=7206pa46enqqdnmt#EPODONIOS
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52057?security=tls&obfs=salamander&obfs-password=auw7lhtk2kxyq4g9&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52061?security=tls&obfs=salamander&obfs-password=fd3olglr2bmimgje&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443/?insecure=1&sni=nl1.noesissite.ru#EPODONIOS
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#EPODONIOS
@@ -998,3 +997,4 @@ hy2://dongtaiwang.com@51.159.77.153:33390?insecure=1&sni=bing.com#%F0%9F%87%AB%F
 hy2://dongtaiwang.com@62.210.103.0:22483?insecure=1&sni=www.bing.com#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Scaleway%20%7C%2062.210.103.0%20%231
 hy2://dongtaiwang.com@62.210.103.0:22483?insecure=1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Scaleway%20%7C%2062.210.103.0%20%232
 hy2://dongtaiwang.com@62.210.103.0:22483?insecure=1&sni=vkvd127.mycdn.me#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Scaleway%20%7C%2062.210.103.0%20%233
+hy2://dongtaiwang.com@62.210.103.0:22483?insecure=1&sni=eliv2ray.eliv2.top#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Scaleway%20%7C%2062.210.103.0%20%234

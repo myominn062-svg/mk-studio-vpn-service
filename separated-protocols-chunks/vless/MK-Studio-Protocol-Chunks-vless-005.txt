@@ -1,4 +1,3 @@
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?mode=gun&security=&encryption=none&type=grpc&serviceName=grpc#@v2ray313
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#برای
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?security=none&type=grpc&mode=gun&serviceName=grpc&packetEncoding=xudp&sni=95.85.224.3#🇪🇪147540
 vless://7eb234e9-d47e-4dfe-bff3-a0d41a0c4e1d@193.34.213.38:443?security=reality&encryption=none&pbk=c_9pNYSprG0wT-8Dz68poWfpFCktGVKIrX_EVG3J4wk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=app.prostocalc.com&sid=f49814084db8f3a6#@
@@ -998,3 +997,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.84.43:22223?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.84.43:22224?encryption=none&security=none&type=tcp#🇫🇷147535
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.68.6:22222?security=none&encryption=none&headerType=none&type=tcp#@Nexus_Panell
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.68.6:22224?security=none&encryption=none&headerType=none&type=tcp#@Nexus_Panell
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.78.15:22224?encryption=none&security=none&type=tcp#✨
