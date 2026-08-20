@@ -10,6 +10,7 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#Server%203
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%BA%F0%9F%87%B8%20%287%29
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%F0%9F%A6%8417@oneclickvpnkeys
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net
 vless://...@example.ir:8180?security=none&encryption=none&type=tcp
 vless://003c712d-daa1-4c3f-bed2-658e7787d04c@31.77.57.112:6243?security=reality&encryption=none&pbk=B55CpLIn63ajsDxoRe9icE2qa-rXcEiQXLpqfhHp2B0&headerType=none&fp=chrome&type=tcp&sni=github.com&sid=0dabc5964c#🇩🇪
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#@VpnCostumer+|+بیا+تو+وصل+باش+💙
@@ -997,4 +998,3 @@ vless://78e4df0c-5174-4e18-a874-995ef6e6a38d@expressvpn_420.fastly80.hosting-ip.
 vless://78eddd19-4fd4-461e-ad75-efd8cd44e0d0@i2.cloud--vpn.site:443?host=c12.com&security=tls&sni=ssl.fastly.com&encryption=none&path=/&type=ws&insecure=0&fp=chrome&alpn=h2&allowInsecure=0#@v2rayng3
 vless://79138673-7671-41c9-a8c2-393eba9e7ea3@204.168.173.96:8080?encryption=none&headerType=none&security=none&type=tcp#@Alpha_v2rayIP
 vless://79138673-7671-41c9-a8c2-393eba9e7ea3@204.168.173.96:8080?headerType=none&type=tcp&encryption=none&security=none#@Napsternetvirani
-vless://795d5f5b-318c-49a6-844f-ee2ab63bbe94@35.180.187.82:12228?encryption=none&flow=xtls-rprx-vision&fp=&pbk=hvyaRhFtrj3cGv1Ya5uXpE256i2PoUi2fOgU0KlvKmI&security=reality&sid=59625eb3275249ca&sni=www.tesla.com&type=tcp#🎈31@oneclickvpnkeys
