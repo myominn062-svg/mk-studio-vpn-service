@@ -1,7 +1,7 @@
 {
   "brand": "MK Studio VPN Service",
-  "updated_at": "2026-08-20 23:07:53 UTC",
-  "total_unique_raw": 231175,
+  "updated_at": "2026-08-20 23:36:55 UTC",
+  "total_unique_raw": 231002,
   "total_unique": 100000,
   "caps": {
     "max_all": 100000,
@@ -13,10 +13,10 @@
   "counts": {
     "all": 100000,
     "featured": 1500,
-    "vmess": 10172,
+    "vmess": 10159,
     "vless": 100000,
-    "trojan": 19243,
-    "ss": 13779,
+    "trojan": 19231,
+    "ss": 13767,
     "ssr": 97,
     "hysteria2": 3630,
     "tuic": 12,
@@ -30,7 +30,7 @@
       "hysteria2": 4,
       "tuic": 1
     },
-    "countries_detected": 124333,
+    "countries_detected": 124337,
     "countries_unknown": 15000,
     "country_files": 125
   },
@@ -80,7 +80,7 @@
     "GI": 2,
     "GR": 218,
     "GT": 4,
-    "HK": 3006,
+    "HK": 3008,
     "HR": 29,
     "HU": 159,
     "ID": 135,
@@ -89,7 +89,7 @@
     "IM": 73,
     "IN": 383,
     "IQ": 46,
-    "IR": 14012,
+    "IR": 14013,
     "IS": 21,
     "IT": 590,
     "JM": 7,
@@ -143,7 +143,7 @@
     "SA": 57,
     "SC": 2624,
     "SE": 3506,
-    "SG": 3190,
+    "SG": 3191,
     "SI": 165,
     "SK": 15,
     "TH": 71,
@@ -166,13 +166,13 @@
     {
       "name": "barry-far-all",
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt",
-      "added": 7169,
+      "added": 7172,
       "error": null
     },
     {
       "name": "epodonios-all",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
-      "added": 5017,
+      "added": 5019,
       "error": null
     },
     {
@@ -250,13 +250,13 @@
     {
       "name": "solispirit-all",
       "url": "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt",
-      "added": 7965,
+      "added": 7783,
       "error": null
     },
     {
       "name": "aliilapro-sub",
       "url": "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
-      "added": 871,
+      "added": 875,
       "error": null
     },
     {
@@ -295,10 +295,10 @@
     "all_extracted_configs.txt": 100000,
     "MK-Studio-VPN-All-Type.txt": 100000,
     "MK-Studio-VPN.txt": 1500,
-    "vmess_configs.txt": 10172,
+    "vmess_configs.txt": 10159,
     "vless_configs.txt": 100000,
-    "trojan_configs.txt": 19243,
-    "ss_configs.txt": 13779,
+    "trojan_configs.txt": 19231,
+    "ss_configs.txt": 13767,
     "ssr_configs.txt": 97,
     "hysteria2_configs.txt": 3630,
     "tuic_configs.txt": 12
