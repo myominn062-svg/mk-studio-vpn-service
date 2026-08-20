@@ -1,7 +1,7 @@
 {
   "brand": "MK Studio VPN Service",
-  "updated_at": "2026-08-20 20:09:57 UTC",
-  "total_unique_raw": 230513,
+  "updated_at": "2026-08-20 20:40:20 UTC",
+  "total_unique_raw": 230522,
   "total_unique": 100000,
   "caps": {
     "max_all": 100000,
@@ -13,10 +13,10 @@
   "counts": {
     "all": 100000,
     "featured": 1500,
-    "vmess": 10062,
+    "vmess": 10070,
     "vless": 100000,
     "trojan": 18942,
-    "ss": 13663,
+    "ss": 13662,
     "ssr": 100,
     "hysteria2": 3654,
     "tuic": 12,
@@ -30,7 +30,7 @@
       "hysteria2": 4,
       "tuic": 1
     },
-    "countries_detected": 124077,
+    "countries_detected": 124079,
     "countries_unknown": 15000,
     "country_files": 125
   },
@@ -53,7 +53,7 @@
     "BR": 323,
     "BY": 34,
     "BZ": 70,
-    "CA": 2282,
+    "CA": 2284,
     "CH": 1311,
     "CI": 1,
     "CL": 35,
@@ -166,13 +166,13 @@
     {
       "name": "barry-far-all",
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt",
-      "added": 7079,
+      "added": 7078,
       "error": null
     },
     {
       "name": "epodonios-all",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
-      "added": 5063,
+      "added": 5062,
       "error": null
     },
     {
@@ -208,7 +208,7 @@
     {
       "name": "epodonios-vmess",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vmess.txt",
-      "added": 0,
+      "added": 1,
       "error": null
     },
     {
@@ -262,7 +262,7 @@
     {
       "name": "aliilapro-server",
       "url": "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/server.txt",
-      "added": 1,
+      "added": 11,
       "error": null
     },
     {
@@ -295,10 +295,10 @@
     "all_extracted_configs.txt": 100000,
     "MK-Studio-VPN-All-Type.txt": 100000,
     "MK-Studio-VPN.txt": 1500,
-    "vmess_configs.txt": 10062,
+    "vmess_configs.txt": 10070,
     "vless_configs.txt": 100000,
     "trojan_configs.txt": 18942,
-    "ss_configs.txt": 13663,
+    "ss_configs.txt": 13662,
     "ssr_configs.txt": 100,
     "hysteria2_configs.txt": 3654,
     "tuic_configs.txt": 12
