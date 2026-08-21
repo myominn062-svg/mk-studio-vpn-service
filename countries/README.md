@@ -21,12 +21,12 @@ Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`
 | SG | 2996 | [`SG.txt`](./SG.txt) | [`SG.sub.txt`](./SG.sub.txt) |
 | SC | 2640 | [`SC.txt`](./SC.txt) | [`SC.sub.txt`](./SC.sub.txt) |
 | AE | 2359 | [`AE.txt`](./AE.txt) | [`AE.sub.txt`](./AE.sub.txt) |
-| CA | 2346 | [`CA.txt`](./CA.txt) | [`CA.sub.txt`](./CA.sub.txt) |
+| CA | 2347 | [`CA.txt`](./CA.txt) | [`CA.sub.txt`](./CA.sub.txt) |
 | TR | 1852 | [`TR.txt`](./TR.txt) | [`TR.sub.txt`](./TR.sub.txt) |
 | KR | 1734 | [`KR.txt`](./KR.txt) | [`KR.sub.txt`](./KR.sub.txt) |
 | PL | 1681 | [`PL.txt`](./PL.txt) | [`PL.sub.txt`](./PL.sub.txt) |
 | CN | 1579 | [`CN.txt`](./CN.txt) | [`CN.sub.txt`](./CN.sub.txt) |
-| CH | 1311 | [`CH.txt`](./CH.txt) | [`CH.sub.txt`](./CH.sub.txt) |
+| CH | 1312 | [`CH.txt`](./CH.txt) | [`CH.sub.txt`](./CH.sub.txt) |
 | LT | 1006 | [`LT.txt`](./LT.txt) | [`LT.sub.txt`](./LT.sub.txt) |
 | CY | 862 | [`CY.txt`](./CY.txt) | [`CY.sub.txt`](./CY.sub.txt) |
 | MD | 848 | [`MD.txt`](./MD.txt) | [`MD.sub.txt`](./MD.sub.txt) |
@@ -62,8 +62,8 @@ Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`
 | AL | 107 | [`AL.txt`](./AL.txt) | [`AL.sub.txt`](./AL.sub.txt) |
 | IL | 99 | [`IL.txt`](./IL.txt) | [`IL.sub.txt`](./IL.sub.txt) |
 | NO | 79 | [`NO.txt`](./NO.txt) | [`NO.sub.txt`](./NO.sub.txt) |
+| BZ | 70 | [`BZ.txt`](./BZ.txt) | [`BZ.sub.txt`](./BZ.sub.txt) |
 | IM | 70 | [`IM.txt`](./IM.txt) | [`IM.sub.txt`](./IM.sub.txt) |
-| BZ | 69 | [`BZ.txt`](./BZ.txt) | [`BZ.sub.txt`](./BZ.sub.txt) |
 | TH | 67 | [`TH.txt`](./TH.txt) | [`TH.sub.txt`](./TH.sub.txt) |
 | NZ | 62 | [`NZ.txt`](./NZ.txt) | [`NZ.sub.txt`](./NZ.sub.txt) |
 | MT | 61 | [`MT.txt`](./MT.txt) | [`MT.sub.txt`](./MT.sub.txt) |
