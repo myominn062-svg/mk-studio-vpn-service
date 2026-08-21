@@ -10,7 +10,7 @@ Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`
 | RU | 15000 | [`RU.txt`](./RU.txt) | [`RU.sub.txt`](./RU.sub.txt) |
 | UNKNOWN | 15000 | [`UNKNOWN.txt`](./UNKNOWN.txt) | [`UNKNOWN.sub.txt`](./UNKNOWN.sub.txt) |
 | US | 15000 | [`US.txt`](./US.txt) | [`US.sub.txt`](./US.sub.txt) |
-| IR | 14185 | [`IR.txt`](./IR.txt) | [`IR.sub.txt`](./IR.sub.txt) |
+| IR | 14184 | [`IR.txt`](./IR.txt) | [`IR.sub.txt`](./IR.sub.txt) |
 | NL | 6919 | [`NL.txt`](./NL.txt) | [`NL.sub.txt`](./NL.sub.txt) |
 | FR | 6193 | [`FR.txt`](./FR.txt) | [`FR.sub.txt`](./FR.sub.txt) |
 | GB | 5001 | [`GB.txt`](./GB.txt) | [`GB.sub.txt`](./GB.sub.txt) |
