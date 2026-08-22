@@ -1,10 +1,3 @@
-trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@172.67.204.75:443?security=tls&sni=sanjose01.818185.xyz&type=ws&host=sanjose01.818185.xyz&path=/T5yZBrY2Qkg2cThJQeJb#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.204.75%20%3A443
-trojan://9486ff17-2481-40c7-a5c4-d0d307de2509@172.67.204.75:443?security=tls&sni=sssssssssssx.818185.xyz&type=ws&host=sssssssssssx.818185.xyz&path=%2FORgwL4kEvW32T1dU239ar&fp=chrome&alpn=http%2F1.1#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.204.75%20%3A443%C2%B7trojan
-trojan://98f0c223-cb75-4faa-859e-47110b1f052b@172.67.204.84:2096?security=tls&sni=iNTeRnET4EVERIeONe7.PaGes.DeV&type=ws&host=internet4everieone7.pages.dev#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.204.84%20%3A2096
-trojan://---@172.67.204.84:443?#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.204.84%20%3A443
-trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.204.84%20%3A443%C2%B7trojan
-trojan://ba4e0314-c815-4711-81ac-4d37f0fb59fc@172.67.204.84:443?security=tls&sni=se1.safecdn.site&type=ws&host=se1.safecdn.site&path=/Telegram@V2ray_Alpha#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.204.84%20%3A443%C2%B7trojan%C2%B7%2322
-trojan://auto@172.67.204.84:443?security=tls&sni=pAges.dEv.&type=ws&host=deploy-14030911.pages.dev#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.204.84%20%3A443%C2%B7trojan%C2%B7%2323
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?allowInsecure=1&sni=cdn-21.gsmxreality.com#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.204.84%20%3A443%C2%B7trojan%C2%B7%2324
 trojan://00ad4330-8d40-11ee-8d1a-1239d0255272@172.67.204.84:443?security=tls&sni=us1.test3.net&type=ws&path=/howdy&host=us1.test3.net#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.204.84%20%3A443%C2%B7trojan%C2%B7%2325
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?type=grpc&sni=cdn-21.gsmxreality.com&allowInsecure=1&serviceName=443trojan#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.204.84%20%3A443%C2%B7trojan%C2%B7%2326
@@ -998,3 +991,10 @@ trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-other.05vr9nyqg5.download:130
 trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-other.05vr9nyqg5.download:13036?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com&amp;type=tcp&amp;headerType=none#%F0%9F%8C%90%20Unknown%20%7C%20naiu-other.05vr9nyqg5.download%20%3A13036%C2%B7ss%C2%B7%235
 trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-sg.05vr9nyqg5.download:13030?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com&amp;type=tcp&amp;headerType=none#%F0%9F%8C%90%20Unknown%20%7C%20naiu-sg.05vr9nyqg5.download%20%3A13030
 trojan://5e2ce79c-170e-484a-8802-40584a1a3a12@naiu-us.05vr9nyqg5.download:13020?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com&amp;type=tcp&amp;headerType=none#%F0%9F%8C%90%20Unknown%20%7C%20naiu-us.05vr9nyqg5.download%20%3A13020
+trojan://MiTiVPN@140.248.185.253:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@Alirewa-70
+trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#@Alirewa-119
+trojan://trojan@109.234.211.66:8443?path=%2F&security=tls&host=store.timimi.dpdns.org&type=ws&sni=store.timimi.dpdns.org#@Alirewa-155
+trojan://FH72359861@35.159.21.7:443?sni=summary-lemming.rooster465.autos&fp=chrome&type=tcp&path=/#@Alirewa-187
+trojan://AE62539071@15.237.214.103:443?sni=tough-hermit.rooster465.autos&path=/#@Alirewa-192
+trojan://ND91608427@185.244.208.210:443?sni=upright-hamster.rooster465.autos&type=tcp#@Alirewa-193
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?sni=russiapower.accesscam.org#@Alirewa-194
