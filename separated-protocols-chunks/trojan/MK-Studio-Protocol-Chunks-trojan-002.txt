@@ -1,3 +1,8 @@
+trojan://Aimer@188.164.159.74:8443?sni=epcco.ambercc.filegear-sg.me&allowInsecure=0#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.74%20%231
+trojan://Aimer@188.164.159.74:8443?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.74%20%232
+trojan://Aimer@188.164.159.74:8443/?type=tcp&security=tls&sni=epcco.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.74%20%233
+trojan://Aimer@188.164.159.74:8443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.74%20%234
+trojan://Aimer@188.164.159.91:2083?sni=epcca.ambercc.filegear-sg.me&type=ws#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.91%20%231
 trojan://Aimer@188.164.159.91:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&path=/?ed=2560&Host=epgb.aimercc.dpdns.org#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.91%20%232
 trojan://Aimer@188.164.159.91:2083?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.91%20%233
 trojan://Aimer@188.164.159.91:2083/?type=tcp&security=tls&sni=agepy.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.91%20%234
@@ -993,8 +998,3 @@ trojan://3r372@91.195.240.94:443?security=tls&sni=tj786.37927.online&type=tcp#%F
 trojan://d4435b69-3d08-d58a-919f-7f1707150ecb@91.195.240.94:443?security=tls&sni=hg.053111.xyz&allowInsecure=1&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20SEDO%20%7C%2091.195.240.94%20%232
 trojan://3r372@91.195.240.94:443?security=tls&amp;sni=tj786.37927.online&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20SEDO%20%7C%2091.195.240.94%20%233
 trojan://882f187b-feb1-4be7-8678-32460f1ecfe6@au-full.privateip.net:443?security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20SEDO%20%7C%20au-full.privateip.net
-trojan://acfef609-b3c7-4e52-b292-8921d5fca90d@ca-full.privateip.net:443?security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20SEDO%20%7C%20ca-full.privateip.net%20%231
-trojan://d86c421f-dbfe-4507-a864-f8f9e29d80e4@de-full.privateip.net:443?security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20SEDO%20%7C%20de-full.privateip.net
-trojan://665c944d-047d-4659-80d5-3eaac70241a9@de2-full.privateip.net:443?security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20SEDO%20%7C%20de2-full.privateip.net
-trojan://e2486b91-71a6-421b-9d53-3c080fb0edb8@es-full.privateip.net:443?type=tcp&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20SEDO%20%7C%20es-full.privateip.net%20%231
-trojan://3240d72a-1373-4566-9c6c-68524e4b13fc@es-full.privateip.net:443?security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20SEDO%20%7C%20es-full.privateip.net%20%232
