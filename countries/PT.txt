@@ -25,8 +25,8 @@ vless://35372035-3220-4937-a031-303020343820@195.133.92.56:8442?security=reality
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fcHQ@pt-1.stunnel.cc:8444#%F0%9F%87%B5%F0%9F%87%B9%20Porto%2C%20PT%20%C2%B7%20Baxet%20Group%20%7C%20pt-1.stunnel.cc
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.231.233.173:989#%F0%9F%87%B5%F0%9F%87%B9%20Portugal%20%C2%B7%20BrainStorm%20Network%20%7C%20185.231.233.173%20%231
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#%F0%9F%87%B5%F0%9F%87%B9%20Portugal%20%C2%B7%20BrainStorm%20Network%20%7C%20185.231.233.173%20%232
-vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?type=tcp&headerType=none&path=%2F#%F0%9F%87%B5%F0%9F%87%B9%20Sines%20Municipality%2C%20PT%20%C2%B7%20Northern%20Data%20AG%20%7C%2093.119.168.215%20%231
+vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B9%20Sines%20Municipality%2C%20PT%20%C2%B7%20Northern%20Data%20AG%20%7C%2093.119.168.215%20%231
 vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?security=none&type=raw&packetEncoding=xudp#%F0%9F%87%B5%F0%9F%87%B9%20Sines%20Municipality%2C%20PT%20%C2%B7%20Northern%20Data%20AG%20%7C%2093.119.168.215%20%232
-vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?path=%2F+&security=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B9%20Sines%20Municipality%2C%20PT%20%C2%B7%20Northern%20Data%20AG%20%7C%2093.119.168.215%20%233
-vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?security=tls&type=tcp&sni=#%F0%9F%87%B5%F0%9F%87%B9%20Sines%20Municipality%2C%20PT%20%C2%B7%20Northern%20Data%20AG%20%7C%2093.119.168.215%20%234
+vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?security=tls&type=tcp&sni=#%F0%9F%87%B5%F0%9F%87%B9%20Sines%20Municipality%2C%20PT%20%C2%B7%20Northern%20Data%20AG%20%7C%2093.119.168.215%20%233
+vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?path=%2F+&security=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B9%20Sines%20Municipality%2C%20PT%20%C2%B7%20Northern%20Data%20AG%20%7C%2093.119.168.215%20%234
 vless://555a098f-06db-427c-a535-4ba284046dbf@93.119.168.26:63443?&type=tcp&headerType=none&path=%2F#%F0%9F%87%B5%F0%9F%87%B9%20Sines%20Municipality%2C%20PT%20%C2%B7%20Northern%20Data%20AG%20%7C%2093.119.168.26
