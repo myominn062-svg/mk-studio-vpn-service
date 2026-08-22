@@ -1,3 +1,8 @@
+trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?sni=15.235.197.4#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%C2%B7%20OVH%20%7C%2015.235.197.4%20%234
+trojan://3ac6a6ca99f74941b1eaf892818e2ddb@185.151.146.40:443?allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%C2%B7%20WAP.AC%20%7C%20185.151.146.40
+trojan://d6369144-4fb6-43e5-b9ca-255abf37607d@139.162.36.248:443/?type=tcp&security=tls&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Akamai%20Connected%20Cloud%20%7C%20139.162.36.248%20%231
+trojan://d6369144-4fb6-43e5-b9ca-255abf37607d@139.162.36.248:443?sni=#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Akamai%20Connected%20Cloud%20%7C%20139.162.36.248%20%232
+trojan://FLpONjB2Lb@139.162.45.139:443?security=tls#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Akamai%20Connected%20Cloud%20%7C%20139.162.45.139%20%231
 trojan://FLpONjB2Lb@139.162.45.139:443?sni=#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Akamai%20Connected%20Cloud%20%7C%20139.162.45.139%20%232
 trojan://Aimer@143.42.66.91:443?sni=epmo.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Akamai%20Connected%20Cloud%20%7C%20143.42.66.91
 trojan://6cb6f769-b28e-4f7f-a593-8c0b0a161992@170.187.231.189:443?sni=#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Akamai%20Connected%20Cloud%20%7C%20170.187.231.189
@@ -993,8 +998,3 @@ trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzdx.jcnode.top:48479?security=tls
 trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzdx.jcnode.top:50173?security=tls&sni=us2.ckcloud.info#%F0%9F%87%BA%F0%9F%87%B8%20Arlington%2C%20US%20%C2%B7%20Level%203%20Parent%20%7C%20gzdx.jcnode.top%20%2315
 trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzdx.jcnode.top:59832?security=tls&sni=uk01.ckcloud.info#%F0%9F%87%BA%F0%9F%87%B8%20Arlington%2C%20US%20%C2%B7%20Level%203%20Parent%20%7C%20gzdx.jcnode.top%20%2316
 trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzdx.jcnode.top:61802?security=tls&sni=us04.ckcloud.info#%F0%9F%87%BA%F0%9F%87%B8%20Arlington%2C%20US%20%C2%B7%20Level%203%20Parent%20%7C%20gzdx.jcnode.top%20%2317
-trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzdx.jcnode.top:62951?security=tls&sni=de01.ckcloud.info#%F0%9F%87%BA%F0%9F%87%B8%20Arlington%2C%20US%20%C2%B7%20Level%203%20Parent%20%7C%20gzdx.jcnode.top%20%2318
-trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzdx.jcnode.top:17217?security=tls&sni=jp03.ckcloud.info#%F0%9F%87%BA%F0%9F%87%B8%20Arlington%2C%20US%20%C2%B7%20Level%203%20Parent%20%7C%20gzdx.jcnode.top%20%232
-trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzdx.jcnode.top:19390?security=tls&sni=jp01.ckcloud.info#%F0%9F%87%BA%F0%9F%87%B8%20Arlington%2C%20US%20%C2%B7%20Level%203%20Parent%20%7C%20gzdx.jcnode.top%20%233
-trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzdx.jcnode.top:27880?security=tls&sni=sg01.ckcloud.info#%F0%9F%87%BA%F0%9F%87%B8%20Arlington%2C%20US%20%C2%B7%20Level%203%20Parent%20%7C%20gzdx.jcnode.top%20%234
-trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzdx.jcnode.top:29482?security=tls&sni=sg03.ckcloud.info#%F0%9F%87%BA%F0%9F%87%B8%20Arlington%2C%20US%20%C2%B7%20Level%203%20Parent%20%7C%20gzdx.jcnode.top%20%235
