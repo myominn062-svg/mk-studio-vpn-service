@@ -1,3 +1,11 @@
+trojan://Aimer@104.19.60.99:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#%F0%9F%8C%90%20Cloudflare%20%7C%20104.19.60.99%20%3A2087%C2%B7trojan%C2%B7%234
+trojan://Aimer@104.19.61.13:443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#%F0%9F%8C%90%20Cloudflare%20%7C%20104.19.61.13%20%3A443
+trojan://Aimer@104.19.61.13:443?sni=epcca.ambercc.filegear-sg.me#%F0%9F%8C%90%20Cloudflare%20%7C%20104.19.61.13%20%3A443%C2%B7trojan
+trojan://Aimer@104.19.61.97:443?sni=epccj.ambercc.filegear-sg.me#%F0%9F%8C%90%20Cloudflare%20%7C%20104.19.61.97
+trojan://Aimer@104.19.62.94:443?sni=epccf.ambercc.filegear-sg.me#%F0%9F%8C%90%20Cloudflare%20%7C%20104.19.62.94
+trojan://Aimer@104.19.63.216:443?sni=epccj.ambercc.filegear-sg.me#%F0%9F%8C%90%20Cloudflare%20%7C%20104.19.63.216
+trojan://humanity@104.19.64.105:443?path=/assignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%F0%9F%8C%90%20Cloudflare%20%7C%20104.19.64.105%20%3A443
+trojan://NISHIKUITAN111@104.19.7.98:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.19.7.98
 trojan://NISHIKUITAN111@104.19.77.247:443/?type=tcp&security=tls#%F0%9F%8C%90%20Cloudflare%20%7C%20104.19.77.247%20%3A443
 trojan://NISHIKUITAN111@104.19.77.247:443#%F0%9F%8C%90%20Cloudflare%20%7C%20104.19.77.247%20%3A443%C2%B7trojan
 trojan://SSorg@104.19.86.120:2096/?type=tcp&security=tls&sni=sstjj.esslh.filegear-sg.me&allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.19.86.120%20%3A2096
@@ -990,11 +998,3 @@ trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.129:2053?security=tls&
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.13:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#%F0%9F%8C%90%20Cloudflare%20%7C%20141.101.120.13%20%3A2053
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.143:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#%F0%9F%8C%90%20Cloudflare%20%7C%20141.101.120.143%20%3A2053
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.15:2053/?type=grpc&serviceName=m3u8&security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%F0%9F%8C%90%20Cloudflare%20%7C%20141.101.120.15%20%3A2053
-trojan://NISHIKUITAN222@141.101.120.152:443/?type=ws&host=in.ylks.xyz&path=%2F&security=tls&sni=in.ylks.xyz#%F0%9F%8C%90%20Cloudflare%20%7C%20141.101.120.152
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.153:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc&serviceName=m3u8#%F0%9F%8C%90%20Cloudflare%20%7C%20141.101.120.153%20%3A2053
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.153:2096?security=tls&type=grpc&sni=1744156312.speed.nycvara.china.nicchina.pp.ua#%F0%9F%8C%90%20Cloudflare%20%7C%20141.101.120.153%20%3A2096
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.178:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#%F0%9F%8C%90%20Cloudflare%20%7C%20141.101.120.178
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.183:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#%F0%9F%8C%90%20Cloudflare%20%7C%20141.101.120.183
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.191:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#%F0%9F%8C%90%20Cloudflare%20%7C%20141.101.120.191
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.197:2053/?type=grpc&security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%F0%9F%8C%90%20Cloudflare%20%7C%20141.101.120.197%20%3A2053
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.205:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#%F0%9F%8C%90%20Cloudflare%20%7C%20141.101.120.205
