@@ -1,10 +1,3 @@
-trojan://Aimer@188.164.159.174:2053?sni=agept.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.174%20%234
-trojan://Aimer@188.164.159.175:8443?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.175%20%231
-trojan://Aimer@188.164.159.175:8443?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.175%20%232
-trojan://Aimer@188.164.159.175:8443/?type=tcp&security=tls&sni=epcch.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.175%20%233
-trojan://Aimer@188.164.159.175:8443?sni=epcch.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.175%20%234
-trojan://Aimer@188.164.159.18:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&path=/?ed=2560&Host=epgb.aimercc.dpdns.org#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.18%20%231
-trojan://Aimer@188.164.159.18:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.18%20%232
 trojan://Aimer@188.164.159.18:443/?type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epmk.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.18%20%233
 trojan://Aimer@188.164.159.18:443?sni=epml.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.18%20%234
 trojan://Aimer@188.164.159.18:443?sni=epcci.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%20Yerevan%2C%20AM%20%C2%B7%20AMWEB%20%7C%20188.164.159.18%20%235
@@ -998,3 +991,10 @@ trojan://2bfa08e0-ae1e-11ed-a3a0-1239d0255272@5.254.17.52:443?security=tls&sni=t
 trojan://bs6KJkPBW9MP74uHEa@45.80.190.64:443?security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20xTom%20%7C%2045.80.190.64%20%231
 trojan://bs6KJkPBW9MP74uHEa@45.80.190.64:443?sni=#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20xTom%20%7C%2045.80.190.64%20%232
 trojan://bs6KJkPBW9MP74uHEa@45.80.190.66:443?security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20xTom%20%7C%2045.80.190.66%20%231
+trojan://bs6KJkPBW9MP74uHEa@45.80.190.66:443?sni=#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20xTom%20%7C%2045.80.190.66%20%232
+trojan://49699004-a1ba-4621-9744-3d41e98040a9@92.118.190.131:80?security=none&type=ws&path=/tf3gqdlcz4d9ATYNtIiFQxNPNVWGh&host=vkvd127.mycdn.me#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20xTom%20%7C%2092.118.190.131
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.128:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20185.137.157.128
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20185.137.157.138%20%231
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?sni=#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20185.137.157.138%20%232
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20185.137.157.140
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443/?type=tcp&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20185.137.157.142
