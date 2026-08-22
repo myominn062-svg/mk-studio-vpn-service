@@ -1,10 +1,3 @@
-trojan://Aimer@167.68.4.199:2053?allowInsecure=1&host=epge.muarua.filegear-sg.me&path=/&sni=epge.muarua.filegear-sg.me&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20London%20%7C%20167.68.4.199%20%235
-trojan://Aimer@167.68.4.199:2053?ed=2560&amp;eh=Sec-WebSocket-Protocol&amp;host=epge.muarua.filegear-sg.me&amp;path=%2F%3Fproxyip%3Dts.hpc.tw&amp;sni=epge.muarua.filegear-sg.me&amp;type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20London%20%7C%20167.68.4.199%20%236
-trojan://Aimer@167.68.4.199:2053?host=epge.muarua.filegear-sg.me&amp;path=%2F%3Fed&amp;sni=epge.muarua.filegear-sg.me&amp;type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20London%20%7C%20167.68.4.199%20%237
-trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20London%20%7C%20167.68.4.199%20%238
-trojan://Aimer@167.68.4.199:2053?host=epge.muarua.filegear-sg.me&path=%2F%3Fed&sni=epge.muarua.filegear-sg.me&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20London%20%7C%20167.68.4.199%20%239
-trojan://Aimer@167.68.4.223:2096/?type=tcp&security=tls&sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20London%20%7C%20167.68.4.223%20%231
-trojan://Aimer@167.68.4.223:2096?sni=epccd.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20London%20%7C%20167.68.4.223%20%232
 trojan://Aimer@167.68.4.223:2096?sni=epmk.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20London%20%7C%20167.68.4.223%20%233
 trojan://Aimer@167.68.4.223:2096?security=tls&sni=ageph.ambercc.filegear-sg.me&type=ws&host=ageph.ambercc.filegear-sg.mehttp/1.1&path=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20London%20%7C%20167.68.4.223%20%234
 trojan://Aimer@167.68.4.58:443?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20London%20%7C%20167.68.4.58%20%231
@@ -998,3 +991,10 @@ trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?security=tls&amp;type
 trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443/?type=ws&host=bangladeshipatri.com&path=6b777a91%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&security=tls&sni=bangladeshipatri.com&alpn=http%2F1.1&fp=safari#%F0%9F%8C%90%20Cloudflare%20%7C%20104.16.159.7%20%231
 trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=%2F6b777a91&fp=chrome#%F0%9F%8C%90%20Cloudflare%20%7C%20104.16.159.7%20%232
 trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?sni=#%F0%9F%8C%90%20Cloudflare%20%7C%20104.16.159.7%20%233
+trojan://blue2024@104.16.160.4:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%8C%90%20Cloudflare%20%7C%20104.16.160.4
+trojan://bpb-trojan@104.16.171.51:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.16.171.51%20%231
+trojan://bpb-trojan@104.16.171.51:443?sni=bpb.my79801.com#%F0%9F%8C%90%20Cloudflare%20%7C%20104.16.171.51%20%232
+trojan://humanity@104.16.174.101:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.101%20%231
+trojan://humanity@104.16.174.101:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.101%20%232
+trojan://humanity@104.16.174.101:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.101%20%233
+trojan://humanity@104.16.174.109:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.109%20%231
