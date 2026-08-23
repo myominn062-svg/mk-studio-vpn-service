@@ -1,11 +1,3 @@
-trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.17.68.85:443?sni=ck.ylka.dpdns.org#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.68.85%20%3A443%C2%B7trojan
-trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.17.68.85:443?sni=tt1.vs2024.dpdns.org&allowInsecure=0#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.68.85%20%3A443%C2%B7trojan%C2%B7%233
-trojan://bpb-trojan@104.17.74.93:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.74.93
-trojan://bpb-trojan@104.17.76.107:443/?type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed%3D2560&security=tls&sni=bpb.my79801.com#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.76.107
-trojan://bpb-trojan@104.17.79.62:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.79.62%20%3A443
-trojan://bpb-trojan@104.17.79.62:443?sni=bpb.my79801.com#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.79.62%20%3A443%C2%B7trojan
-trojan://NISHIKUITAN111@104.17.9.34:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.9.34
-trojan://bpb-trojan@104.17.9.38:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.9.38%20%3A443
 trojan://bpb-trojan@104.17.9.38:443?sni=bpb.my79801.com#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.9.38%20%3A443%C2%B7trojan
 trojan://vip@104.18.0.117:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.0.117
 trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@104.18.1.1:443?type=ws&security=tls&path=%2Fin-pdr&host=space.byu.id.yxls.eu.cc&sni=space.byu.id.yxls.eu.cc&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.1.1%20%3A443
@@ -998,3 +990,11 @@ trojan://V+%40iFj2PAdz.%7D_Hq@172.66.47.183:8443?sni=jOinmAhdIsERveR-62E.PaGes.d
 trojan://8r%3C%5B9'l6hAO%238ZQi@172.66.47.26:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=koma-yt.pages.dev#%F0%9F%8C%90%20Cloudflare%20%7C%20172.66.47.26%20%3A8443
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.47.26:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20Cloudflare%20%7C%20172.66.47.26%20%3A8443%C2%B7trojan
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.47.26:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20Cloudflare%20%7C%20172.66.47.26%20%3A8443%C2%B7trojan%C2%B7%235
+trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.47.26:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20Cloudflare%20%7C%20172.66.47.26%20%3A8443%C2%B7trojan%C2%B7%236
+trojan://JsheihIhuy-7-282+2+@172.66.47.3:2087/?type=tcp&security=tls&sni=NET-ACcOunt02.PaGeS.deV#%F0%9F%8C%90%20Cloudflare%20%7C%20172.66.47.3%20%3A2087
+trojan://JsheihIhuy-7-282%2B2%2B@172.66.47.3:2087?security=tls&sni=NET-ACcOunt02.PaGeS.deV&type=ws&host=net-account02.pages.dev&path=%2FtruU4CIf2PazndGkew%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#%F0%9F%8C%90%20Cloudflare%20%7C%20172.66.47.3%20%3A2087%C2%B7trojan
+trojan://JsheihIhuy-7-282+2+@172.66.47.3:2087?sni=NET-ACcOunt02.PaGeS.deV#%F0%9F%8C%90%20Cloudflare%20%7C%20172.66.47.3%20%3A2087%C2%B7trojan%C2%B7%234
+trojan://0q%2776Evm32qz%40Q%27%28@172.66.47.30:2087?security=tls&sni=JOInMahdiserver-11R.PaGES.dEv&type=ws&host=joinmahdiserver-11r.pages.dev#%F0%9F%8C%90%20Cloudflare%20%7C%20172.66.47.30%20%3A2087
+trojan://0q%2776Evm32qz%40Q%27(@172.66.47.30:2087/?type=tcp&security=tls&sni=JOInMahdiserver-11R.PaGES.dEv#%F0%9F%8C%90%20Cloudflare%20%7C%20172.66.47.30%20%3A2087%C2%B7trojan
+trojan://0q%2776Evm32qz%40Q%27(@172.66.47.30:2087?sni=JOInMahdiserver-11R.PaGES.dEv#%F0%9F%8C%90%20Cloudflare%20%7C%20172.66.47.30%20%3A2087%C2%B7trojan%C2%B7%233
+trojan://T%40_WvT8Ho%40LW%25w_%2C@172.66.47.42:2053?security=tls&sni=NOp-55q.pAgEs.dEv&type=ws&host=nop-55q.pages.dev#%F0%9F%8C%90%20Cloudflare%20%7C%20172.66.47.42%20%3A2053
