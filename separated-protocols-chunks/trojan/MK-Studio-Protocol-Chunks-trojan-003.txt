@@ -1,3 +1,5 @@
+trojan://AE62539071@3.120.138.119:443?security=tls&type=tcp&path=/&allow_insecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%203.120.138.119%20%3A443%C2%B7trojan%C2%B7%234
+trojan://FH72359861@3.120.138.119:443?sni=up-dinosaur.rooster465.autos&fp=chrome&type=tcp&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%203.120.138.119%20%3A443%C2%B7trojan%C2%B7%235
 trojan://telegram-id-privatevpns@3.120.169.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%203.120.169.133%20%3A22222
 trojan://telegram-id-directvpn@3.120.169.133:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%203.120.169.133%20%3A22223
 trojan://telegram-id-privatevpns@3.120.187.229:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%203.120.187.229%20%3A22222
@@ -996,5 +998,3 @@ trojan://FH72359861@3.253.78.205:443/?type=tcp&security=tls&sni=balanced-heron.r
 trojan://FH72359861@3.253.78.205:443?sni=balanced-heron.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%20Dublin%2C%20IE%20%C2%B7%20Amazon.com%20%7C%203.253.78.205%20%3A443%C2%B7trojan
 trojan://FH72359861@3.253.78.205:443?security=tls&path=/#%F0%9F%87%AE%F0%9F%87%AA%20Dublin%2C%20IE%20%C2%B7%20Amazon.com%20%7C%203.253.78.205%20%3A443%C2%B7trojan%C2%B7%233
 trojan://FH72359861@3.253.78.205:443?allowInsecure=1#%F0%9F%87%AE%F0%9F%87%AA%20Dublin%2C%20IE%20%C2%B7%20Amazon.com%20%7C%203.253.78.205%20%3A443%C2%B7trojan%C2%B7%234
-trojan://PQ05174892@34.244.253.42:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=nice-elephant.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%20Dublin%2C%20IE%20%C2%B7%20Amazon.com%20%7C%2034.244.253.42%20%3A443
-trojan://PQ05174892@34.244.253.42:443?sni=nice-elephant.rooster465.autos&type=tcp&path=/#%F0%9F%87%AE%F0%9F%87%AA%20Dublin%2C%20IE%20%C2%B7%20Amazon.com%20%7C%2034.244.253.42%20%3A443%C2%B7trojan
