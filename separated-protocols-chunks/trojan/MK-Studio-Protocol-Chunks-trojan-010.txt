@@ -1,10 +1,3 @@
-trojan://NISHIKUITAN222@104.17.246.91:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.246.91
-trojan://vs6f8hvt@104.17.247.203:2083?security=tls&sni=trojan.cchappy.eu.org&type=ws&host=trojan.cchappy.eu.org#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.247.203%20%3A2083
-trojan://vs6f8hvt@104.17.248.203:2083?security=tls&sni=trojan.cchappy.eu.org&type=ws&host=trojan.cchappy.eu.org#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.248.203%20%3A2083
-trojan://vs6f8hvt@104.17.249.203:2096?security=tls&sni=trojan.cchappy.eu.org&type=ws&host=trojan.cchappy.eu.org&path=%2F%3Fed%3D2560&fp=randomized#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.249.203%20%3A2096
-trojan://vs6f8hvt@104.17.249.203:2096?security=tls&sni=trojan.cchappy.eu.org&type=ws&host=trojan.cchappy.eu.org#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.249.203%20%3A2096%C2%B7trojan
-trojan://bpb-trojan@104.17.249.226:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.249.226%20%3A443
-trojan://bpb-trojan@104.17.249.226:443?sni=bpb.my79801.com#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.249.226%20%3A443%C2%B7trojan
 trojan://bpb-trojan@104.17.253.204:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.253.204%20%3A443
 trojan://bpb-trojan@104.17.253.204:443?sni=bpb.my79801.com#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.253.204%20%3A443%C2%B7trojan
 trojan://NISHIKUITAN111@104.17.255.213:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.255.213
@@ -998,3 +991,10 @@ trojan://auto@172.66.47.150:8443/?type=ws&path=%2F&security=tls&sni=e9464f45.tra
 trojan://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443/?type=tcp&security=tls&sni=iSaA1.paGes.DEv#%F0%9F%8C%90%20Cloudflare%20%7C%20172.66.47.151%20%3A443
 trojan://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?sni=iSaA1.paGes.DEv#%F0%9F%8C%90%20Cloudflare%20%7C%20172.66.47.151%20%3A443%C2%B7trojan
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.155:443?security=tls&type=ws&sni=Bloom-cHh.PAGEs.DeV&path=/Telegram@V2ray_Alpha/?ed=2048&host=Bloom-cHh.PAGEs.DeV#%F0%9F%8C%90%20Cloudflare%20%7C%20172.66.47.155%20%3A443
+trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.155:443/?type=ws&host=Bloom-cHh.PAGEs.DeV&security=tls&sni=Bloom-cHh.PAGEs.DeV#%F0%9F%8C%90%20Cloudflare%20%7C%20172.66.47.155%20%3A443%C2%B7trojan
+trojan://bpb-trojan@172.66.47.169:443?path=%2FtrGvw4vC2XBnFG3ZJ6%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-BPB-worKer-paNEl.PaGes.deV#%F0%9F%8C%90%20Cloudflare%20%7C%20172.66.47.169%20%3A443
+trojan://bpb-trojan@172.66.47.169:443/?type=tcp&security=tls&sni=10-BPB-worKer-paNEl.PaGes.deV#%F0%9F%8C%90%20Cloudflare%20%7C%20172.66.47.169%20%3A443%C2%B7trojan
+trojan://bpb-trojan@172.66.47.169:443?sni=10-BPB-worKer-paNEl.PaGes.deV#%F0%9F%8C%90%20Cloudflare%20%7C%20172.66.47.169%20%3A443%C2%B7trojan%C2%B7%234
+trojan://Ys.c7%3FD9qmBLo%5EZ%5D@172.66.47.170:2053?security=tls&sni=JOInMaHDiSeRVeR-333.pAGEs.DeV&type=ws&host=joinmahdiserver-333.pages.dev#%F0%9F%8C%90%20Cloudflare%20%7C%20172.66.47.170%20%3A2053
+trojan://wb6368@172.66.47.170:443?security=tls&sni=hsdgbuys.pages.dev&type=tcp#%F0%9F%8C%90%20Cloudflare%20%7C%20172.66.47.170%20%3A443
+trojan://3Ldo+,81m%5Bh)3Lb+@172.66.47.175:2083/?type=tcp&security=tls&sni=azADNET05.PagES.dEv#%F0%9F%8C%90%20Cloudflare%20%7C%20172.66.47.175%20%3A2083
