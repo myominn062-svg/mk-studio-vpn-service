@@ -1,3 +1,5 @@
+trojan://Aimer@162.159.128.104:443?sni=epccu.ambercc.filegear-sg.me&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20%7C%20162.159.128.104
+trojan://Aimer@162.159.128.116:443?sni=epcca.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20%7C%20162.159.128.116
 trojan://Aimer@162.159.128.139:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20%7C%20162.159.128.139
 trojan://Aimer@162.159.128.157:443?sni=epccu.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20%7C%20162.159.128.157
 trojan://Aimer@162.159.128.160:443?sni=epccu.ambercc.filegear-sg.me&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20%7C%20162.159.128.160
@@ -996,5 +998,3 @@ trojan://humanity@104.18.152.133:443?security=none&type=ws&sni=www.ignitelimit.c
 trojan://humanity@104.18.152.140:443?sni=www.ignitelimit.com#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.152.140%20%3A443
 trojan://humanity@104.18.152.140:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.152.140%20%3A443%C2%B7trojan
 trojan://humanity@104.18.152.140:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.152.140%20%3A443%C2%B7trojan%C2%B7%233
-trojan://humanity@104.18.152.140:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.152.140%20%3A443%C2%B7trojan%C2%B7%234
-trojan://humanity@104.18.152.140:443?security=none&type=ws&sni=www.ignitelimit.com#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.152.140%20%3A443%C2%B7trojan%C2%B7%235

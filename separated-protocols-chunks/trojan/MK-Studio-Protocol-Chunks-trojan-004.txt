@@ -1,3 +1,5 @@
+trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@45.67.229.222:443/?type=tcp&security=tls&sni=customer-45-67-229-222.stark-industries.solutions#%F0%9F%87%B2%F0%9F%87%A9%20Chisinau%2C%20MD%20%7C%2045.67.229.222%20%3A443%C2%B7trojan%C2%B7%233
+trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%7C%20185.236.233.111%20%3A2053
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org&peer=ftp.debian.org&security=tls#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%7C%20185.236.233.111%20%3A2053%C2%B7trojan
 trojan://7d2f4381-c5d5-38ae-9ee9-5dd8e37f66d7@45.67.228.199:443?security=tls&sni=nl1.nodegz.top&allowInsecure=1&type=tcp#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%7C%2045.67.228.199
 trojan://c1087fe2-457d-366e-9d03-303133bf5b65@89.221.224.50:38860?security=tls&sni=is-gy.115cloud.link&type=tcp#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%7C%2089.221.224.50
@@ -996,5 +998,3 @@ trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19240?sni=#%F0%9F%87
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19240?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20China%20%C2%B7%20China%20Mobile%E2%80%A6%20%7C%20120.226.39.25%20%3A19240%C2%B7trojan
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19241?sni=#%F0%9F%87%A8%F0%9F%87%B3%20China%20%C2%B7%20China%20Mobile%E2%80%A6%20%7C%20120.226.39.25%20%3A19241
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19241?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20China%20%C2%B7%20China%20Mobile%E2%80%A6%20%7C%20120.226.39.25%20%3A19241%C2%B7trojan
-trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19243?sni=#%F0%9F%87%A8%F0%9F%87%B3%20China%20%C2%B7%20China%20Mobile%E2%80%A6%20%7C%20120.226.39.25%20%3A19243
-trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19243?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20China%20%C2%B7%20China%20Mobile%E2%80%A6%20%7C%20120.226.39.25%20%3A19243%C2%B7trojan
