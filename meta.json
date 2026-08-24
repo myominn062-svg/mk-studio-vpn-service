@@ -1,6 +1,6 @@
 {
   "brand": "MK Studio VPN Service",
-  "updated_at": "2026-08-24 23:14:52 UTC",
+  "updated_at": "2026-08-24 23:46:50 UTC",
   "total_unique_raw": 225529,
   "total_unique": 100000,
   "caps": {
@@ -13,7 +13,7 @@
   "counts": {
     "all": 100000,
     "featured": 1500,
-    "vmess": 18231,
+    "vmess": 18232,
     "vless": 100000,
     "trojan": 20903,
     "ss": 15424,
@@ -174,7 +174,7 @@
     {
       "name": "epodonios-all",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
-      "added": 4677,
+      "added": 4678,
       "error": null
     },
     {
@@ -204,7 +204,7 @@
     {
       "name": "epodonios-vless",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt",
-      "added": 1,
+      "added": 0,
       "error": null
     },
     {
@@ -297,7 +297,7 @@
     "all_extracted_configs.txt": 100000,
     "MK-Studio-VPN-All-Type.txt": 100000,
     "MK-Studio-VPN.txt": 1500,
-    "vmess_configs.txt": 18231,
+    "vmess_configs.txt": 18232,
     "vless_configs.txt": 100000,
     "trojan_configs.txt": 20903,
     "ss_configs.txt": 15424,
