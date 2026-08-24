@@ -1,7 +1,3 @@
-trojan://3ac6a6ca99f74941b1eaf892818e2ddb@94.131.104.67:443?allowInsecure=1#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%7C%2094.131.104.67
-trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@94.131.115.71:443?security=tls&sni=customer-94-131-115-71.stark-industries.solutions&type=tcp&allowInsecure=1#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%7C%2094.131.115.71
-trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=uk2.safecdn.site#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%7C%2094.131.122.157%20%3A8443
-trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&amp;security=tls&amp;type=grpc&amp;serviceName=grpc&amp;sni=uk2.safecdn.site#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%7C%2094.131.122.157%20%3A8443%C2%B7trojan
 trojan://NISHIKUITAN111@193.227.99.226:443/?type=tcp&security=tls#%F0%9F%87%B2%F0%9F%87%B9%20Malta%20%C2%B7%20Cloudflare%20London%20%7C%20193.227.99.226
 trojan://NISHIKUITAN111@193.227.99.60:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=//#%F0%9F%87%B2%F0%9F%87%B9%20Malta%20%C2%B7%20Cloudflare%20London%20%7C%20193.227.99.60
 trojan://ptvZ8vjK9i@176.124.198.224:11400?security=reality&sni=aws.amazon.com&fp=chrome&pbk=Y9ek0L1QfGCEv3ov0iJpcIS8a5E8ryrthVrDiYZGfWU&sid=f5c33752&type=xhttp&path=/#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam%2C%20NL%20%C2%B7%20Aeza%20Group%20%7C%20176.124.198.224%20%3A11400
@@ -998,3 +994,7 @@ trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19243?sni=#%F0%9F%87
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19243?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20China%20%C2%B7%20China%20Mobile%E2%80%A6%20%7C%20120.226.39.25%20%3A19243%C2%B7trojan
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19245?sni=#%F0%9F%87%A8%F0%9F%87%B3%20China%20%C2%B7%20China%20Mobile%E2%80%A6%20%7C%20120.226.39.25%20%3A19245
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19245?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20China%20%C2%B7%20China%20Mobile%E2%80%A6%20%7C%20120.226.39.25%20%3A19245%C2%B7trojan
+trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19248?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20China%20%C2%B7%20China%20Mobile%E2%80%A6%20%7C%20120.226.39.25%20%3A19248
+trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19248?sni=#%F0%9F%87%A8%F0%9F%87%B3%20China%20%C2%B7%20China%20Mobile%E2%80%A6%20%7C%20120.226.39.25%20%3A19248%C2%B7trojan
+trojan://BZjkHMao@120.226.50.89:443?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20China%20%C2%B7%20China%20Mobile%E2%80%A6%20%7C%20120.226.50.89
+trojan://Md7cc86e@120.232.132.120:25682?security=tls&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20China%20%C2%B7%20China%20Mobile%E2%80%A6%20%7C%20120.232.132.120

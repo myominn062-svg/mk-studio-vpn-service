@@ -1,7 +1,3 @@
-trojan://cad5a49f-14e5-4a05-aae9-c5df8fad394f@172.67.157.220:443?sni=c1sWER.777159.XYz&allowInsecure=0#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.157.220%20%3A443%C2%B7trojan
-trojan://0f7070cd-c91d-4532-a51f-56da4f0e94be@172.67.157.254:443?security=tls&sni=uuujjnmm.444752.xyz&type=ws&host=uuujjnmm.444752.xyz&path=%2FctHoQlqeZn8pbEUSLppj7jCmY&fp=chrome&alpn=http%2F1.1#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.157.254%20%3A443
-trojan://d889b4c8-dab9-4b0c-932b-e4071c727308@172.67.158.146:443?security=tls&sni=M6ghjK.777169.xyz&type=ws&host=m6ghjk.777169.xyz&path=/vFeLkPJXEksjERPwvxRA#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.158.146%20%3A443
-trojan://2a85cc50-5f55-11ee-b3ab-1239d0255272@172.67.159.13:443?security=tls&sni=de1.test3.net&type=ws&path=/howdy&host=de1.test3.net#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.159.13%20%3A443
 trojan://0b971bb0-f0af-11ee-8f57-1239d0255272@172.67.159.13:443?allowInsecure=0&sni=uk1.test3.net&ws=1&wspath=%25252Fhowdy#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.159.13%20%3A443%C2%B7trojan
 trojan://d67cfeaf-b277-44ac-ab99-9dd02a7c5299@172.67.159.56:443?security=tls&sni=Fgh9JkR5.890617.xYz&type=ws&host=fgh9jkr5.890617.xyz&path=%2FlWljHWvIMOj85lz42MdhsCLV&alpn=http%2F1.1#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.159.56%20%3A443
 trojan://0212fab5-e93c-4904-b7a8-187fd535f354@172.67.159.56:443?security=tls&sni=3wsxcvbn.890617.xyz&type=ws&host=3wsxcvbn.890617.xyz&path=/rFt8MpX4JNWO67qEaMINZ1#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.159.56%20%3A443%C2%B7trojan
@@ -998,3 +994,7 @@ trojan://Aimer@104.17.235.145:443?sni=epccv.ambercc.filegear-sg.me#%F0%9F%8C%90%
 trojan://Aimer@104.17.235.165:443?sni=epccu.ambercc.filegear-sg.me#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.235.165
 trojan://Aimer@104.17.235.245:443?sni=epccf.ambercc.filegear-sg.me#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.235.245
 trojan://blue2024@104.17.235.35:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.235.35
+trojan://blue2024@104.17.236.240:443/?type=ws&host=ha.lii2010.us.kg&path=%2F%3Fed&security=tls&sni=ha.lii2010.us.kg#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.236.240
+trojan://Aimer@104.17.24.125:443?sni=epccv.ambercc.filegear-sg.me#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.24.125%20%3A443
+trojan://Aimer@104.17.242.34:443?sni=epccg.ambercc.filegear-sg.me#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.242.34%20%3A443
+trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.17.245.1:443?security=tls&sni=c2mt.ciscocdn1.live&allowInsecure=1&type=tcp#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.245.1
