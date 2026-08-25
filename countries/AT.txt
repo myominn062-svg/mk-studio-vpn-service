@@ -379,4 +379,5 @@ vless://256c5f48-4908-4255-83d1-c86cb58f22b4@152.53.47.91:443?type=tcp&security=
 vless://6895928a-810f-4cfa-9506-68e34af9265a@austria.a1mshop.com:27542?type=xhttp&security=none&path=/#%F0%9F%8C%90%20Cloudflare%20%7C%20austria.a1mshop.com
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-7624
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-7625
-vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-fra02.rkitman.ru:443?sni=node-fra02.rkitman.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C2.1MB/s
+vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-fra01.rkitman.ru:443?sni=node-fra01.rkitman.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C1.9MB/s
+vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@157.173.7.200:443?sni=node-fra02.rkitman.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%B9AT_2%7C3.2MB/s
