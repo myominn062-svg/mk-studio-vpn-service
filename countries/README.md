@@ -14,7 +14,7 @@ Raw: `countries/XX.txt` · Subscription (Base64): `countries/XX.sub.txt`
 | FR | 7015 | [`FR.txt`](./FR.txt) | [`FR.sub.txt`](./FR.sub.txt) |
 | NL | 6884 | [`NL.txt`](./NL.txt) | [`NL.sub.txt`](./NL.sub.txt) |
 | GB | 5970 | [`GB.txt`](./GB.txt) | [`GB.sub.txt`](./GB.sub.txt) |
-| HK | 3731 | [`HK.txt`](./HK.txt) | [`HK.sub.txt`](./HK.sub.txt) |
+| HK | 3732 | [`HK.txt`](./HK.txt) | [`HK.sub.txt`](./HK.sub.txt) |
 | SG | 3709 | [`SG.txt`](./SG.txt) | [`SG.sub.txt`](./SG.sub.txt) |
 | JP | 3593 | [`JP.txt`](./JP.txt) | [`JP.sub.txt`](./JP.sub.txt) |
 | SE | 3469 | [`SE.txt`](./SE.txt) | [`SE.sub.txt`](./SE.sub.txt) |
