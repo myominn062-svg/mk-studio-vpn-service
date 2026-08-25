@@ -1,11 +1,11 @@
 # ssr
 
 Chunk size: **1000** configs per file.
-Total chunks: **1** · Total configs: **222**
+Total chunks: **1** · Total configs: **226**
 
 Use these when a single large list is too heavy for your client.
 
 | File | Count |
 |------|------:|
-| `MK-Studio-Protocol-Chunks-ssr-001.txt` | 222 |
+| `MK-Studio-Protocol-Chunks-ssr-001.txt` | 226 |
 
