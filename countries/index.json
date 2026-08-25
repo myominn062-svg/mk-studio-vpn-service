@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25 19:48:10 UTC",
+  "updated_at": "2026-08-25 20:11:59 UTC",
   "countries": [
     {
       "code": "DE",
@@ -27,103 +27,103 @@
     },
     {
       "code": "IR",
-      "count": 8277,
+      "count": 8269,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/IR.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/IR.sub.txt"
     },
     {
-      "code": "FR",
-      "count": 6961,
-      "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/FR.txt",
-      "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/FR.sub.txt"
-    },
-    {
       "code": "NL",
-      "count": 6887,
+      "count": 6907,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/NL.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/NL.sub.txt"
     },
     {
+      "code": "FR",
+      "count": 6896,
+      "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/FR.txt",
+      "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/FR.sub.txt"
+    },
+    {
       "code": "GB",
-      "count": 5949,
+      "count": 5958,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/GB.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/GB.sub.txt"
     },
     {
       "code": "SG",
-      "count": 3693,
+      "count": 3691,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/SG.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/SG.sub.txt"
     },
     {
       "code": "HK",
-      "count": 3691,
+      "count": 3676,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/HK.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/HK.sub.txt"
     },
     {
       "code": "JP",
-      "count": 3521,
+      "count": 3529,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/JP.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/JP.sub.txt"
     },
     {
       "code": "SE",
-      "count": 3492,
+      "count": 3493,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/SE.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/SE.sub.txt"
     },
     {
       "code": "FI",
-      "count": 2811,
+      "count": 2798,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/FI.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/FI.sub.txt"
     },
     {
       "code": "SC",
-      "count": 2644,
+      "count": 2630,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/SC.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/SC.sub.txt"
     },
     {
       "code": "CA",
-      "count": 2537,
+      "count": 2532,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/CA.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/CA.sub.txt"
     },
     {
       "code": "AE",
-      "count": 2411,
+      "count": 2413,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/AE.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/AE.sub.txt"
     },
     {
       "code": "CN",
-      "count": 1941,
+      "count": 1957,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/CN.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/CN.sub.txt"
     },
     {
       "code": "KR",
-      "count": 1880,
+      "count": 1879,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/KR.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/KR.sub.txt"
     },
     {
       "code": "PL",
-      "count": 1407,
+      "count": 1412,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/PL.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/PL.sub.txt"
     },
     {
       "code": "TR",
-      "count": 1306,
+      "count": 1315,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/TR.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/TR.sub.txt"
     },
     {
       "code": "CH",
-      "count": 1185,
+      "count": 1161,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/CH.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/CH.sub.txt"
     },
@@ -141,49 +141,49 @@
     },
     {
       "code": "MD",
-      "count": 862,
+      "count": 864,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/MD.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/MD.sub.txt"
     },
     {
       "code": "TW",
-      "count": 825,
+      "count": 829,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/TW.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/TW.sub.txt"
     },
     {
       "code": "AU",
-      "count": 816,
+      "count": 815,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/AU.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/AU.sub.txt"
     },
     {
       "code": "RO",
-      "count": 734,
+      "count": 738,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/RO.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/RO.sub.txt"
     },
     {
       "code": "LV",
-      "count": 622,
+      "count": 618,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/LV.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/LV.sub.txt"
     },
     {
       "code": "IT",
-      "count": 585,
+      "count": 584,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/IT.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/IT.sub.txt"
     },
     {
       "code": "KZ",
-      "count": 560,
+      "count": 559,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/KZ.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/KZ.sub.txt"
     },
     {
       "code": "CZ",
-      "count": 534,
+      "count": 533,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/CZ.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/CZ.sub.txt"
     },
@@ -195,7 +195,7 @@
     },
     {
       "code": "ES",
-      "count": 488,
+      "count": 485,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/ES.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/ES.sub.txt"
     },
@@ -207,27 +207,27 @@
     },
     {
       "code": "IE",
-      "count": 439,
+      "count": 445,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/IE.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/IE.sub.txt"
     },
     {
       "code": "BG",
-      "count": 426,
+      "count": 431,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/BG.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/BG.sub.txt"
     },
     {
-      "code": "CO",
-      "count": 416,
-      "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/CO.txt",
-      "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/CO.sub.txt"
-    },
-    {
       "code": "IN",
-      "count": 414,
+      "count": 420,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/IN.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/IN.sub.txt"
+    },
+    {
+      "code": "CO",
+      "count": 415,
+      "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/CO.txt",
+      "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/CO.sub.txt"
     },
     {
       "code": "AT",
@@ -237,13 +237,13 @@
     },
     {
       "code": "UA",
-      "count": 363,
+      "count": 362,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/UA.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/UA.sub.txt"
     },
     {
       "code": "BR",
-      "count": 354,
+      "count": 356,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/BR.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/BR.sub.txt"
     },
@@ -261,7 +261,7 @@
     },
     {
       "code": "LU",
-      "count": 272,
+      "count": 271,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/LU.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/LU.sub.txt"
     },
@@ -273,49 +273,49 @@
     },
     {
       "code": "DK",
-      "count": 177,
+      "count": 178,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/DK.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/DK.sub.txt"
     },
     {
       "code": "BZ",
-      "count": 174,
+      "count": 173,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/BZ.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/BZ.sub.txt"
     },
     {
-      "code": "GR",
-      "count": 151,
-      "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/GR.txt",
-      "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/GR.sub.txt"
-    },
-    {
       "code": "MY",
-      "count": 151,
+      "count": 155,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/MY.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/MY.sub.txt"
     },
     {
+      "code": "GR",
+      "count": 150,
+      "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/GR.txt",
+      "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/GR.sub.txt"
+    },
+    {
       "code": "BE",
-      "count": 148,
+      "count": 147,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/BE.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/BE.sub.txt"
     },
     {
       "code": "HU",
-      "count": 145,
+      "count": 142,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/HU.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/HU.sub.txt"
     },
     {
       "code": "IM",
-      "count": 125,
+      "count": 126,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/IM.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/IM.sub.txt"
     },
     {
       "code": "NO",
-      "count": 122,
+      "count": 123,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/NO.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/NO.sub.txt"
     },
@@ -326,16 +326,16 @@
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/NG.sub.txt"
     },
     {
+      "code": "AL",
+      "count": 100,
+      "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/AL.txt",
+      "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/AL.sub.txt"
+    },
+    {
       "code": "VG",
       "count": 100,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/VG.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/VG.sub.txt"
-    },
-    {
-      "code": "AL",
-      "count": 95,
-      "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/AL.txt",
-      "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/AL.sub.txt"
     },
     {
       "code": "IL",
@@ -375,7 +375,7 @@
     },
     {
       "code": "TH",
-      "count": 66,
+      "count": 64,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/TH.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/TH.sub.txt"
     },
@@ -387,7 +387,7 @@
     },
     {
       "code": "BA",
-      "count": 46,
+      "count": 45,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/BA.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/BA.sub.txt"
     },
@@ -410,16 +410,16 @@
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/JO.sub.txt"
     },
     {
+      "code": "PT",
+      "count": 39,
+      "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/PT.txt",
+      "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/PT.sub.txt"
+    },
+    {
       "code": "BY",
       "count": 38,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/BY.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/BY.sub.txt"
-    },
-    {
-      "code": "PT",
-      "count": 38,
-      "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/PT.txt",
-      "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/PT.sub.txt"
     },
     {
       "code": "AZ",
@@ -458,6 +458,12 @@
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/PH.sub.txt"
     },
     {
+      "code": "IQ",
+      "count": 29,
+      "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/IQ.txt",
+      "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/IQ.sub.txt"
+    },
+    {
       "code": "OM",
       "count": 28,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/OM.txt",
@@ -486,12 +492,6 @@
       "count": 26,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/PE.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/PE.sub.txt"
-    },
-    {
-      "code": "IQ",
-      "count": 25,
-      "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/IQ.txt",
-      "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/IQ.sub.txt"
     },
     {
       "code": "PK",
@@ -525,7 +525,7 @@
     },
     {
       "code": "RS",
-      "count": 14,
+      "count": 13,
       "raw": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/RS.txt",
       "subscription": "https://raw.githubusercontent.com/myominn062-svg/mk-studio-vpn-service/main/countries/RS.sub.txt"
     },
