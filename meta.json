@@ -1,7 +1,7 @@
 {
   "brand": "MK Studio VPN Service",
-  "updated_at": "2026-08-26 12:15:06 UTC",
-  "total_unique_raw": 226242,
+  "updated_at": "2026-08-26 13:26:40 UTC",
+  "total_unique_raw": 226004,
   "total_unique": 100000,
   "caps": {
     "max_all": 100000,
@@ -13,12 +13,12 @@
   "counts": {
     "all": 100000,
     "featured": 1500,
-    "vmess": 18388,
+    "vmess": 18361,
     "vless": 100000,
-    "trojan": 20301,
-    "ss": 15518,
+    "trojan": 20291,
+    "ss": 15524,
     "ssr": 236,
-    "hysteria2": 4404,
+    "hysteria2": 4400,
     "tuic": 136,
     "mixed_chunks": 100,
     "protocol_chunks": {
@@ -30,7 +30,7 @@
       "hysteria2": 5,
       "tuic": 1
     },
-    "countries_detected": 122046,
+    "countries_detected": 122044,
     "countries_unknown": 15000,
     "country_files": 125
   },
@@ -50,12 +50,12 @@
     "BG": 464,
     "BH": 84,
     "BO": 4,
-    "BR": 360,
+    "BR": 359,
     "BY": 38,
     "BZ": 174,
-    "CA": 2474,
+    "CA": 2473,
     "CF": 1,
-    "CH": 1158,
+    "CH": 1157,
     "CI": 3,
     "CL": 34,
     "CN": 1906,
@@ -70,14 +70,14 @@
     "DZ": 3,
     "EA": 1,
     "EC": 7,
-    "EE": 528,
+    "EE": 527,
     "EG": 6,
     "ER": 2,
     "ES": 491,
     "EU": 1,
-    "FI": 2854,
+    "FI": 2852,
     "FR": 6920,
-    "GB": 6028,
+    "GB": 6029,
     "GE": 40,
     "GI": 2,
     "GR": 159,
@@ -93,10 +93,10 @@
     "IQ": 26,
     "IR": 8317,
     "IS": 25,
-    "IT": 643,
+    "IT": 642,
     "JM": 10,
     "JO": 40,
-    "JP": 3505,
+    "JP": 3504,
     "KE": 27,
     "KG": 9,
     "KH": 5,
@@ -121,8 +121,8 @@
     "MY": 155,
     "NE": 2,
     "NG": 134,
-    "NL": 6907,
-    "NO": 150,
+    "NL": 6910,
+    "NO": 149,
     "NP": 1,
     "NZ": 67,
     "OM": 28,
@@ -143,12 +143,12 @@
     "SA": 51,
     "SC": 2630,
     "SE": 3512,
-    "SG": 3799,
+    "SG": 3801,
     "SI": 220,
     "SK": 21,
     "TH": 64,
     "TJ": 4,
-    "TR": 1304,
+    "TR": 1305,
     "TT": 10,
     "TW": 824,
     "UA": 361,
@@ -166,7 +166,7 @@
     {
       "name": "barry-far-all",
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt",
-      "added": 6947,
+      "added": 6948,
       "error": null
     },
     {
@@ -202,25 +202,25 @@
     {
       "name": "epodonios-vless",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt",
-      "added": 214,
+      "added": 0,
       "error": null
     },
     {
       "name": "epodonios-vmess",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vmess.txt",
-      "added": 20,
+      "added": 0,
       "error": null
     },
     {
       "name": "epodonios-trojan",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/trojan.txt",
-      "added": 5,
+      "added": 0,
       "error": null
     },
     {
       "name": "epodonios-ss",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/ss.txt",
-      "added": 13,
+      "added": 0,
       "error": null
     },
     {
@@ -250,7 +250,7 @@
     {
       "name": "solispirit-all",
       "url": "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt",
-      "added": 7630,
+      "added": 7638,
       "error": null
     },
     {
@@ -280,7 +280,7 @@
     {
       "name": "peasoft-nomorewalls",
       "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt",
-      "added": 154,
+      "added": 159,
       "error": null
     },
     {
@@ -295,12 +295,12 @@
     "all_extracted_configs.txt": 100000,
     "MK-Studio-VPN-All-Type.txt": 100000,
     "MK-Studio-VPN.txt": 1500,
-    "vmess_configs.txt": 18388,
+    "vmess_configs.txt": 18361,
     "vless_configs.txt": 100000,
-    "trojan_configs.txt": 20301,
-    "ss_configs.txt": 15518,
+    "trojan_configs.txt": 20291,
+    "ss_configs.txt": 15524,
     "ssr_configs.txt": 236,
-    "hysteria2_configs.txt": 4404,
+    "hysteria2_configs.txt": 4400,
     "tuic_configs.txt": 136
   }
 }
