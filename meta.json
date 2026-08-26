@@ -1,7 +1,7 @@
 {
   "brand": "MK Studio VPN Service",
-  "updated_at": "2026-08-25 23:37:05 UTC",
-  "total_unique_raw": 225053,
+  "updated_at": "2026-08-26 00:01:24 UTC",
+  "total_unique_raw": 225205,
   "total_unique": 100000,
   "caps": {
     "max_all": 100000,
@@ -13,10 +13,10 @@
   "counts": {
     "all": 100000,
     "featured": 1500,
-    "vmess": 18700,
+    "vmess": 18714,
     "vless": 100000,
-    "trojan": 20230,
-    "ss": 15551,
+    "trojan": 20231,
+    "ss": 15572,
     "ssr": 235,
     "hysteria2": 4322,
     "tuic": 116,
@@ -172,7 +172,7 @@
     {
       "name": "epodonios-all",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
-      "added": 4673,
+      "added": 4658,
       "error": null
     },
     {
@@ -202,25 +202,25 @@
     {
       "name": "epodonios-vless",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt",
-      "added": 0,
+      "added": 142,
       "error": null
     },
     {
       "name": "epodonios-vmess",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vmess.txt",
-      "added": 0,
+      "added": 6,
       "error": null
     },
     {
       "name": "epodonios-trojan",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/trojan.txt",
-      "added": 0,
+      "added": 5,
       "error": null
     },
     {
       "name": "epodonios-ss",
       "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/ss.txt",
-      "added": 0,
+      "added": 14,
       "error": null
     },
     {
@@ -295,10 +295,10 @@
     "all_extracted_configs.txt": 100000,
     "MK-Studio-VPN-All-Type.txt": 100000,
     "MK-Studio-VPN.txt": 1500,
-    "vmess_configs.txt": 18700,
+    "vmess_configs.txt": 18714,
     "vless_configs.txt": 100000,
-    "trojan_configs.txt": 20230,
-    "ss_configs.txt": 15551,
+    "trojan_configs.txt": 20231,
+    "ss_configs.txt": 15572,
     "ssr_configs.txt": 235,
     "hysteria2_configs.txt": 4322,
     "tuic_configs.txt": 116
