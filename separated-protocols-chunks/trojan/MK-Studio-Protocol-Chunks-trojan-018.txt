@@ -1,13 +1,3 @@
-trojan://FH72359861@optimal-urchin.rooster465.autos:443?sni=#%F0%9F%87%B5%F0%9F%87%B1%20Warsaw%2C%20PL%20%C2%B7%20G-Core%20Labs%20%7C%20optimal-urchin.rooster465.autos%20%3A443%C2%B7trojan%C2%B7%236
-trojan://IQ68037294@optimum-bull.rooster465.autos:443?sni=optimum-bull.rooster465.autos&fp=chrome&type=tcp&path=%2f#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20G-Core%20Labs%20%7C%20optimum-bull.rooster465.autos%20%3A443
-trojan://FC60532879@optimum-bull.rooster465.autos:443?sni=optimum-bull.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20G-Core%20Labs%20%7C%20optimum-bull.rooster465.autos%20%3A443%C2%B7trojan
-trojan://WG39087154@optimum-bull.rooster465.autos:443?sni=optimum-bull.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20G-Core%20Labs%20%7C%20optimum-bull.rooster465.autos%20%3A443%C2%B7trojan%C2%B7%233
-trojan://PD07395842@optimum-bull.rooster465.autos:443?fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20G-Core%20Labs%20%7C%20optimum-bull.rooster465.autos%20%3A443%C2%B7trojan%C2%B7%234
-trojan://PD07395842@optimum-bull.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20G-Core%20Labs%20%7C%20optimum-bull.rooster465.autos%20%3A443%C2%B7trojan%C2%B7%235
-trojan://Fn9TZuYXiFYhsyp65T@os-2.rise-fuji.com:443?sni=os-2.rise-fuji.com#%F0%9F%87%AF%F0%9F%87%B5%20Osaka%2C%20JP%20%C2%B7%20xTom%20%7C%20os-2.rise-fuji.com
-trojan://18844%40zxcvbn@os-tr-5.cats22.net:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%C2%B7%20SAKURA%20Internet%20%7C%20os-tr-5.cats22.net
-trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@otto.ns.cloudflare.com:443?sni=ck.ylka.dpdns.org#%F0%9F%8C%90%20Cloudflare%20%7C%20otto.ns.cloudflare.com%20%3A443
-trojan://bf7e1009-1574-44f7-86df-6cbecd338477@pardazeshvpn-tg18.pages.dev:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=pardazeshvpn-tg18.pages.dev&fp=randomized&type=ws&sni=pardazeshvpn-tg18.pages.dev#%F0%9F%8C%90%20Cloudflare%20%7C%20pardazeshvpn-tg18.pages.dev%20%3A443%C2%B7trojan
 trojan://IQ68037294@patient-gannet.rooster465.autos:443?security=tls&sni=patient-gannet.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1%20Warsaw%2C%20PL%20%C2%B7%20G-Core%20Labs%20%7C%20patient-gannet.rooster465.autos%20%3A443
 trojan://WG39087154@patient-gannet.rooster465.autos:443?sni=patient-gannet.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Warsaw%2C%20PL%20%C2%B7%20G-Core%20Labs%20%7C%20patient-gannet.rooster465.autos%20%3A443%C2%B7trojan
 trojan://FC60532879@perfect-hare.rooster465.autos:443?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20G-Core%20Labs%20%7C%20perfect-hare.rooster465.autos
@@ -998,3 +988,13 @@ trojan://de4a493f-5fd9-46e7-bde2-46b9cc3a6d9b@103.6.220.71:21042?security=tls&am
 trojan://11fd7d06-a1fb-4a47-a490-e0a62d1e1c0e@104.16.223.200:443?path=%2Fafrcloud4.mmv.kr%2F156.244.1.250%3A8443&security=tls&alpn=http%2F1.1&host=young-water-da76.shbanysrwsh.workers.dev&fp=chrome&type=ws&sni=young-water-da76.shbanysrwsh.workers.dev#%F0%9F%8C%90%20Cloudflare%20%7C%20104.17.162.123%20%3A8443%C2%B7vless%C2%B7%2321
 trojan://FcnFFxR3
 trojan://blue2024@104.22.73.111:443?sni=hb.lii2010.us.kg&amp;allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20Seattle%2C%20US%20%C2%B7%20Cloudflare%20%7C%20104.22.73.111%20%3A443
+trojan://blue2024@104.24.59.48:443?allowInsecure=1&amp;sni=hb.lii2010.us.kg&amp;ws=1&amp;wspath=%2F%3Fed%3D2560#%F0%9F%8C%90%20Cloudflare%20%7C%20104.24.59.48%20%3A443
+trojan://blue2024@108.162.195.202:443?sni=hb.lii2010.us.kg&amp;allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20108.162.195.202%20%3A443
+trojan://telegram-id-privatevpns@13.49.93.83:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http%2F1.1#%F0%9F%87%B8%F0%9F%87%AA%20Stockholm%2C%20SE%20%C2%B7%20Amazon.com%20%7C%2013.49.93.83%20%3A22222
+trojan://moist@154.197.121.253:443?security=tls&amp;sni=trojan.freenods.sbs&amp;type=ws&amp;host=trojan.freenods.sbs&amp;path=%2F%3Fed%3D2560#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20Cloudflare%20London%20%7C%20154.197.121.253%20%3A443
+trojan://moist@154.197.121.253:443?security=tls&amp;sni=trojan.freenods.sbs&amp;type=ws&amp;host=trojan.freenods.sbs&amp;path=%2F%3Fed%3D2560#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20Cloudflare%20London%20%7C%20154.197.121.253%20%3A443%C2%B7ss
+trojan://blue2024@162.159.14.2:443?sni=hb.lii2010.us.kg&amp;allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20162.159.14.2%20%3A443
+trojan://blue2024@172.64.201.25:443?allowInsecure=1&amp;sni=tb.promote.icu&amp;ws=1&amp;wspath=%2F%3Fed%3D2560#%F0%9F%87%B5%F0%9F%87%B1%20Warsaw%2C%20PL%20%C2%B7%20Cloudflare%20%7C%20172.64.201.25%20%3A443
+trojan://%3AZ%23%253cdIG
+trojan://8r%3C%5B9
+trojan://humanity@172.67.221.242:443?path=/assignment&amp;security=tls&amp;alpn=h3,h2,http/1.1&amp;fm={

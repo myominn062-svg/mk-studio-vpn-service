@@ -1,13 +1,3 @@
-trojan://1a98450e6f743b1b66a8bebfe3ea93e9@13.193.221.106:4674?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20Amazon.com%20%7C%2013.193.221.106%20%3A4674
-trojan://FH72359861@13.193.221.67:443?sni=main-impala.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20Amazon.com%20%7C%2013.193.221.67%20%3A443
-trojan://AE62539071@13.193.221.67:443?sni=main-impala.rooster465.autos&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20Amazon.com%20%7C%2013.193.221.67%20%3A443%C2%B7trojan
-trojan://AE62539071@13.209.16.12:443?sni=light-sheepdog.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B7%20Amazon.com%20%7C%2013.209.16.12
-trojan://PQ05174892@13.209.18.180:443?sni=musical-manatee.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B7%20Amazon.com%20%7C%2013.209.18.180
-trojan://xxoo@13.210.76.227:443?security=tls&allowInsecure=1&type=tcp#%F0%9F%87%A6%F0%9F%87%BA%20Sydney%2C%20AU%20%C2%B7%20Amazon.com%20%7C%2013.210.76.227
-trojan://PQ05174892@13.212.116.190:443?sni=musical-terrier.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2013.212.116.190
-trojan://PQ05174892@13.212.117.165:443?sni=in-mongrel.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2013.212.117.165
-trojan://a132d6ab-fdd0-4d16-b01b-1bfc43fbe015@13.212.143.207:443?security=tls&sni=sg9.microsoft-orgwly.vip&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2013.212.143.207
-trojan://NQ26071394@13.212.151.64:443?allowInsecure=0&sni=able-dane.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2013.212.151.64
 trojan://PQ05174892@13.212.153.252:443?sni=on-airedale.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2013.212.153.252
 trojan://FH72359861@13.212.173.162:443?sni=integral-quetzal.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2013.212.173.162
 trojan://PQ05174892@13.212.174.21:443?sni=fleet-pony.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2013.212.174.21
@@ -998,3 +988,13 @@ trojan://57edfecf-5694-4a34-8072-54a4f0636a62@146.56.179.67:40005?allowInsecure=
 trojan://57edfecf-5694-4a34-8072-54a4f0636a62@146.56.179.67:40005?security=tls#%F0%9F%87%B0%F0%9F%87%B7%20Seoul%2C%20KR%20%C2%B7%20Oracle%20Corporation%20%7C%20146.56.179.67%20%3A40005%C2%B7trojan%C2%B7%235
 trojan://57edfecf-5694-4a34-8072-54a4f0636a62@146.56.179.67:40006?security=tls&sni=frontend.kuangbiaoyun.com&allowInsecure=1&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20Seoul%2C%20KR%20%C2%B7%20Oracle%20Corporation%20%7C%20146.56.179.67%20%3A40006
 trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@146.56.180.103:443?security=tls&sni=jy.hhllfly.kdns.fr&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20Seoul%2C%20KR%20%C2%B7%20Oracle%20Corporation%20%7C%20146.56.180.103%20%3A443
+trojan://bpb-trojan@146.56.46.84:443?sni=skwygx.top&type=ws&host=skwygx.top#%F0%9F%87%B0%F0%9F%87%B7%20Seoul%2C%20KR%20%C2%B7%20Oracle%20Corporation%20%7C%20146.56.46.84
+trojan://af6a3685-c423-4579-bfea-784c453d5e23@146.59.3.14:443?security=tls&allowInsecure=1&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%C2%B7%20OVH%20%7C%20146.59.3.14%20%3A443
+trojan://af6a3685-c423-4579-bfea-784c453d5e23@146.59.3.14:443?sni=#%F0%9F%87%AB%F0%9F%87%B7%20France%20%C2%B7%20OVH%20%7C%20146.59.3.14%20%3A443%C2%B7trojan
+trojan://11ae0edd-2f63-4495-8683-037abbda9986@146.70.158.111:443?security=none&type=ws&sni=amin.karkas1.ir#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20M247%20Europe%20SRL%20%7C%20146.70.158.111%20%3A443
+trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@146.70.158.111:443?security=none&type=grpc&sni=amin.karkas1.ir&serviceName=6vuNVgOFnqUEvj0rcXIcStL#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20M247%20Europe%20SRL%20%7C%20146.70.158.111%20%3A443%C2%B7trojan
+trojan://11ae0edd-2f63-4495-8683-037abbda9986@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=ws&path=/6vuNVgOFnqUEvj0sNkGkxxW7&Host=amin.karkas1.ir#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20M247%20Europe%20SRL%20%7C%20146.70.158.111%20%3A443%C2%B7trojan%C2%B7%233
+trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@146.70.158.111:443?sni=amin.karkas1.ir#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20M247%20Europe%20SRL%20%7C%20146.70.158.111%20%3A443%C2%B7trojan%C2%B7%234
+trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=grpc&serviceName=6vuNVgOFnqUEvj0rcXIcStL#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20M247%20Europe%20SRL%20%7C%20146.70.158.111%20%3A443%C2%B7trojan%C2%B7%235
+trojan://blhwsknjxmfuydz0vhfv@146.70.73.210:53809?sni=www.vk.com#%F0%9F%87%AE%F0%9F%87%B9%20Milan%2C%20IT%20%C2%B7%20M247%20Europe%20SRL%20%7C%20146.70.73.210
+trojan://blhwsknjxmfuydz0vhfv@146.70.73.211:53809?amp%3BheaderType=none&amp%3Bsni=www.vk.com&amp%3Btype=tcp&security=tls#%F0%9F%87%AE%F0%9F%87%B9%20Milan%2C%20IT%20%C2%B7%20M247%20Europe%20SRL%20%7C%20146.70.73.211%20%3A53809

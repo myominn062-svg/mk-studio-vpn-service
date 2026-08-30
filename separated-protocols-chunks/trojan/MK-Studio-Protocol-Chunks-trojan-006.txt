@@ -1,13 +1,3 @@
-trojan://bpb-trojan@146.56.46.84:443?sni=skwygx.top&type=ws&host=skwygx.top#%F0%9F%87%B0%F0%9F%87%B7%20Seoul%2C%20KR%20%C2%B7%20Oracle%20Corporation%20%7C%20146.56.46.84
-trojan://af6a3685-c423-4579-bfea-784c453d5e23@146.59.3.14:443?security=tls&allowInsecure=1&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%C2%B7%20OVH%20%7C%20146.59.3.14%20%3A443
-trojan://af6a3685-c423-4579-bfea-784c453d5e23@146.59.3.14:443?sni=#%F0%9F%87%AB%F0%9F%87%B7%20France%20%C2%B7%20OVH%20%7C%20146.59.3.14%20%3A443%C2%B7trojan
-trojan://11ae0edd-2f63-4495-8683-037abbda9986@146.70.158.111:443?security=none&type=ws&sni=amin.karkas1.ir#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20M247%20Europe%20SRL%20%7C%20146.70.158.111%20%3A443
-trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@146.70.158.111:443?security=none&type=grpc&sni=amin.karkas1.ir&serviceName=6vuNVgOFnqUEvj0rcXIcStL#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20M247%20Europe%20SRL%20%7C%20146.70.158.111%20%3A443%C2%B7trojan
-trojan://11ae0edd-2f63-4495-8683-037abbda9986@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=ws&path=/6vuNVgOFnqUEvj0sNkGkxxW7&Host=amin.karkas1.ir#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20M247%20Europe%20SRL%20%7C%20146.70.158.111%20%3A443%C2%B7trojan%C2%B7%233
-trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@146.70.158.111:443?sni=amin.karkas1.ir#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20M247%20Europe%20SRL%20%7C%20146.70.158.111%20%3A443%C2%B7trojan%C2%B7%234
-trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=grpc&serviceName=6vuNVgOFnqUEvj0rcXIcStL#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20M247%20Europe%20SRL%20%7C%20146.70.158.111%20%3A443%C2%B7trojan%C2%B7%235
-trojan://blhwsknjxmfuydz0vhfv@146.70.73.210:53809?sni=www.vk.com#%F0%9F%87%AE%F0%9F%87%B9%20Milan%2C%20IT%20%C2%B7%20M247%20Europe%20SRL%20%7C%20146.70.73.210
-trojan://blhwsknjxmfuydz0vhfv@146.70.73.211:53809?amp%3BheaderType=none&amp%3Bsni=www.vk.com&amp%3Btype=tcp&security=tls#%F0%9F%87%AE%F0%9F%87%B9%20Milan%2C%20IT%20%C2%B7%20M247%20Europe%20SRL%20%7C%20146.70.73.211%20%3A53809
 trojan://blhwsknjxmfuydz0vhfv@146.70.73.211:53809?sni=www.vk.com#%F0%9F%87%AE%F0%9F%87%B9%20Milan%2C%20IT%20%C2%B7%20M247%20Europe%20SRL%20%7C%20146.70.73.211%20%3A53809%C2%B7trojan
 trojan://blhwsknjxmfuydz0vhfv@146.70.73.212:53809?security=tls&sni=www.vk.com&allowInsecure=true#%F0%9F%87%AE%F0%9F%87%B9%20Milan%2C%20IT%20%C2%B7%20M247%20Europe%20SRL%20%7C%20146.70.73.212%20%3A53809
 trojan://blhwsknjxmfuydz0vhfv@146.70.73.212:53809?sni=www.vk.com#%F0%9F%87%AE%F0%9F%87%B9%20Milan%2C%20IT%20%C2%B7%20M247%20Europe%20SRL%20%7C%20146.70.73.212%20%3A53809%C2%B7trojan
@@ -998,3 +988,13 @@ trojan://BxceQaOe@16.163.102.116:52951?security=tls&insecure=1&headerType=none&t
 trojan://b79a9be5-0fc7-426c-9741-602ba021db36@16.163.103.59:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20HK%20%C2%B7%20Amazon.com%20%7C%2016.163.103.59
 trojan://BxceQaOe@16.163.106.216:11097?#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20HK%20%C2%B7%20Amazon.com%20%7C%2016.163.106.216%20%3A11097
 trojan://BxceQaOe@16.163.106.216:49534?#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20HK%20%C2%B7%20Amazon.com%20%7C%2016.163.106.216%20%3A49534
+trojan://518e8d1a-9a9d-4aed-99ba-4503f171d54a@16.163.126.243:443?allowInsecure=1&sni=data.amazon-azure.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20HK%20%C2%B7%20Amazon.com%20%7C%2016.163.126.243
+trojan://BxceQaOe@16.163.139.175:26704?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20HK%20%C2%B7%20Amazon.com%20%7C%2016.163.139.175%20%3A26704
+trojan://BxceQaOe@16.163.139.175:49811?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20HK%20%C2%B7%20Amazon.com%20%7C%2016.163.139.175%20%3A49811
+trojan://BxceQaOe@16.163.144.245:39024?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20HK%20%C2%B7%20Amazon.com%20%7C%2016.163.144.245
+trojan://6ec301428255a78a1d826988d86cc87e@16.163.156.207:14684?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20HK%20%C2%B7%20Amazon.com%20%7C%2016.163.156.207
+trojan://fe5a16f8-bbc2-4e26-b703-55a22c1323d6@16.163.16.82:443?type=tcp&security=tls&sni=data.amazon-azure.com&fp=chrome&alpn=http%2F1.1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20HK%20%C2%B7%20Amazon.com%20%7C%2016.163.16.82
+trojan://121d5d3e-6237-4536-ab68-bf8405abadfc@16.163.194.6:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20HK%20%C2%B7%20Amazon.com%20%7C%2016.163.194.6
+trojan://518e8d1a-9a9d-4aed-99ba-4503f171d54a@16.163.210.162:443?allowInsecure=1&sni=data.amazon-azure.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20HK%20%C2%B7%20Amazon.com%20%7C%2016.163.210.162
+trojan://d1960ba9f0f6353353994fa844cf817b@16.163.57.145:40138?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20HK%20%C2%B7%20Amazon.com%20%7C%2016.163.57.145
+trojan://fb01faa6-3ddc-43ab-82bb-834c8f659f91@16.163.9.83:443?allowInsecure=0&sni=data.amazon-azure.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20HK%20%C2%B7%20Amazon.com%20%7C%2016.163.9.83

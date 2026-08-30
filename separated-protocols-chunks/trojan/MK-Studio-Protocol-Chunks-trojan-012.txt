@@ -1,13 +1,3 @@
-trojan://Aimer@221.149.132.232:50000?sni=ngepz.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20Songpa-Gu%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%20221.149.132.232
-trojan://Aimer@221.151.204.241:12369?sni=epcci.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20Yangju%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%20221.151.204.241
-trojan://Aimer@221.154.119.147:34422?sni=epma.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%20221.154.119.147
-trojan://Aimer@221.158.163.251:16403?sni=epccx.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20Daejeon%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%20221.158.163.251
-trojan://GKHWMe2R4qwNcNxu6l3KMkdd@221.158.4.230:18853/?type=tcp&security=tls&sni=vpn1.rnmcnm.com&allowInsecure=1#%F0%9F%87%B0%F0%9F%87%B7%20Daejeon%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%20221.158.4.230
-trojan://8r%3C%5B9%27l6hAO%238ZQi@221.159.99.35:10332?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7%20Jeonju%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%20221.159.99.35
-trojan://Aimer@221.163.173.252:50000?sni=epms.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20Yongin-Si%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%20221.163.173.252%20%3A50000
-trojan://Aimer@222.104.130.83:50006?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%B0%F0%9F%87%B7%20Pohang%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%20222.104.130.83%20%3A50006
-trojan://Aimer@222.104.213.148:12341/?type=tcp&security=tls&sni=epccq.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20Nam-Gu%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%20222.104.213.148
-trojan://Aimer@222.106.126.224:50000?sni=epcci.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20Songpa-Gu%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%20222.106.126.224
 trojan://Aimer@222.107.236.137:12191?sni=agepj.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20Seoul%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%20222.107.236.137
 trojan://Aimer@222.108.106.148:12386?sni=epme.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20Gwangmyeong%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%20222.108.106.148%20%3A12386
 trojan://Aimer@222.114.29.162:50009?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%B0%F0%9F%87%B7%20Seo-Gu%2C%20KR%20%C2%B7%20Korea%20Telecom%20%7C%20222.114.29.162%20%3A50009
@@ -998,3 +988,13 @@ trojan://telegram-id-directvpn@35.181.181.24:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@35.181.181.24:22223?sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.181.24%20%3A22223%C2%B7trojan
 trojan://telegram-id-directvpn@35.181.182.174:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.182.174
 trojan://telegram-id-directvpn@35.181.182.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.182.19
+trojan://telegram-id-directvpn@35.181.182.220:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.182.220
+trojan://telegram-id-privatevpns@35.181.182.231:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.182.231
+trojan://telegram-id-privatevpns@35.181.182.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.182.57%20%3A22222
+trojan://telegram-id-directvpn@35.181.182.57:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.182.57%20%3A22223
+trojan://telegram-id-privatevpns@35.181.184.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.184.47%20%3A22222
+trojan://telegram-id-directvpn@35.181.184.47:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.184.47%20%3A22223
+trojan://telegram-id-privatevpns@35.181.187.69:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.187.69
+trojan://telegram-id-directvpn@35.181.19.90:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.19.90
+trojan://telegram-id-privatevpns@35.181.195.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.195.29%20%3A22222
+trojan://telegram-id-privatevpns@35.181.20.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.20.21
