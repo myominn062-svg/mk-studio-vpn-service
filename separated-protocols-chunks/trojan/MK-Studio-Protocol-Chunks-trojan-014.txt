@@ -1,3 +1,5 @@
+trojan://humanity@104.16.174.71:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.71%20%3A443%C2%B7trojan%C2%B7%233
+trojan://humanity@104.16.174.71:443?allowInsecure=1&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.71%20%3A443%C2%B7trojan%C2%B7%234
 trojan://humanity@104.16.174.71:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.71%20%3A443%C2%B7trojan%C2%B7%235
 trojan://humanity@104.16.174.72:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#%F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.72%20%3A443
 trojan://humanity@104.16.174.72:443?sni=www.ignitelimit.com&type=ws#%F0%9F%8C%90%20Cloudflare%20%7C%20104.16.174.72%20%3A443%C2%B7trojan
@@ -996,5 +998,3 @@ trojan://vs6f8hvt@104.26.13.54:2087?security=tls&sni=trojan.cchappy.eu.org&type=
 trojan://vs6f8hvt@104.26.13.54:2087?security=tls&sni=trojan.cchappy.eu.org&type=ws&host=trojan.cchappy.eu.org&path=%2F%3Fed%3D2560&fp=randomized#%F0%9F%8C%90%20Cloudflare%20%7C%20104.26.13.54%20%3A2087%C2%B7trojan
 trojan://8aa7e179-739d-4195-bceb-d3e3fddf3df9@104.26.13.54:443?security=tls&sni=digitaloceanusargo.lzj520hxw.dpdns.org&type=tcp&allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.26.13.54%20%3A443
 trojan://00a9a559-8bb0-425e-bc97-c9885a575455@104.26.13.54:443?sni=usargo.lzj520hxw.dpdns.org&allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.26.13.54%20%3A443%C2%B7trojan
-trojan://vs6f8hvt@104.26.13.54:443?security=tls&sni=trojan.cchappy.eu.org&type=ws&host=trojan.cchappy.eu.org#%F0%9F%8C%90%20Cloudflare%20%7C%20104.26.13.54%20%3A443%C2%B7trojan%C2%B7%238
-trojan://%4D%49%54%49%56%50%4E@104.26.14.137:2096?path=%2F---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E%3DDe1&security=tls&alpn=http%2F1.1&insecure=1&host=De1-2-3.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=de-ms.App-Cloud.ir#%F0%9F%8C%90%20Cloudflare%20%7C%20104.26.14.137%20%3A2096

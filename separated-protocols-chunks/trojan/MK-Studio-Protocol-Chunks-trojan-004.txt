@@ -1,3 +1,5 @@
+trojan://telegram-id-privatevpns@35.157.236.123:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2035.157.236.123
+trojan://telegram-id-directvpn@35.157.5.33:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2035.157.5.33
 trojan://telegram-id-v2ray_configs_pools@35.157.86.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2035.157.86.22%20%3A22222
 trojan://telegram-id-privatevpns@35.157.98.83:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2035.157.98.83%20%3A22222
 trojan://telegram-id-directvpn@35.157.98.83:22223?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2035.157.98.83%20%3A22223
@@ -996,5 +998,3 @@ trojan://telegram-id-privatevpns@15.236.234.211:22222?sni=trojan.burgerip.co.uk&
 trojan://telegram-id-privatevpns@15.236.240.179:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2015.236.240.179
 trojan://telegram-id-privatevpns@15.236.242.161:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2015.236.242.161
 trojan://telegram-id-privatevpns@15.236.249.216:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2015.236.249.216%20%3A22222
-trojan://telegram-id-directvpn@15.236.249.216:22223?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2015.236.249.216%20%3A22223
-trojan://telegram-id-privatevpns@15.236.250.80:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2015.236.250.80

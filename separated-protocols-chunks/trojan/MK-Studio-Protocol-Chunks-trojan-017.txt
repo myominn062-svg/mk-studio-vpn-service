@@ -1,3 +1,5 @@
+trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@104.21.3.60:443/?type=tcp&security=tls&sni=ssp1.100896.xyz#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.3.60%20%3A443
+trojan://7743e1b5-d301-4a66-b765-17094890fae2@104.21.3.60:443?sni=ssloa1.100896.xyz#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.3.60%20%3A443%C2%B7trojan
 trojan://2fec7227-9abe-46f2-af18-78302b836c45@104.21.30.167:443/?type=tcp&security=tls&sni=3y.2032.pp.ua#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.30.167%20%3A443
 trojan://2fec7227-9abe-46f2-af18-78302b836c45@104.21.30.167:443?security=tls&sni=3y.2032.pp.ua&type=ws&host=3y.2032.pp.ua&path=/XjTi1NYwi9A2bckpqdDoAgkondVWl#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.30.167%20%3A443%C2%B7trojan
 trojan://a7b22c05-27fd-4a76-8896-2aebaf4cf3a1@104.21.30.167:443?security=tls&sni=TttTtTYU.2032.PP.UA&type=ws&host=TttTtTYU.2032.PP.UA&path=%2FmXG7Hx4Y37nTr2Hdmy903WCeD85F1b&alpn=http%252F1.1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.30.167%20%3A443%C2%B7trojan%C2%B7%233
@@ -996,5 +998,3 @@ trojan://Telegram_healer_config@172.67.182.52:443?type=ws&security=tls&fp=chrome
 trojan://NISHIKUITAN111@172.67.185.81:443/?type=tcp&security=tls#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.185.81
 trojan://4d706727-996f-4427-930d-60f3bd414cf9@172.67.186.42:443?security=tls&sni=c2mt.ciscocdn1.live&allowInsecure=1&type=tcp#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.186.42%20%3A443
 trojan://Aimer@172.67.187.145:2083?sni=epccj.ambercc.filegear-sg.me#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.187.145%20%3A2083
-trojan://2734c14b-e4ce-48b3-b3de-f80788cb4c47@172.67.187.28:443?security=tls&sni=SSSxDd.Iran2035.dPdns.org&type=grpc#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.187.28%20%3A443
-trojan://a94fafdb-10d6-46c2-be8a-5c2e8358fbb0@172.67.187.28:443?security=tls&sni=dddDdDdDDFfFf.iran2035.dPdNS.ORG&type=ws&host=dddddddddffff.iran2035.dpdns.org&path=%2Fxa846InEcmjyiKVby2Lp&fp=chrome&alpn=http%2F1.1#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.187.28%20%3A443%C2%B7trojan

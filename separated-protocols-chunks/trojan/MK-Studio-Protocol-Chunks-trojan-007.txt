@@ -1,3 +1,5 @@
+trojan://8d5ab940-29d2-486b-897e-9e1ada3be686@51.75.249.107:443?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=plan9sim.online#%F0%9F%87%AB%F0%9F%87%B7%20France%20%C2%B7%20OVH%20%7C%2051.75.249.107%20%3A443
+trojan://8a4221c7-58ca-4ea5-97e1-aa1dd5fdd54b@de1.connectsuite.org:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%20France%20%C2%B7%20OVH%20%7C%20de1.connectsuite.org
 trojan://2ee85121-31de-4581-a492-eb00f606e392@185.208.207.217:443/?type=tcp&security=tls&sn#%F0%9F%87%AB%F0%9F%87%B7%20Lauterbourg%2C%20FR%20%C2%B7%20Contabo%20%7C%20185.208.207.217%20%3A443%C2%B7trojan
 trojan://ND91608427@13.36.175.151:443?security=tls&sni=classic-gator.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2013.36.175.151%20%3A443%C2%B7trojan
 trojan://telegram-id-directvpn@13.36.245.99:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2013.36.245.99%20%3A22222
@@ -996,5 +998,3 @@ trojan://iyinglong@18.140.67.76:443?sni=#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C
 trojan://XG59623478@18.143.141.136:443?allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2018.143.141.136
 trojan://Aimer@3.1.116.161:2053?security=tls&sni=epmo.ambercc.filegear-sg.me&type=ws&host=epmo.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%203.1.116.161%20%3A2053
 trojan://58dcd460-65df-47b1-b062-517df30bef29@46.137.203.18:443?sni=sg.liangyuandian.top&peer=sg.liangyuandian.top&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2046.137.203.18
-trojan://AE62539071@47.128.150.245:443?fp=chrome&sni=stirred-buck.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2047.128.150.245
-trojan://PQ05174892@52.220.98.46:443?allowInsecure=0&sni=pleased-albacore.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2052.220.98.46%20%3A443%C2%B7trojan
