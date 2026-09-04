@@ -1,3 +1,10 @@
+trojan://telegram-id-privatevpns@52.57.227.186:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2052.57.227.186
+trojan://telegram-id-directvpn@52.57.247.48:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2052.57.247.48
+trojan://telegram-id-directvpn@52.57.57.22:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2052.57.57.22
+trojan://telegram-id-privatevpns@52.57.61.13:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2052.57.61.13%20%3A22222
+trojan://telegram-id-directvpn@52.57.61.13:22223?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2052.57.61.13%20%3A22223
+trojan://telegram-id-privatevpns@52.57.70.34:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2052.57.70.34%20%3A22222
+trojan://telegram-id-directvpn@52.57.70.34:22223?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2052.57.70.34%20%3A22223
 trojan://telegram-id-privatevpns@52.57.71.35:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2052.57.71.35
 trojan://telegram-id-privatevpns@52.57.84.177:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2052.57.84.177
 trojan://telegram-id-directvpn@52.57.86.176:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2052.57.86.176
@@ -991,10 +998,3 @@ trojan://JT80563429@82.117.226.159:443?sni=wealthy-bengal.rooster465.autos&fp=ch
 trojan://FC60532879@82.117.226.159:443?sni=wealthy-bengal.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B7%20G-Core%20Labs%20%7C%2082.117.226.159%20%3A443%C2%B7trojan
 trojan://WG39087154@82.117.226.159:443?sni=wealthy-bengal.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B7%20G-Core%20Labs%20%7C%2082.117.226.159%20%3A443%C2%B7trojan%C2%B7%233
 trojan://IQ68037294@82.117.226.159:443?sni=wealthy-bengal.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B7%20G-Core%20Labs%20%7C%2082.117.226.159%20%3A443%C2%B7trojan%C2%B7%234
-trojan://WG39087154@82.117.226.195:443?sni=proud-pheasant.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B7%20G-Core%20Labs%20%7C%2082.117.226.195%20%3A443
-trojan://JT80563429@82.117.226.195:443?sni=proud-pheasant.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B7%20G-Core%20Labs%20%7C%2082.117.226.195%20%3A443%C2%B7trojan
-trojan://WG39087154@82.117.226.221:443?sni=accurate-drake.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B7%20G-Core%20Labs%20%7C%2082.117.226.221%20%3A443
-trojan://IQ68037294@82.117.226.221:443?sni=accurate-drake.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B7%20G-Core%20Labs%20%7C%2082.117.226.221%20%3A443%C2%B7trojan
-trojan://JT80563429@82.117.226.221:443?sni=accurate-drake.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B7%20G-Core%20Labs%20%7C%2082.117.226.221%20%3A443%C2%B7trojan%C2%B7%233
-trojan://JT80563429@82.117.226.224:443?sni=exotic-chicken.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B7%20G-Core%20Labs%20%7C%2082.117.226.224
-trojan://WG39087154@82.117.226.240:443?sni=engaging-elephant.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%87%B0%F0%9F%87%B7%20Incheon%2C%20KR%20%C2%B7%20G-Core%20Labs%20%7C%2082.117.226.240

@@ -1,3 +1,10 @@
+trojan://253bc477d4e43c209f2d427272968280@160.16.116.227:5041?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.116.227%20%3A5041
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:2760?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.117.182%20%3A2760
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:2760?type=tcp&headerType=none&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.117.182%20%3A2760%C2%B7trojan
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.117.182:3093?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.117.182%20%3A3093
+trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:4317?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.117.182%20%3A4317
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.17:3076?allowInsecure=1&amp;sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.124.17%20%3A3076
+trojan://4843e94d205f3893f588255a591abe94@160.16.124.17:3901?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.124.17%20%3A3901
 trojan://187dda4498be9ac4f28db939d5940185@160.16.124.17:4380?type=raw&headerType=none&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.124.17%20%3A4380
 trojan://4843e94d205f3893f588255a591abe94@160.16.130.21:544?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.130.21%20%3A544
 trojan://4843e94d205f3893f588255a591abe94@160.16.130.21:1933?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20SAKURA%20Internet%20%7C%20160.16.130.21%20%3A1933
@@ -991,10 +998,3 @@ trojan://Aimer@172.64.155.8:443?sni=epcca.ambercc.filegear-sg.me#%F0%9F%8C%90%20
 trojan://ttfang@172.64.156.106:443?sni=ttfang.fange.me#%F0%9F%8C%90%20Cloudflare%20%7C%20172.64.156.106
 trojan://ttfang@172.64.156.107:443?sni=ttfang.fange.me#%F0%9F%8C%90%20Cloudflare%20%7C%20172.64.156.107
 trojan://ttfang@172.64.156.11:443?sni=ttfang.fange.me#%F0%9F%8C%90%20Cloudflare%20%7C%20172.64.156.11
-trojan://blue2024@172.64.156.166:443/?type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560&security=tls&sni=ta.promote.icu#%F0%9F%8C%90%20Cloudflare%20%7C%20172.64.156.166
-trojan://ttfang@172.64.156.218:443/?type=tcp&security=tls&sni=ttfang.fange.me#%F0%9F%8C%90%20Cloudflare%20%7C%20172.64.156.218%20%3A443
-trojan://ttfang@172.64.156.218:443?sni=ttfang.fange.me#%F0%9F%8C%90%20Cloudflare%20%7C%20172.64.156.218%20%3A443%C2%B7trojan
-trojan://Aimer@172.64.156.249:443?sni=epcca.ambercc.filegear-sg.me#%F0%9F%8C%90%20Cloudflare%20%7C%20172.64.156.249
-trojan://NISHIKUITAN111@172.64.156.42:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20172.64.156.42
-trojan://Aimer@172.64.157.179:443?sni=epcca.ambercc.filegear-sg.me#%F0%9F%8C%90%20Cloudflare%20%7C%20172.64.157.179
-trojan://blue2024@172.64.157.183:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#%F0%9F%8C%90%20Cloudflare%20%7C%20172.64.157.183

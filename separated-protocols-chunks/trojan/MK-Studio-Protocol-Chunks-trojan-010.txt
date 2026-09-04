@@ -1,3 +1,10 @@
+trojan://SoftNetConnect@185.204.169.129:8443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&sid=c7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20Arvancloud%20Global%E2%80%A6%20%7C%20185.204.169.129%20%3A8443
+trojan://SoftNetConnect@185.204.169.129:42549?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20Arvancloud%20Global%E2%80%A6%20%7C%20185.204.169.129%20%3A42549
+trojan://SoftNetConnect@185.204.169.164:443/?type=xhttp&sni=www.yahoo.com&fp=chrome&security=reality&pbk=pzGahS_T6emOUchRxzUgeL-2CEg2cuJs0-AxYtaK-ic&sid=d591#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20Arvancloud%20Global%E2%80%A6%20%7C%20185.204.169.164
+trojan://ysbdg3l5iqbvo26u@185.204.170.130:2097?path=/&security=tls&alpn=h2,http/1.1&host=185.204.170.130&fp=chrome&type=ws&sni=185.204.170.130#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20Arvancloud%20Global%E2%80%A6%20%7C%20185.204.170.130%20%3A2097
+trojan://ysbdg3l5iqbvo26u@185.204.170.130:2097?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;insecure=0&amp;host=185.204.170.130&amp;fp=chrome&amp;ech=AGL%2BDQBeAAAgACBZEpiqm31M3f2zo8BSjByHKqiX8Kh7CZlhEdvtFL%2B9TwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA8xODUuMjA0LjE3MC4xMzAAAA%3D%3D&amp;type=ws&amp;allowInsecure=0&amp;sni=185.204.170.130#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20Arvancloud%20Global%E2%80%A6%20%7C%20185.204.170.130%20%3A2097%C2%B7trojan
+trojan://ysbdg3l5iqbvo26u@185.204.170.130:2097?sni=185.204.170.130&peer=185.204.170.130&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20Arvancloud%20Global%E2%80%A6%20%7C%20185.204.170.130%20%3A2097%C2%B7trojan%C2%B7%235
+trojan://ysbdg3l5iqbvo26u@185.204.170.130:8443?sni=#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20Arvancloud%20Global%E2%80%A6%20%7C%20185.204.170.130%20%3A8443
 trojan://kq0iv0m8k51di8tr@185.204.170.130:38713?security=none&headerType=&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20Arvancloud%20Global%E2%80%A6%20%7C%20185.204.170.130%20%3A38713
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@185.207.196.178:2096?sni=vle.amclubdns.dpdns.org#%F0%9F%87%B2%F0%9F%87%AD%20Marshall%20Islands%20%C2%B7%20Nalmi%20Limited%20%7C%20185.207.196.178
 trojan://slch2024@185.207.196.195:2096?allowInsecure=1&sni=ocost-dy.wmlefl.cc&ws=1&wspath=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3#%F0%9F%87%B2%F0%9F%87%AD%20Marshall%20Islands%20%C2%B7%20Nalmi%20Limited%20%7C%20185.207.196.195
@@ -991,10 +998,3 @@ trojan://NISHIKUITAN111@198.41.208.50:443/?type=tcp&security=tls#%F0%9F%8C%90%20
 trojan://NISHIKUITAN111@198.41.209.108:443/?type=tcp&security=tls#%F0%9F%8C%90%20Cloudflare%20%7C%20198.41.209.108
 trojan://Aimer@198.41.209.112:443?sni=epcca.ambercc.filegear-sg.me#%F0%9F%8C%90%20Cloudflare%20%7C%20198.41.209.112
 trojan://fe7a63ba-fe21-4f22-87b4-ce4021f18b66@198.41.209.130:2087?security=tls&sni=nova-river-vault-be97.nova-a0cc78.workers.dev&fp=chrome&type=ws&host=nova-river-vault-be97.nova-a0cc78.workers.dev&path=%2F%3Fu%3DSubUser#%F0%9F%8C%90%20Cloudflare%20%7C%20198.41.209.130
-trojan://NISHIKUITAN222@198.41.209.227:443?allowInsecure=1&ws=1&wspath=%252F#%F0%9F%8C%90%20Cloudflare%20%7C%20198.41.209.227
-trojan://Aimer@198.41.209.66:443?sni=epccf.ambercc.filegear-sg.me#%F0%9F%8C%90%20Cloudflare%20%7C%20198.41.209.66%20%3A443
-trojan://bpb-trojan@198.41.211.21:443/?type=tcp&security=tls&sni=bpb.my79801.com#%F0%9F%8C%90%20Cloudflare%20%7C%20198.41.211.21
-trojan://Aimer@198.41.212.113:443?sni=epcca.ambercc.filegear-sg.me#%F0%9F%8C%90%20Unknown%20%7C%20198.41.212.113
-trojan://Aimer@198.41.212.150:443?sni=epccx.ambercc.filegear-sg.me#%F0%9F%8C%90%20Unknown%20%7C%20198.41.212.150%20%3A443
-trojan://Aimer@198.41.212.157:443?sni=epccu.ambercc.filegear-sg.me#%F0%9F%8C%90%20Unknown%20%7C%20198.41.212.157
-trojan://NISHIKUITAN111@198.41.212.233:443#%F0%9F%8C%90%20Unknown%20%7C%20198.41.212.233

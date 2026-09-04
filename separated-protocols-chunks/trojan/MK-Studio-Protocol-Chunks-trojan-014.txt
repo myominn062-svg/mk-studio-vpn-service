@@ -1,3 +1,10 @@
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20060?sni=SG.catxstar.com#%F0%9F%87%AD%F0%9F%87%B0%20Kwai%20Chung%2C%20HK%20%C2%B7%20Catixs%20%7C%2045.67.201.210%20%3A20060
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20060/?type=tcp&security=tls&sni=SG.catxstar.com&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Kwai%20Chung%2C%20HK%20%C2%B7%20Catixs%20%7C%2045.67.201.210%20%3A20060%C2%B7trojan
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20061?sni=hk.catxstar.com#%F0%9F%87%AD%F0%9F%87%B0%20Kwai%20Chung%2C%20HK%20%C2%B7%20Catixs%20%7C%2045.67.201.210%20%3A20061
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20061/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Kwai%20Chung%2C%20HK%20%C2%B7%20Catixs%20%7C%2045.67.201.210%20%3A20061%C2%B7trojan
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20063?sni=hk.catxstar.com#%F0%9F%87%AD%F0%9F%87%B0%20Kwai%20Chung%2C%20HK%20%C2%B7%20Catixs%20%7C%2045.67.201.210%20%3A20063
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20063/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Kwai%20Chung%2C%20HK%20%C2%B7%20Catixs%20%7C%2045.67.201.210%20%3A20063%C2%B7trojan
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20064?sni=hk.catxstar.com#%F0%9F%87%AD%F0%9F%87%B0%20Kwai%20Chung%2C%20HK%20%C2%B7%20Catixs%20%7C%2045.67.201.210%20%3A20064
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20064/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Kwai%20Chung%2C%20HK%20%C2%B7%20Catixs%20%7C%2045.67.201.210%20%3A20064%C2%B7trojan
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20065?sni=hk.catxstar.com#%F0%9F%87%AD%F0%9F%87%B0%20Kwai%20Chung%2C%20HK%20%C2%B7%20Catixs%20%7C%2045.67.201.210%20%3A20065
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20065/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Kwai%20Chung%2C%20HK%20%C2%B7%20Catixs%20%7C%2045.67.201.210%20%3A20065%C2%B7trojan
@@ -991,10 +998,3 @@ trojan://telegram-id-directvpn@52.56.94.129:22222?sni=trojan.burgerip.co.uk&peer
 trojan://telegram-id-privatevpns@52.56.98.27:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20City%20Of%20London%2C%20GB%20%C2%B7%20Amazon.com%20%7C%2052.56.98.27
 trojan://telegram-id-privatevpns@52.57.111.31:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2052.57.111.31
 trojan://telegram-id-privatevpns@52.57.189.163:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2052.57.189.163
-trojan://telegram-id-privatevpns@52.57.227.186:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2052.57.227.186
-trojan://telegram-id-directvpn@52.57.247.48:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2052.57.247.48
-trojan://telegram-id-directvpn@52.57.57.22:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2052.57.57.22
-trojan://telegram-id-privatevpns@52.57.61.13:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2052.57.61.13%20%3A22222
-trojan://telegram-id-directvpn@52.57.61.13:22223?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2052.57.61.13%20%3A22223
-trojan://telegram-id-privatevpns@52.57.70.34:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2052.57.70.34%20%3A22222
-trojan://telegram-id-directvpn@52.57.70.34:22223?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2052.57.70.34%20%3A22223
