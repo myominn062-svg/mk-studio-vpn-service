@@ -1,8 +1,10 @@
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@v2ray_ng
-vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#%3E%3E%40v2ray1_ng%3A%3AUS
-vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2ray1_ng%3A%3ASG
+vless://5adeccb9-dfca-41de-cdf7-4d901f2e70f5@157.238.208.110:41834?path=%2F5adeccb9&security=none&encryption=none&type=ws#%3E%3E%40v2ray1_ng%3A%3AUS
+vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2ray1_ng%3A%3AXX
+vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.181:2087?path=%2F8f2690e2d016&security=none&encryption=none&type=ws#%3E%3E%40v2ray1_ng%3A%3AXX
+vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.224:2087?path=%2F8f2690e2d016&security=none&encryption=none&type=ws#%3E%3E%40v2ray1_ng%3A%3AXX
+vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@80.76.43.245:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&host=www.google.com&fp=qq&type=xhttp&sni=www.google.com#%3E%3E%40v2ray1_ng%3A%3ADE
 vless://de5906f3-df38-4463-aa9d-2b01320cc6ea@31.76.76.28:443?path=%2F&security=none&encryption=none&type=ws#%3E%3E%40v2ray1_ng%3A%3ANL
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&sni=hhlfy.twiladaphne.ndjp.net#%3E%3E%40v2ray1_ng%3A%3AUS
 vless://ce5234e2-97b2-4c4b-bafb-6c467123bef3@102.207.41.160:26974?security=reality&sni=yahoo.com&type=tcp&fp=chrome&pbk=q31Vmd3USW3F3WNX0n3OxYRchh8Rbs9uYbr5HUKY_Bo&sid=fc#%F0%9F%87%B3%F0%9F%87%AC%20Nigeria%20%C2%B7%20Suburban%20Broadband%20%7C%20102.207.41.160
 vless://497631c4-a1a4-006c-a86a-f42873473bb6@167.88.51.241:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.quattro-tech.ru&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%AC%20Lagos%2C%20NG%20%C2%B7%20SiteHUB%20Agency%20%7C%20167.88.51.241
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.255.123.166:990#%F0%9F%87%B3%F0%9F%87%AC%20Lagos%2C%20NG%20%C2%B7%20BrainStorm%20Network%20%7C%20185.255.123.166
@@ -10,7 +12,7 @@ vless://a54cfb1f-6bd8-7f0f-d6b8-2ee70180952a@185.255.123.232:443?security=realit
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.255.123.90:989#%F0%9F%87%B3%F0%9F%87%AC%20Lagos%2C%20NG%20%C2%B7%20BrainStorm%20Network%20%7C%20185.255.123.90
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?security=tls&allowInsecure=0&encryption=none&type=ws&host=hzr27.sepiol.name.NG&path=/&sni=hzr27.sepiol.name.NG&fp=firefox#%F0%9F%8C%90%20Cloudflare%20%7C%20ip-range.coin.name.ng%20%3A8443
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?security=tls&amp;allowInsecure=0&amp;encryption=none&amp;type=ws&amp;host=hzr27.sepiol.name.NG&amp;path=/&amp;sni=hzr27.sepiol.name.NG&amp;fp=firefox#%F0%9F%8C%90%20Cloudflare%20%7C%20ip-range.coin.name.ng%20%3A8443%C2%B7vless
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.255.123.90:989#%F0%9F%87%B3%F0%9F%87%ACNG-185.255.123.90-7539
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.255.123.90:989#%F0%9F%87%B3%F0%9F%87%ACNG-185.255.123.90-7536
 vless://0b54c886-b1a0-4e70-8d2c-171a6e8601bb@api.number3.ir:443?mode=gun&security=reality&encryption=mlkem768x25519plus.native.0rtt.c0a7lvop3Vsd7T506CGm1nUIfynljpW79b4__r24EQo&pbk=G01pi8NtMqqXZHOvGsbv280yeN2BMWwdN4j7dUQOnS4&fp=chrome&spx=%2F54fb18129b89693&type=grpc&sni=g.co&sid=24#🆔v2ray1_ng%20🔒%20VL-GRPC-%20❔%20XX%20down
 vless://c68e203b-2ba9-4586-bc43-029b20a5111c@panel.an0nymousteam.qd.je:443?security=reality&encryption=none&pbk=LvIQyEzdMEvkPimuLuzP3VctDadFFgvieDEMRy2da0c&headerType=none&fp=chrome&spx=%2F831521f3ddd13fe&type=tcp&flow=xtls-rprx-vision&sni=yt.be&sid=fc#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20down
 vless://255386a8-aec5-4425-bfe7-ca49b7448deb@193.160.32.36:2053?security=reality&encryption=none&pbk=Sh2F8IDDBaFvXPI59IwN-25UR1G0fjXNmuVqwNbTpUk&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=c87bfa39a28a95b9#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20down
