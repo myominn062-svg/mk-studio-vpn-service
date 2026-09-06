@@ -1,5 +1,3 @@
-trojan://8800c518-e68a-4441-a45c-cd67855784c8@hk1.sanfen001.pics:443/?type=tcp&security=tls&sni=hk1.sanfen001.pics#%F0%9F%8C%90%20Cloudflare%20%7C%20hk1.sanfen001.pics%20%3A443
-trojan://8800c518-e68a-4441-a45c-cd67855784c8@hk1.sanfen001.pics:443?sni=hk1.sanfen001.pics#%F0%9F%8C%90%20Cloudflare%20%7C%20hk1.sanfen001.pics%20%3A443%C2%B7trojan
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@hk2.sanfen001.pics:443/?type=tcp&security=tls#%F0%9F%8C%90%20Cloudflare%20%7C%20hk2.sanfen001.pics%20%3A443
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@hk2.sanfen001.pics:443?sni=#%F0%9F%8C%90%20Cloudflare%20%7C%20hk2.sanfen001.pics%20%3A443%C2%B7trojan
 trojan://adb13850-7e70-492e-85b2-01184801d587@hk27.oportal.cc:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20HK%20%C2%B7%20NetLab%20Global%20%7C%20hk27.oportal.cc
@@ -998,3 +996,5 @@ trojan://PD07395842@pleasing-monkfish.rooster465.autos:443?sni=pleasing-monkfish
 trojan://IQ68037294@pleasing-monkfish.rooster465.autos:443?sni=pleasing-monkfish.rooster465.autos&fp=chrome&type=tcp&path=%2f#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20G-Core%20Labs%20%7C%20pleasing-monkfish.rooster465.autos%20%3A443%C2%B7trojan
 trojan://WG39087154@pleasing-monkfish.rooster465.autos:443?sni=pleasing-monkfish.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20G-Core%20Labs%20%7C%20pleasing-monkfish.rooster465.autos%20%3A443%C2%B7trojan%C2%B7%233
 trojan://JA96378052@pleasing-monkfish.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=pleasing-monkfish.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20G-Core%20Labs%20%7C%20pleasing-monkfish.rooster465.autos%20%3A443%C2%B7trojan%C2%B7%234
+trojan://ON38567014@polished-cicada.rooster465.autos:443?allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%20polished-cicada.rooster465.autos%20%3A443
+trojan://WG39087154@polished-cicada.rooster465.autos:443?sni=polished-cicada.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%20polished-cicada.rooster465.autos%20%3A443%C2%B7trojan

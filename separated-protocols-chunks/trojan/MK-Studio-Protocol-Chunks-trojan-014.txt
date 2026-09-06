@@ -1,5 +1,3 @@
-trojan://vbmwVEzFLS@45.63.106.86:17831?type=tcp&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20Miami%2C%20US%20%C2%B7%20The%20Constant%20Company%20%7C%2045.63.106.86%20%3A17831
-trojan://KYAawE5EGp@45.63.106.86:39277?type=tcp&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20Miami%2C%20US%20%C2%B7%20The%20Constant%20Company%20%7C%2045.63.106.86%20%3A39277
 trojan://TmxGNUA1jL@45.63.106.86:42903?type=tcp&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20Miami%2C%20US%20%C2%B7%20The%20Constant%20Company%20%7C%2045.63.106.86%20%3A42903
 trojan://wkmY1R4EcP@45.63.110.20:443?security=tls&sni=z-v2-003281.kailib.com#%F0%9F%87%BA%F0%9F%87%B8%20Miami%2C%20US%20%C2%B7%20The%20Constant%20Company%20%7C%2045.63.110.20
 trojan://nE2MvzFYVLxXWh%23-QJ+_T@45.63.114.118:23403?sni=ads.x5.ru#%F0%9F%87%AB%F0%9F%87%B7%20Aubervilliers%2C%20FR%20%C2%B7%20The%20Constant%20Company%20%7C%2045.63.114.118
@@ -998,3 +996,5 @@ trojan://telegram-id-privatevpns@52.47.122.22:22222?allowInsecure=0&sni=trojan.b
 trojan://telegram-id-directvpn@52.47.122.22:22223?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2052.47.122.22%20%3A22223
 trojan://telegram-id-directvpn@52.47.123.108:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2052.47.123.108
 trojan://telegram-id-vlessconfig@52.47.131.158:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2052.47.131.158
+trojan://telegram-id-privatevpns@52.47.136.181:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2052.47.136.181%20%3A22222
+trojan://telegram-id-directvpn@52.47.136.181:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2052.47.136.181%20%3A22223
