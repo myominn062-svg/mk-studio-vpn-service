@@ -1,0 +1,4 @@
+{
+  "name": "MK Studio VPN Service",
+  "install": "python3 --version && curl --version"
+}
