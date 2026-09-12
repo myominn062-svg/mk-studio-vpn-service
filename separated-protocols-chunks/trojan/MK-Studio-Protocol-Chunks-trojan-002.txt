@@ -1,7 +1,3 @@
-trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@103.224.212.211:443?security=none&type=tcp&sni=60.72img.xyz#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%C2%B7%20Trellian%20Pty.%20Limited%20%7C%20103.224.212.211%20%3A443
-trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@103.224.212.211:443?security=none&type=tcp&sni=jp-h1.sshub.xyz&fp=chrome#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%C2%B7%20Trellian%20Pty.%20Limited%20%7C%20103.224.212.211%20%3A443%C2%B7trojan
-trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@103.224.212.211:443?security=tls&sni=60.72img.xyz&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%C2%B7%20Trellian%20Pty.%20Limited%20%7C%20103.224.212.211%20%3A443%C2%B7trojan%C2%B7%233
-trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@103.224.212.211:443?security=tls&sni=jp-h1.sshub.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%C2%B7%20Trellian%20Pty.%20Limited%20%7C%20103.224.212.211%20%3A443%C2%B7trojan%C2%B7%234
 trojan://99b166ff-25ab-4bda-9493-618d491c2a9a@103.224.212.213:443/?type=tcp&security=tls&sni=us232.support-putin-kill-all-ukrainians.98848.xyz#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%C2%B7%20Trellian%20Pty.%20Limited%20%7C%20103.224.212.213
 trojan://b379fd8e-75c6-4bd6-8a5b-88f3e64bb3fa@103.224.212.217:443?allowInsecure=1&sni=dl.kgvn.garenanow.com#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%C2%B7%20Trellian%20Pty.%20Limited%20%7C%20103.224.212.217
 trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20%C2%B7%20PT%20Cloud%20Hosting%E2%80%A6%20%7C%20103.226.139.201%20%3A443
@@ -998,3 +994,7 @@ trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:8443?allowInsecure=1
 trojan://vip@104.18.12.229:2053?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.12.229%20%3A2053
 trojan://vip@104.18.12.229:2053?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.12.229%20%3A2053%C2%B7trojan
 trojan://DailyConfigs@104.18.12.229:2087?allowInsecure=0&sni=kanale-daily-configs.blackoutconnection.ir&ws=1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.12.229%20%3A2087
+trojan://trojan@104.18.12.229:8443?security=tls&allowInsecure=1&sni=longwanghen.pages.dev&type=ws&host=&path=%2F&fp=&alpn=#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.12.229%20%3A8443
+trojan://trojan@104.18.12.229:8443?sni=store.timimi.dpdns.org#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.12.229%20%3A8443%C2%B7trojan
+trojan://trojan@104.18.12.229:8443?sni=pangpi.pages.dev#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.12.229%20%3A8443%C2%B7trojan%C2%B7%2314
+trojan://trojan@104.18.12.229:8880?security=none&type=ws&host=azadnet.vileyo6708.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.12.229%20%3A8880

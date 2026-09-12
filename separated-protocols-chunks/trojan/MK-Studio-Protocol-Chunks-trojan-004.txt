@@ -1,7 +1,3 @@
-trojan://jagoanssh-Aweqdcc@104.21.32.17:443?sni=to.ruangguru.com#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.32.17%20%3A443%C2%B7trojan
-trojan://4b33b482-25bc-49e4-b866-878c914d945a@104.21.32.242:443?sni=xXxXxxx.890604.dPDNs.org&peer=xXxXxxx.890604.dPDNs.org&security=tls#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.32.242%20%3A443
-trojan://4b33b482-25bc-49e4-b866-878c914d945a@104.21.32.242:443?security=tls&sni=xXxXxxx.890604.dPDNs.org&type=ws&host=xxxxxxx.890604.dpdns.org&path=%2FkzefUfBUzMsQY6zyyQCjn8kmnN0ehd&fp=chrome&alpn=http%2F1.1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.32.242%20%3A443%C2%B7trojan
-trojan://15153c1d-fc81-4b2a-9689-7b4e4a72dce5@104.21.32.242:443?security=tls&sni=b9uujhyt.890604.dpdns.org&type=ws&host=b9uujhyt.890604.dpdns.org&path=%2Fl6lvY4hFZriQDBimbKYmPIggy&fp=chrome&alpn=http%2F1.1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.32.242%20%3A443%C2%B7trojan%C2%B7%233
 trojan://humanity@104.21.33.59:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp":#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.33.59%20%3A443
 trojan://humanity@104.21.33.59:443?security=none&type=ws&sni=www.pleadcourt.org#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.33.59%20%3A443%C2%B7trojan
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.33.59:443?security=none&type=ws&sni=id1.nathaya.web.id#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.33.59%20%3A443%C2%B7trojan%C2%B7%233
@@ -998,3 +994,7 @@ trojan://Aimer@108.165.152.225:2083/?type=tcp&security=tls&sni=epcco.ambercc.fil
 trojan://Aimer@108.165.152.225:2083?sni=epcco.ambercc.filegear-sg.me&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20London%20%7C%20108.165.152.225%20%3A2083%C2%B7trojan
 trojan://Aimer@108.165.152.225:2083?security=tls&sni=epmo.ambercc.filegear-sg.me&type=ws&host=epmo.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20London%20%7C%20108.165.152.225%20%3A2083%C2%B7trojan%C2%B7%233
 trojan://Aimer@108.165.152.239:8443/?type=tcp&security=tls&sni=epccd.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20London%20%7C%20108.165.152.239%20%3A8443
+trojan://Aimer@108.165.152.239:8443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20London%20%7C%20108.165.152.239%20%3A8443%C2%B7trojan
+trojan://Aimer@108.165.152.239:8443?sni=epccf.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20London%20%7C%20108.165.152.239%20%3A8443%C2%B7trojan%C2%B7%233
+trojan://Aimer@108.165.152.241:2053/?type=tcp&security=tls&sni=acepo.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20London%20%7C%20108.165.152.241%20%3A2053
+trojan://Aimer@108.165.152.241:2053?sni=epccy.ambercc.filegear-sg.me&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20London%20%7C%20108.165.152.241%20%3A2053%C2%B7trojan

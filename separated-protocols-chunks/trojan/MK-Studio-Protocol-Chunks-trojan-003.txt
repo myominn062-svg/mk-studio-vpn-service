@@ -1,7 +1,3 @@
-trojan://trojan@104.18.12.229:8443?security=tls&allowInsecure=1&sni=longwanghen.pages.dev&type=ws&host=&path=%2F&fp=&alpn=#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.12.229%20%3A8443
-trojan://trojan@104.18.12.229:8443?sni=store.timimi.dpdns.org#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.12.229%20%3A8443%C2%B7trojan
-trojan://trojan@104.18.12.229:8443?sni=pangpi.pages.dev#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.12.229%20%3A8443%C2%B7trojan%C2%B7%2314
-trojan://trojan@104.18.12.229:8880?security=none&type=ws&host=azadnet.vileyo6708.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.12.229%20%3A8880
 trojan://NISHIKUITAN111@104.18.120.151:443/?type=tcp&security=tls#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.120.151
 trojan://blue2024@104.18.121.158:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.121.158%20%3A443
 trojan://Aimer@104.18.123.117:2053?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#%F0%9F%8C%90%20Cloudflare%20%7C%20104.18.123.117%20%3A2053
@@ -998,3 +994,7 @@ trojan://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.32.1:2096?security=tls&sni=
 trojan://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.32.1:8443?security=tls&sni=tABNaK.TwN24.ir&type=ws&host=tabnak.twn24.ir&path=%2FvNF7RJtVepEuGq7R6Cczl&fp=chrome&alpn=http%2F1.1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.32.1%20%3A8443
 trojan://s42%26umY%28K5n*csP4@104.21.32.1:8443?security=tls&sni=JOInMAHDiseRVer-EEu.pAGEs.dEv&type=ws&host=joinmahdiserver-eeu.pages.dev&path=%2FtrOagy9SuM2cDpqUqO%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.32.1%20%3A8443%C2%B7trojan
 trojan://jagoanssh-Aweqdcc@104.21.32.17:443/?type=tcp&security=tls&sni=to.ruangguru.com&allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.32.17%20%3A443
+trojan://jagoanssh-Aweqdcc@104.21.32.17:443?sni=to.ruangguru.com#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.32.17%20%3A443%C2%B7trojan
+trojan://4b33b482-25bc-49e4-b866-878c914d945a@104.21.32.242:443?sni=xXxXxxx.890604.dPDNs.org&peer=xXxXxxx.890604.dPDNs.org&security=tls#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.32.242%20%3A443
+trojan://4b33b482-25bc-49e4-b866-878c914d945a@104.21.32.242:443?security=tls&sni=xXxXxxx.890604.dPDNs.org&type=ws&host=xxxxxxx.890604.dpdns.org&path=%2FkzefUfBUzMsQY6zyyQCjn8kmnN0ehd&fp=chrome&alpn=http%2F1.1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.32.242%20%3A443%C2%B7trojan
+trojan://15153c1d-fc81-4b2a-9689-7b4e4a72dce5@104.21.32.242:443?security=tls&sni=b9uujhyt.890604.dpdns.org&type=ws&host=b9uujhyt.890604.dpdns.org&path=%2Fl6lvY4hFZriQDBimbKYmPIggy&fp=chrome&alpn=http%2F1.1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.32.242%20%3A443%C2%B7trojan%C2%B7%233
