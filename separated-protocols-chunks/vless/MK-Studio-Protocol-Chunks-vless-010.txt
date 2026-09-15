@@ -1,3 +1,5 @@
+vless://a42eec3c-9491-0280-04b3-0c9730410bfb@140.235.168.4:8443?mode=gun&security=reality&encryption=none&pbk=tICt4RT_Rw9KAU8hIf05_fzAMZnfUUyMfE-Ept6zcBY&fp=chrome&type=grpc&serviceName=TunService&sni=www.lenovo.com#EPODONIOS
+vless://a47c49ec-6eaa-44ce-9108-8427426a1123@162.159.253.41:8443?path=/admin.php&security=tls&encryption=none&insecure=0&host=ratatouille.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=ratatouille.adaspoloandco.com#EPODONIOS
 vless://a4946bd3-1fd0-1562-071f-b3c36a4fd2d2@69.46.46.103:443?path=/ws/a4946bd3-1fd0-1562-071f-b3c36a4fd2d2&security=tls&alpn=http/1.1&encryption=none&host=ivory-prairie-35d4-production.up.railway.app&fp=chrome&type=ws&sni=ivory-prairie-35d4-production.up.railway.app#EPODONIOS
 vless://a4c3b304-0fc0-350f-64b6-2a61e7376307@69.46.46.103:443?path=/ws/a4c3b304-0fc0-350f-64b6-2a61e7376307&security=tls&alpn=http/1.1&encryption=none&host=hidden-canyon-caed-production.up.railway.app&fp=chrome&type=ws&sni=hidden-canyon-caed-production.up.railway.app#EPODONIOS
 vless://a4c3b304-0fc0-350f-64b6-2a61e7376307@69.46.46.103:443?path=/ws/a4c3b304-0fc0-350f-64b6-2a61e7376307&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=hidden-canyon-caed-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=hidden-canyon-caed-production.up.railway.app#EPODONIOS
@@ -996,5 +998,3 @@ vless://e4371581-c418-4770-b09a-d630f18290a6@194.59.245.250:40443?security=reali
 vless://e4371581-c418-4770-b09a-d630f18290a6@cassiopeia.yokkastars.com:40443?encryption=none&fp=&pbk=WFvn-RRJzpt2qV4xwj_R93gDr6dduIjkQKO3De3Y2Hc&security=reality&sid=5d96&sni=deepl.com&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.135.90:22222?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.135.90:22224?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.183.49:22222?encryption=none&security=none&type=tcp#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.91.196:22222?encryption=none&security=none&type=tcp#EPODONIOS
