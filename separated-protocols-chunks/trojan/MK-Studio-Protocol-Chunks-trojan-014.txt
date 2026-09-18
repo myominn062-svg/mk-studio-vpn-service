@@ -1,5 +1,3 @@
-trojan://Aimer@38.207.172.42:443?security=none&type=tcp&sni=agepj.ambercc.filegear-sg.me#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%C2%B7%20VMISS%20%7C%2038.207.172.42%20%3A443
-trojan://Aimer@38.207.172.42:443?sni=agepj.ambercc.filegear-sg.me&peer=agepj.ambercc.filegear-sg.me&security=tls#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%C2%B7%20VMISS%20%7C%2038.207.172.42%20%3A443%C2%B7trojan
 trojan://Aimer@38.207.190.141:587/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20NetLab%20Global%20%7C%2038.207.190.141
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@38.244.25.17:443/?type=ws&host=hhcm.hhxaf.cc.cd&path=%2F&security=tls&sni=hhcm.hhxaf.cc.cd&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20Los%20Angeles%2C%20US%20%C2%B7%20Cogent%20Communications%20%7C%2038.244.25.17%20%3A443
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@38.47.105.76:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%C2%B7%20VMISS%20%7C%2038.47.105.76%20%3A443
@@ -998,3 +996,5 @@ trojan://CF68213490@47.131.233.29:443?security=tls&sni=internal-krill.rooster465
 trojan://PQ05174892@47.131.249.13:443?sni=exotic-turtle.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Amazon.com%20%7C%2047.131.249.13
 trojan://moist@47.236.158.158:2096?security=tls&sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs&path=%2F%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%C2%B7%20Alibaba%20%28US%29%20Technology%E2%80%A6%20%7C%2047.236.158.158
 trojan://moist@47.238.0.114:2096?security=tls&amp;sni=trojan.freenods.sbs&amp;type=ws&amp;host=trojan.freenods.sbs&amp;path=%2F%3Fed%3D2560#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20HK%20%C2%B7%20Alibaba%20%28US%29%20Technology%E2%80%A6%20%7C%2047.238.0.114%20%3A2096
+trojan://moist@47.238.0.114:2096?security=tls&sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs&path=%2F%3Fed%3D2560#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20HK%20%C2%B7%20Alibaba%20%28US%29%20Technology%E2%80%A6%20%7C%2047.238.0.114%20%3A2096%C2%B7trojan
+trojan://Aimer@47.238.136.218:35961?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20HK%20%C2%B7%20Alibaba%20%28US%29%20Technology%E2%80%A6%20%7C%2047.238.136.218

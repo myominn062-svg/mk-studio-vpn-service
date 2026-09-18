@@ -158,7 +158,6 @@ hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=s
 hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52087?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#EPODONIOS
 hysteria2://8z2e26xkqsa598s3@gift-catalog.aroonia.ir:52000?security=tls&obfs=salamander&obfs-password=6cmj1dymhm79hopl&insecure=0&sni=gift-catalog.aroonia.ir#EPODONIOS
 hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96#EPODONIOS
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz&insecure=0#EPODONIOS
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#EPODONIOS
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#EPODONIOS
 hysteria2://Telegram-vpnjey@31.76.27.23:37009?sni=de.vpnjey.store&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#EPODONIOS
@@ -174,7 +173,6 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=sa
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#EPODONIOS
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#EPODONIOS
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#EPODONIOS
-hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=ru1.sferavpn.pro&insecure=0#EPODONIOS
 hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#EPODONIOS
 hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#EPODONIOS
 hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.249.79:443/?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=nl1.sferavpn.pro#EPODONIOS
@@ -998,3 +996,5 @@ hy2://f9d84f27-27de-44da-9d65-9015ba5e9219@176.32.33.124:2453?obfs=salamander&ob
 hy2://b75c73ec-f431-49d1-a407-8e062be10443@176.32.33.124:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Kazan%27%2C%20RU%20%C2%B7%20LLC%20Baxet%20%7C%20176.32.33.124%20%3A2453%C2%B7hysteria2%C2%B7%2364
 hy2://a0884dd2-df1a-4b26-8932-546bbe31a4d6@176.32.33.124:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Kazan%27%2C%20RU%20%C2%B7%20LLC%20Baxet%20%7C%20176.32.33.124%20%3A2453%C2%B7hysteria2%C2%B7%2365
 hy2://a66000ea-8ce8-437c-8bbe-ab15477886a2@176.32.33.124:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Kazan%27%2C%20RU%20%C2%B7%20LLC%20Baxet%20%7C%20176.32.33.124%20%3A2453%C2%B7hysteria2%C2%B7%2366
+hy2://a07613fd-c365-4125-b65b-7febd3b38b21@176.32.33.124:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Kazan%27%2C%20RU%20%C2%B7%20LLC%20Baxet%20%7C%20176.32.33.124%20%3A2453%C2%B7hysteria2%C2%B7%2367
+hy2://848f2039-d466-479c-b839-2652d414c01a@176.32.33.124:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Kazan%27%2C%20RU%20%C2%B7%20LLC%20Baxet%20%7C%20176.32.33.124%20%3A2453%C2%B7hysteria2%C2%B7%2368
