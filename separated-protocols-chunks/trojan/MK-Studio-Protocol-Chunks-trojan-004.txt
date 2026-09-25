@@ -1,3 +1,9 @@
+trojan://o1p2q3r4-5678-9bcd-0abc-1234abcdef56@104.21.25.160:443?sni=trojan.workers.dev#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.25.160%20%3A443
+trojan://o1p2q3r4-5678-9bcd-0abc-1234abcdef56@104.21.25.160:443/?type=tcp&security=tls&sni=trojan.workers.dev#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.25.160%20%3A443%C2%B7trojan
+trojan://p3q4r5s6-7890-1bcd-2abc-3456abcdef78@104.21.25.180:443/?type=tcp&security=tls&sni=trojan.workers.dev#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.25.180%20%3A443
+trojan://p3q4r5s6-7890-1bcd-2abc-3456abcdef78@104.21.25.180:443?sni=trojan.workers.dev#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.25.180%20%3A443%C2%B7trojan
+trojan://q5r6s7t8-9012-3bcd-4abc-5678abcdef90@104.21.25.190:443?sni=trojan.workers.dev#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.25.190%20%3A443
+trojan://q5r6s7t8-9012-3bcd-4abc-5678abcdef90@104.21.25.190:443/?type=tcp&security=tls&sni=trojan.workers.dev#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.25.190%20%3A443%C2%B7trojan
 trojan://6dCf6Syv1FwpjcAoCB2vfQ@104.21.25.193:2083?allowInsecure=0&sni=cdn15.cdn2cdn.com&ws=1#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.25.193
 trojan://r7s8t9u0-3456-7bcd-8abc-9012abcdef34@104.21.25.200:443/?type=tcp&security=tls&sni=trojan.workers.dev#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.25.200%20%3A443
 trojan://r7s8t9u0-3456-7bcd-8abc-9012abcdef34@104.21.25.200:443?sni=trojan.workers.dev#%F0%9F%8C%90%20Cloudflare%20%7C%20104.21.25.200%20%3A443%C2%B7trojan
@@ -992,9 +998,3 @@ trojan://blue2024@108.162.195.187:443?sni=ta.promote.icu&allowInsecure=0#%F0%9F%
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.187:443?sni=kc1.vs2024.dpdns.org#%F0%9F%8C%90%20Cloudflare%20%7C%20108.162.195.187%20%3A443%C2%B7trojan
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.188:443?sni=dt.vs2024.dpdns.org#%F0%9F%8C%90%20Cloudflare%20%7C%20108.162.195.188%20%3A443
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.192:443?sni=tt1.vs2024.dpdns.org&allowInsecure=0#%F0%9F%8C%90%20Cloudflare%20%7C%20108.162.195.192%20%3A443
-trojan://blue2024@108.162.195.194:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%8C%90%20Cloudflare%20%7C%20108.162.195.194%20%3A443
-trojan://Aimer@108.162.195.199:443?sni=ngepo.ambercc.filegear-sg.me#%F0%9F%8C%90%20Cloudflare%20%7C%20108.162.195.199%20%3A443
-trojan://Aimer@108.162.195.199:443?sni=epccn.ambercc.filegear-sg.me&allowInsecure=0#%F0%9F%8C%90%20Cloudflare%20%7C%20108.162.195.199%20%3A443%C2%B7trojan
-trojan://blue2024@108.162.195.199:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%8C%90%20Cloudflare%20%7C%20108.162.195.199%20%3A443%C2%B7trojan%C2%B7%233
-trojan://blue2024@108.162.195.202:443?sni=hb.lii2010.us.kg&amp;allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20108.162.195.202%20%3A443%C2%B7trojan
-trojan://blue2024@108.162.195.202:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg#%F0%9F%8C%90%20Cloudflare%20%7C%20108.162.195.202%20%3A443%C2%B7trojan%C2%B7%233
