@@ -1,11 +1,11 @@
 # tuic
 
 Chunk size: **1000** configs per file.
-Total chunks: **1** · Total configs: **234**
+Total chunks: **1** · Total configs: **228**
 
 Use these when a single large list is too heavy for your client.
 
 | File | Count |
 |------|------:|
-| `MK-Studio-Protocol-Chunks-tuic-001.txt` | 234 |
+| `MK-Studio-Protocol-Chunks-tuic-001.txt` | 228 |
 
