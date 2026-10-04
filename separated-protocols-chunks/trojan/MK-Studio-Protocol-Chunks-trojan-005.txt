@@ -1,3 +1,6 @@
+trojan://Aimer@108.165.152.219:443?security=tls&sni=agepj.ambercc.filegear-sg.me&type=tcp&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20London%20%7C%20108.165.152.219%20%3A443
+trojan://Aimer@108.165.152.219:443?sni=agepj.ambercc.filegear-sg.me&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20London%20%7C%20108.165.152.219%20%3A443%C2%B7trojan
+trojan://Aimer@108.165.152.219:443?sni=epccj.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20London%20%7C%20108.165.152.219%20%3A443%C2%B7trojan%C2%B7%233
 trojan://Aimer@108.165.152.225:2083?security=tls&sni=epmo.ambercc.filegear-sg.me&type=ws&host=epmo.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20London%20%7C%20108.165.152.225%20%3A2083
 trojan://Aimer@108.165.152.225:2083?sni=epcco.ambercc.filegear-sg.me&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20London%20%7C%20108.165.152.225%20%3A2083%C2%B7trojan
 trojan://Aimer@108.165.152.225:2083/?type=tcp&security=tls&sni=epcco.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Cloudflare%20London%20%7C%20108.165.152.225%20%3A2083%C2%B7trojan%C2%B7%233
@@ -995,6 +998,3 @@ trojan://NISHIKUITAN111@141.101.122.171:443?#%F0%9F%8C%90%20Cloudflare%20%7C%201
 trojan://NISHIKUITAN111@141.101.122.171:443/?type=tcp&security=tls#%F0%9F%8C%90%20Cloudflare%20%7C%20141.101.122.171%20%3A443%C2%B7trojan
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@141.101.122.178:2096?sni=vle.amclubdns.dpdns.org#%F0%9F%8C%90%20Cloudflare%20%7C%20141.101.122.178
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@141.101.123.178:2096?sni=vle.amclubdns.dpdns.org#%F0%9F%8C%90%20Cloudflare%20%7C%20141.101.123.178
-trojan://NISHIKUITAN111@141.101.123.249:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%8C%90%20Cloudflare%20%7C%20141.101.123.249
-trojan://NISHIKUITAN111@141.101.123.61:443?#%F0%9F%8C%90%20Cloudflare%20%7C%20141.101.123.61%20%3A443
-trojan://NISHIKUITAN111@141.101.123.61:443/?type=tcp&security=tls#%F0%9F%8C%90%20Cloudflare%20%7C%20141.101.123.61%20%3A443%C2%B7trojan
