@@ -1,5 +1,3 @@
-vless://ac9a573b-67ff-4953-9e13-4cf43576f8f0@31.76.111.79:443?security=reality&encryption=none&pbk=8w1MyEJV4l9QeNWbYMXny5tTLNTw_9nsQ7jOuiQhix4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hh.ru&sid=0123456789abcdef#🇩🇪⇝
-vless://ad181c5d-2998-408a-8706-003969e557a7@31.77.220.190:443?security=reality&encryption=none&pbk=bg_o5_i-5MSy-t3CB3iyqIeI8Uqyy_wTP2kheJCXngg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=de3.global-cdn.org&sid=f7d0420b8ab26060#[
 vless://ad192c6d-c5ee-4a21-a6bf-85218caa4ef9@192.220.15.222:8443?mode=auto&path=/?@leviconfigs_leviconfigs?ed=2560&security=reality&encryption=none&extra={
 vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@45.58.126.92:8444?security=reality&encryption=none&pbk=OyUyHy3-04xKvFMvAzUbiVf7tkWX2a_gC2E_sEHGVw8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nbcnews.com&sid=08#@prrofile_purple
 vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@89.106.88.22:20443?security=reality&encryption=none&pbk=-AdhgMZeNHR2zAmGWa5peg7Ni0-e4IVMoSzydC9n7C4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dest1.cdn-update.rutube.info&sid=08#@v2ray313
@@ -998,3 +996,5 @@ vless://fdc48be3-a615-41ac-8bd1-ed844c931048@104.21.91.244:443?path=/?TELEGRAM--
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@104.21.91.244:443?path=/?TELEGRAM--V2ray_confiig?ed=512&security=tls&encryption=none&fm={
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@104.21.91.244:443?path=/?TELEGRAM--mtmvpn--mtmvpn?ed=512&security=tls&encryption=none&fm={
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@162.159.254.201:443?path=/&security=tls&encryption=none&fm={
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@172.67.92.203:443?encryption=none&security=tls&sni=edgetunnel-4uw.pages.dev&fm={
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?encryption=none&security=tls&sni=edgetunnel-4uw.pages.dev&alpn=http/1.1&fm={
