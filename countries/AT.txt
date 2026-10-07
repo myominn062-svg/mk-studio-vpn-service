@@ -376,8 +376,10 @@ vless://79df0bfb-ee52-4998-b8b6-13af10ee7c34@node1.telegavpn.org:443?encryption=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SmVZeThTa1ZpWHVTSFZzOUdGZVNl@promo6v.bystrivpn.ru:443#%F0%9F%87%A6%F0%9F%87%B9%20Vienna%2C%20AT%20%C2%B7%20Aeza%20Group%20%7C%20promo6v.bystrivpn.ru
 vless://49e8f20c-6a27-4637-9e20-e0ea18a75766@vi.themesh.site:443?&security=reality&flow=xtls-rprx-vision&pbk=h9mMhGxTjsliYul7yU7OLUAuJ5GXxWg8wUA6QDujv1o&sid=aa9ad8198bd47cff&fp=chrome&sni=vi.themesh.site&type=tcp&headerType=none&host=vi.themesh.site&path=%2F#%F0%9F%87%A6%F0%9F%87%B9%20Vienna%2C%20AT%20%C2%B7%20netcup%20%7C%20vi.themesh.site
 vless://TELEGRAM-ServerNett@[2a01:f8:c17:1cd7::1]:54467?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%C2%B7%20oja.at%20%7C%20%5B%5B2a01%3Af8%3Ac17%3A1cd7%3A%3A1%5D%5D
-trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#%F0%9F%87%A6%F0%9F%87%B9AT-212.183.88.136-0546
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-7567
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-7568
+trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#%F0%9F%87%A6%F0%9F%87%B9AT-212.183.88.136-0551
+trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%87%A6%F0%9F%87%B9AT-212.183.88.136-0850
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-7966
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-7967
 vmess://eyJhZGQiOiI5NC4xNzcuOS42NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsImlkIjoiMTkzM2E0MjUtMjg0Mi00ZDJiLTg1ODktOWNhMjI0MmQ3NDE1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyOTgyNSIsInBzIjoiQVQg8J+HpvCfh7kgfCBAUmF5ZGlrYWx4IHwgNjMzRkQ3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@193.233.232.96:443?sni=addons.mozilla.org&flow=xtls-rprx-vision&fp=randomized&security=tls#%F0%9F%87%A6%F0%9F%87%B9%20%E5%A5%A5%E5%9C%B0%E5%88%A9%20%7C%20AUT%20%231
+vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@195.133.88.122:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=music.surfweb.club#🆔soskeynet%20🔒%20VL-TCP-N/A%20🇦🇹%20AT%20down
+vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@193.233.232.96:443?sni=addons.mozilla.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%B9AT_3%7C1.0MB/s

@@ -62,8 +62,7 @@ hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52050?security=tls&obfs
 hysteria2://tnnls:b735eacd-3ca7-4019-b98c-3559918100e6@bwdf2fnt.xn--e1aatfr8bwa.online:30000?security=tls&obfs=salamander&obfs-password=b6d1f3888ab1d90dd11aac1dce427b81&insecure=0&sni=bwdf2fnt.xn--e1aatfr8bwa.online#@fastkanfig
 hysteria2://vz86jgszv4zszchv@giftcard.gateway-stream.com:52062?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#Telegram
 hysteria2://xf2ak19a4uajprxg@giftcard.gateway-stream.com:52090?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#Telegram
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?insecure=1&security=tls&sni=vpn-fr-001.fastervpn.world#EPODONIOS
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.38.44.64:443?insecure=1&sni=off#EPODONIOS
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@51.44.167.227:443?insecure=1&sni=vpn-fr-001.fastervpn.world#EPODONIOS
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&note=@FreeOnlineVPN#EPODONIOS
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#EPODONIOS
 hysteria2://17537e14543a478b9c7a558870d814f3@mhzedir.qzz.io:51791?security=tls&obfs=salamander&obfs-password=7y0p9k93w7ryw8tz&insecure=0&sni=mhzedir.qzz.io#EPODONIOS
@@ -84,7 +83,6 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tl
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#EPODONIOS
 hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&obfs=salamander&alpn=h3&obfs-password=ec66908dbc46e6920143d9b684adf277&insecure=0&sni=srv-3fc7c9.21freedom.net#EPODONIOS
 hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&obfs=salamander&obfs-password=ec66908dbc46e6920143d9b684adf277&insecure=0&sni=srv-3fc7c9.21freedom.net#EPODONIOS
-hysteria2://ca78f919e6@155.94.134.183:11592?sni=srv-3fc7c9.21freedom.net&obfs=salamander&obfs-password=ec66908dbc46e6920143d9b684adf277#EPODONIOS
 hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21000-21199,33000-33199/?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#EPODONIOS
 hysteria2://capadmbd5f18bd:jX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:21000-21199,33000-33199/?insecure=1&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8&sni=vpn.local#EPODONIOS
 hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#EPODONIOS
@@ -998,3 +996,5 @@ hy2://848f2039-d466-479c-b839-2652d414c01a@176.32.33.124:2453?obfs=salamander&ob
 hy2://74b207cf-1613-4ad6-956d-c81e4f82a870@176.32.33.124:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Kazan%27%2C%20RU%20%C2%B7%20LLC%20Baxet%20%7C%20176.32.33.124%20%3A2453%C2%B7hysteria2%C2%B7%2369
 hy2://a53ad399-94f0-44db-aa7f-7de9344487c0@176.32.33.124:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Kazan%27%2C%20RU%20%C2%B7%20LLC%20Baxet%20%7C%20176.32.33.124%20%3A2453%C2%B7hysteria2%C2%B7%2370
 hy2://3abdd4aa-a43b-4dff-9619-98925407683a@176.32.33.124:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Kazan%27%2C%20RU%20%C2%B7%20LLC%20Baxet%20%7C%20176.32.33.124%20%3A2453%C2%B7hysteria2%C2%B7%2371
+hy2://96727531-70d2-43b1-87ae-13b4e5d86bca@176.32.33.124:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Kazan%27%2C%20RU%20%C2%B7%20LLC%20Baxet%20%7C%20176.32.33.124%20%3A2453%C2%B7hysteria2%C2%B7%2372
+hy2://9dd3dbc5-e556-478c-9177-569f98eb2129@176.32.33.124:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Kazan%27%2C%20RU%20%C2%B7%20LLC%20Baxet%20%7C%20176.32.33.124%20%3A2453%C2%B7hysteria2%C2%B7%2373
