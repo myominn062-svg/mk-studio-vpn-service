@@ -1,5 +1,3 @@
-trojan://telegram-id-privatevpns@35.181.111.41:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.111.41%20%3A22222%C2%B7trojan
-trojan://telegram-id-privatevpns@35.181.120.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.120.43%20%3A22222
 trojan://telegram-id-directvpn@35.181.120.43:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.120.43%20%3A22223
 trojan://telegram-id-privatevpns@35.181.123.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.123.75%20%3A22222
 trojan://telegram-id-privatevpns@35.181.130.191:22222?sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Paris%2C%20FR%20%C2%B7%20Amazon.com%20%7C%2035.181.130.191%20%3A22222
@@ -998,3 +996,5 @@ trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@45.77.241.64:443?allowInsecure=0&s
 trojan://Bw5Mz7QkVp@45.77.82.118:443?security=tls&sni=z-v2-080366.kailib.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Miami%2C%20US%20%C2%B7%20The%20Constant%20Company%20%7C%2045.77.82.118
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@45.78.79.135:443?security=tls&sni=hhcm.hhxaf.cc.cd#%F0%9F%87%BA%F0%9F%87%B8%20Los%20Angeles%2C%20US%20%C2%B7%20IT7%20Networks%20%7C%2045.78.79.135
 trojan://rXyShM8Jni%2B5Sbq3k4gkyr5Lq0zOMRL2Uf@45.79.8.17:443?security=tls&headerType=none&type=tcp&sni=45.79.8.17#%F0%9F%87%BA%F0%9F%87%B8%20Richardson%2C%20US%20%C2%B7%20Akamai%20Connected%20Cloud%20%7C%2045.79.8.17%20%3A443
+trojan://rXyShM8Jni+5Sbq3k4gkyr5Lq0zOMRL2Uf@45.79.8.17:443?allowInsecure=0&security=tls&sni=45.79.8.17#%F0%9F%87%BA%F0%9F%87%B8%20Richardson%2C%20US%20%C2%B7%20Akamai%20Connected%20Cloud%20%7C%2045.79.8.17%20%3A443%C2%B7trojan
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@45.8.211.178:2096?sni=vle.amclubdns.dpdns.org#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%2045.8.211.178

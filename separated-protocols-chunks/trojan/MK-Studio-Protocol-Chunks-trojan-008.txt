@@ -1,5 +1,3 @@
-trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.120.0:443?sni=kc.vs2024.dpdns.org#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.120.0%20%3A443
-trojan://oZft$iBcsjAPqdbE2CK@172.67.130.122:443?type=ws&security=tls&path=/tr/2UlYHhEJ1n2XXBDiew4AzFd9?ed=2560&host=cd0ftgj4r79qu6f7nl0ldwptxv.s2gzvugnc7arq-nzwdwavaz.workers.dev&sni=cD0fTGj4R79QU6F7NL0LDwptXV.S2gZVUgNC7ARq-nZwdWaVaz.wOrKeRs.DEv&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.130.122
 trojan://Telegram_healer_config@172.67.130.246:443?type=ws&alpn=http/1.1#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.130.246%20%3A443
 trojan://Telegram_healer_config@172.67.130.246:443?sni=3OQxS5h6kCscecND.ZMh9KCGos2cq55uh6qDYaa938a5UgB.wOrkERS.dEV&type=ws&fp=chrome&alpn=http/1.1#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.130.246%20%3A443%C2%B7trojan
 trojan://trojan@172.67.130.66:443?security=tls&sni=test-a23.pages.dev&type=tcp#%F0%9F%8C%90%20Cloudflare%20%7C%20172.67.130.66%20%3A443
@@ -998,3 +996,5 @@ trojan://telegram-id-privatevpns@18.192.74.10:22222?security=tls&sni=trojan.burg
 trojan://telegram-id-directvpn@18.192.89.212:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2018.192.89.212
 trojan://telegram-id-directvpn@18.192.94.201:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2018.192.94.201
 trojan://telegram-id-privatevpns@18.193.102.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2018.193.102.237
+trojan://telegram-id-privatevpns@18.193.171.224:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2018.193.171.224%20%3A22222
+trojan://telegram-id-directvpn@18.193.171.224:22223?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20Am%20Main%2C%20DE%20%C2%B7%20Amazon.com%20%7C%2018.193.171.224%20%3A22223
