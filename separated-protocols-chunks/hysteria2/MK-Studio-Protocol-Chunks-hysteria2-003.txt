@@ -1,6 +1,3 @@
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443?sni=admin.wwwinternetvideo.click#%F0%9F%87%B5%F0%9F%87%B1%20Warsaw%2C%20PL%20%C2%B7%20ExpressHost%20%7C%2045.192.12.93
-hy2://ab78be87@45.192.243.159:2022?insecure=1&sni=www.bing.com#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%20JP%20%C2%B7%20ACCK%20%7C%2045.192.243.159
-hy2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.169:8449?sni=sni.fi-m247-02.com#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20M247%20Europe%20SRL%20%7C%2045.196.182.169
 hy2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.235:8449?sni=sni.fi-m247-02.com#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20M247%20Europe%20SRL%20%7C%2045.196.182.235
 hy2://gVYmzcZ1loF1rdnXpZzscUv12gi0yMr9@45.207.207.25:8443/?insecure=1&amp;sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20Zenixcloud%20%7C%2045.207.207.25%20%3A8443
 hy2://nfsn666@45.207.222.138:8888?insecure=1&sni=hk.nfsn666.gq#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%C2%B7%20cognetcloud%20%7C%2045.207.222.138
@@ -998,3 +995,6 @@ hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@91.149.238.71:30102?insecure=1#
 hy2://p6FfuI684f@91.184.242.252:443?insecure=1&sni=www.whatsapp.com&obfs=salamander&obfs-password=ZHr2aBtNWmYGZ8NnBfjxU7A#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam%2C%20NL%20%C2%B7%20Aeza%20Group%20%7C%2091.184.242.252
 hy2://9d765687-536c-4626-a2e2-6a403219e381@91.192.81.34:30103?insecure=1&sni=35afq4514.surfcat.store#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20SG%20%C2%B7%20Melbikomas%20UAB%20%7C%2091.192.81.34
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?sni=germany3.h2corp.local#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%C2%B7%20Serv.host%20Group%20%7C%2091.196.32.163%20%3A443
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?sni=91.196.32.163#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%C2%B7%20Serv.host%20Group%20%7C%2091.196.32.163%20%3A443%C2%B7hysteria2
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?security=tls&sni=germany3.h2corp.local&alpn=h3&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%C2%B7%20Serv.host%20Group%20%7C%2091.196.32.163%20%3A443%C2%B7hysteria2%C2%B7%233
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?security=tls&sni=91.196.32.163&alpn=h3&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%C2%B7%20Serv.host%20Group%20%7C%2091.196.32.163%20%3A443%C2%B7hysteria2%C2%B7%234
