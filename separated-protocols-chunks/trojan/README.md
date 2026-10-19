@@ -1,7 +1,7 @@
 # trojan
 
 Chunk size: **1000** configs per file.
-Total chunks: **22** · Total configs: **21317**
+Total chunks: **13** · Total configs: **12872**
 
 Use these when a single large list is too heavy for your client.
 
@@ -19,14 +19,5 @@ Use these when a single large list is too heavy for your client.
 | `MK-Studio-Protocol-Chunks-trojan-010.txt` | 1000 |
 | `MK-Studio-Protocol-Chunks-trojan-011.txt` | 1000 |
 | `MK-Studio-Protocol-Chunks-trojan-012.txt` | 1000 |
-| `MK-Studio-Protocol-Chunks-trojan-013.txt` | 1000 |
-| `MK-Studio-Protocol-Chunks-trojan-014.txt` | 1000 |
-| `MK-Studio-Protocol-Chunks-trojan-015.txt` | 1000 |
-| `MK-Studio-Protocol-Chunks-trojan-016.txt` | 1000 |
-| `MK-Studio-Protocol-Chunks-trojan-017.txt` | 1000 |
-| `MK-Studio-Protocol-Chunks-trojan-018.txt` | 1000 |
-| `MK-Studio-Protocol-Chunks-trojan-019.txt` | 1000 |
-| `MK-Studio-Protocol-Chunks-trojan-020.txt` | 1000 |
-| `MK-Studio-Protocol-Chunks-trojan-021.txt` | 1000 |
-| `MK-Studio-Protocol-Chunks-trojan-022.txt` | 317 |
+| `MK-Studio-Protocol-Chunks-trojan-013.txt` | 872 |
 
