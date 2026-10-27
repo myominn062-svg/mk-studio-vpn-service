@@ -1,5 +1,5 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@156.146.40.194:989#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Bratislava%20%7C%20156.146.40.194%3A989
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@156.146.40.201:443?security=reality&encryption=none&pbk=WMO-BNY1BX2nNlOOQgxLP4D3H-OnE2ypbXlbSMjLRVM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=e764f0ea#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Bratislava%20%7C%20156.146.40.201%3A443
+vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@156.146.40.201:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=WMO-BNY1BX2nNlOOQgxLP4D3H-OnE2ypbXlbSMjLRVM&sid=e764f0ea&sni=api-maps.yandex.ru&encryption=none#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Bratislava%20%7C%20156.146.40.201%3A443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@156.146.40.84:1080#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Bratislava%20%7C%20156.146.40.84%3A1080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSXl0N05EcXVyMzdwc0pza1lKdFZZbnp4dnh3T3NYRmluNTZnb2M1R3h1dFBWaXdAMTg1LjQ4LjI0OC4xMjY6NTEzNDg=#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Unknown%20%7C%20185.48.248.126%3A51348
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.123.123.133:989#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Unknown%20%7C%20188.123.123.133%3A989
@@ -13,9 +13,8 @@ hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@5.35.103.66:4380?obfs=salaman
 vless://140fb05b-bcb7-4313-af6e-9eb1b3f3d704@80.243.228.108:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Bratislava%20%7C%2080.243.228.108%3A2085
 vless://140fb05b-bcb7-4313-af6e-9eb1b3f3d704@80.243.228.108:2085?type=grpc&mode=multi&serviceName=vless#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Bratislava%20%7C%2080.243.228.108%3A2085%202
 vless://100e2d3d-2715-4103-b715-cf26fb33b982@80.243.228.130:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Bratislava%20%7C%2080.243.228.130%3A2085
-vless://4dc8093e-4eff-410b-bc14-b69f78209414@80.243.228.130:2085?security=none&type=grpc&serviceName=vless#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Bratislava%20%7C%2080.243.228.130%3A2085%202
-vless://4dc8093e-4eff-410b-bc14-b69f78209414@80.243.228.130:2085?encryption=none&amp;mode=multi&amp;security=none&amp;serviceName=vless&amp;type=grpc#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Bratislava%20%7C%2080.243.228.130%3A2085%203
-vless://841146ef-f108-4f4c-b229-34d0aef61e62@80.243.228.143:2085?type=grpc&mode=multi&serviceName=vless#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Bratislava%20%7C%2080.243.228.143%3A2085
+vless://4dc8093e-4eff-410b-bc14-b69f78209414@80.243.228.130:2085?encryption=none&amp;mode=multi&amp;security=none&amp;serviceName=vless&amp;type=grpc#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Bratislava%20%7C%2080.243.228.130%3A2085%202
+vless://27107dad-518d-4924-bb2e-3250c9420ce9@80.243.228.155:2085?encryption=none&security=none&type=grpc&serviceName=vless#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Bratislava%20%7C%2080.243.228.155%3A2085
 vless://fc3ad546-c9eb-474e-b35b-2aed6ad609c6@80.243.228.36:2085?type=grpc&mode=multi&serviceName=vless#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Bratislava%20%7C%2080.243.228.36%3A2085
 vless://8f6f8a4a-b30b-4061-bf5f-646997a6bcc9@80.243.228.61:2085?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Bratislava%20%7C%2080.243.228.61%3A2085
 vless://8a82856d-ba59-4134-abc7-cfd03fbf12a7@80.243.228.73:2085?type=grpc&mode=multi&serviceName=vless#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Bratislava%20%7C%2080.243.228.73%3A2085
@@ -24,7 +23,7 @@ vless://a7c66f66-76b7-42ea-8d2b-890a37239368@80.243.228.84:2085?security=none&ty
 vless://a7c66f66-76b7-42ea-8d2b-890a37239368@80.243.228.84:2085?security=tls&type=grpc&serviceName=vless&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Bratislava%20%7C%2080.243.228.84%3A2085%203
 vless://a7c66f66-76b7-42ea-8d2b-890a37239368@80.243.228.84:2085?security=tls&type=grpc#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Bratislava%20%7C%2080.243.228.84%3A2085%204
 vless://a7c66f66-76b7-42ea-8d2b-890a37239368@80.243.228.84:2085?encryption=none&amp;security=none&amp;type=grpc&amp;serviceName=vless&amp;mode=multi#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Bratislava%20%7C%2080.243.228.84%3A2085%205
-vless://24bc12fc-d5fe-4f06-b885-e3c03055de2b@80.243.228.98:2085?encryption=none&security=none&type=grpc&serviceName=vless#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Bratislava%20%7C%2080.243.228.98%3A2085
+vless://a30fbaa2-ec9e-47c7-b075-4d82e10794c0@80.243.228.98:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Bratislava%20%7C%2080.243.228.98%3A2085
 vless://0df23c07-b289-4d65-822a-228478ca73bd@86.110.243.171:25449/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=random&security=reality&pbk=lK8UJ7XkqXleVOC3XQRYEeXdnC37GSwCj2qHZiW87C8&sid=#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Bratislava%20%7C%2086.110.243.171%3A25449
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@89.46.42.141:2053?encryption=none&security=tls&sni=shuma.ccwu.cc&fp=chrome&type=ws&host=shuma.ccwu.cc&path=%2F#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Bratislava%20%7C%2089.46.42.141%3A2053
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@89.46.42.141:2053?security=tls&sni=shuma.ccwu.cc&type=ws&host=shuma.ccwu.cc&path=/&fp=chrome#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20-%20Bratislava%20%7C%2089.46.42.141%3A2053%202
