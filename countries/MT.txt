@@ -20,7 +20,8 @@ vmess://eyJhZGQiOiIxOTMuMjI3Ljk5LjE5OSIsImlkIjoiZjA4MzY5ZDEtNWVlNy00YjE2LWQ3ODYt
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.227.99.213:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&allowInsecure=0#%F0%9F%87%B2%F0%9F%87%B9%20Malta%20-%20Unknown%20%7C%20193.227.99.213%3A8880
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@193.227.99.214:443?security=tls&type=ws&sni=v033.ylkszy.eu.org&path=/?ed=2560&encryption=none&headerType=none#%F0%9F%87%B2%F0%9F%87%B9%20Malta%20-%20Unknown%20%7C%20193.227.99.214%3A443
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@193.227.99.217:2096?security=tls&sni=ScGiYaSk.rOcKsToNeY.InFo&type=ws&host=ScGiYaSk.rOcKsToNeY.InFo#%F0%9F%87%B2%F0%9F%87%B9%20Malta%20-%20Unknown%20%7C%20193.227.99.217%3A2096
-trojan://NISHIKUITAN111@193.227.99.226:443/?type=tcp&security=tls#%F0%9F%87%B2%F0%9F%87%B9%20Malta%20-%20Unknown%20%7C%20193.227.99.226%3A443
+trojan://NISHIKUITAN111@193.227.99.226:443?#%F0%9F%87%B2%F0%9F%87%B9%20Malta%20-%20Unknown%20%7C%20193.227.99.226%3A443
+trojan://NISHIKUITAN111@193.227.99.226:443/?type=tcp&security=tls#%F0%9F%87%B2%F0%9F%87%B9%20Malta%20-%20Unknown%20%7C%20193.227.99.226%3A443%202
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@193.227.99.234:8880/?type=ws&encryption=none&flow=&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560#%F0%9F%87%B2%F0%9F%87%B9%20Malta%20-%20Unknown%20%7C%20193.227.99.234%3A8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@193.227.99.234:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560#%F0%9F%87%B2%F0%9F%87%B9%20Malta%20-%20Unknown%20%7C%20193.227.99.234%3A8880%202
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@193.227.99.234:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560#%F0%9F%87%B2%F0%9F%87%B9%20Malta%20-%20Unknown%20%7C%20193.227.99.234%3A8880%203
