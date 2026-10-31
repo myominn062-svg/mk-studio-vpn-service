@@ -28,9 +28,10 @@ vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@212.192.214.167:443/?type=tcp&encry
 trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069?security=none&type=tcp&sni=www.vk.com&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B8%20Iceland%20-%20Reykjavik%20%7C%20212.192.214.46%3A18069
 vless://6adfde3e-4c12-47ee-9f4a-319411b7bdd6@219f.donyumvps.tr:34109?encryption=none&security=reality&sni=www3.donyumvps.tr&fp=chrome&pbk=QjfoSlq77b4UZQM9NSceJ4VbOlRwq7FF3rjMsb30JTA&sid=6e4ba571&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B8%20Iceland%20-%20Reykjavik%20%7C%20219f.donyumvps.tr%3A34109
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTcUpZUDRnRFMxSTZYR2tpb1gzUkNFM0JpbUtqOGR0ag3D3A==@2380.n9ne.com.tr:34319#%F0%9F%87%AE%F0%9F%87%B8%20Iceland%20-%20Reykjavik%20%7C%202380.n9ne.com.tr%3A34319
-trojan://p%3DXuu4jK_lJ9rOKw5%2B7BsW798DZ-01cv4S@37.235.49.118:443?security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B8%20Iceland%20-%20Hafnarfjordur%20%7C%2037.235.49.118%3A443
-trojan://p%3DXuu4jK_lJ9rOKw5%2B7BsW798DZ-01cv4S@37.235.49.118:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B8%20Iceland%20-%20Hafnarfjordur%20%7C%2037.235.49.118%3A443%202
-trojan://p=Xuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S@37.235.49.118:443?security=tls#%F0%9F%87%AE%F0%9F%87%B8%20Iceland%20-%20Hafnarfjordur%20%7C%2037.235.49.118%3A443%203
+trojan://p%3DXuu4jK_lJ9rOKw5%2B7BsW798DZ-01cv4S@37.235.49.118:443?security=none&type=tcp&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B8%20Iceland%20-%20Hafnarfjordur%20%7C%2037.235.49.118%3A443
+trojan://p%3DXuu4jK_lJ9rOKw5%2B7BsW798DZ-01cv4S@37.235.49.118:443?security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B8%20Iceland%20-%20Hafnarfjordur%20%7C%2037.235.49.118%3A443%202
+trojan://p%3DXuu4jK_lJ9rOKw5%2B7BsW798DZ-01cv4S@37.235.49.118:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B8%20Iceland%20-%20Hafnarfjordur%20%7C%2037.235.49.118%3A443%203
+trojan://p=Xuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S@37.235.49.118:443?security=tls#%F0%9F%87%AE%F0%9F%87%B8%20Iceland%20-%20Hafnarfjordur%20%7C%2037.235.49.118%3A443%204
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.152:989#%F0%9F%87%AE%F0%9F%87%B8%20Iceland%20-%20Hafnarfjordur%20%7C%2037.235.49.152%3A989
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.168:989#%F0%9F%87%AE%F0%9F%87%B8%20Iceland%20-%20Hafnarfjordur%20%7C%2037.235.49.168%3A989
 trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?security=none&type=tcp&sni=celestialcorset.crystalhamster.click&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B8%20Iceland%20-%20Hafnarfjordur%20%7C%2037.235.49.209%3A28099
