@@ -31,8 +31,7 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.180.210:62145?&type=tcp&hea
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.181.172:62145?&type=tcp&headerType=none&path=%2F#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20-%20Cota%20%7C%20149.130.181.172%3A62145
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.181.254:62145?&type=tcp&headerType=none&path=%2F#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20-%20Cota%20%7C%20149.130.181.254%3A62145
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.182.124:62145?&type=tcp&headerType=none&path=%2F#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20-%20Cota%20%7C%20149.130.182.124%3A62145
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.183.151:62145?&amp;security=none&amp;type=tcp&amp;headerType=&amp;path=%2F#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20-%20Cota%20%7C%20149.130.183.151%3A62145
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.183.151:62145?&security=none&type=tcp&headerType=&path=%2F#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20-%20Cota%20%7C%20149.130.183.151%3A62145%202
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.183.151:62145?&security=none&type=tcp&headerType=&path=%2F#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20-%20Cota%20%7C%20149.130.183.151%3A62145
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.183.255:62145#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20-%20Cota%20%7C%20149.130.183.255%3A62145
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.184.51:62145#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20-%20Cota%20%7C%20149.130.184.51%3A62145
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.1:62145?&type=tcp&headerType=none&path=%2F#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20-%20Cota%20%7C%20149.130.185.1%3A62145
@@ -81,6 +80,7 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.208.45:62145?security=none&
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.208.54:62145?&type=tcp&headerType=none&path=%2F#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20-%20Cota%20%7C%20157.137.208.54%3A62145
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.208.96:62145?security=none&type=tcp&encryption=none#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20-%20Cota%20%7C%20157.137.208.96%3A62145
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.209.179:62145#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20-%20Cota%20%7C%20157.137.209.179%3A62145
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.209.179:62145?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20-%20Cota%20%7C%20157.137.209.179%3A62145%202
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.209.208:62145?&type=tcp&headerType=none&path=%2F#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20-%20Cota%20%7C%20157.137.209.208%3A62145
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.210.122:62145?security=none&type=tcp&encryption=none#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20-%20Cota%20%7C%20157.137.210.122%3A62145
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.210.130:62145?&type=tcp&headerType=none&path=%2F#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20-%20Cota%20%7C%20157.137.210.130%3A62145
@@ -221,6 +221,8 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.126.67:62145?&type=tcp&head
 vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.228.24:8443?encryption=none&security=tls&sni=bog-co-01.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20-%20Bogot%C3%A1%20%7C%20169.150.228.24%3A8443
 vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.228.24:8443?encryption=none&security=tls&sni=bog-co-01.fromblancwithlove.com&type=tcp#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20-%20Bogot%C3%A1%20%7C%20169.150.228.24%3A8443%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20-%20Bogot%C3%A1%20%7C%20181.119.30.20%3A990
+vless://7955bf18-35c4-412d-aabd-c0b36c793063@186.85.117.115:443?encryption=none&type=kcp&security=tls&sni=bmjo1q0d01.f1owensgoob.tdp&fp=chrome#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20-%20Bogot%C3%A1%20%7C%20186.85.117.115%3A443
+vless://d69d769a-f83b-41b7-abee-6dd6ce5ce9c1@186.85.195.10:5443?encryption=none&type=kcp&security=tls&sni=k3.r-n1-1.dohomqn.c0m&fp=chrome#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20-%20Pereira%20%7C%20186.85.195.10%3A5443
 trojan://MiTiVPN@199.232.177.242:80?host=www.f6r.ir&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20-%20Unknown%20%7C%20199.232.177.242%3A80
 vless://4352f2a7-d620-474e-9249-e866774a2c81@80.93.215.62:443?security=tls&sni=gcore.com&type=ws&host=ebnada.com&path=%2Fhgffg#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20-%20Bogot%C3%A1%20%7C%2080.93.215.62%3A443
 vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?path=/@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram&security=none&encryption=none&type=ws#%F0%9F%8C%90%20Unknown%20-%20Unknown%20%7C%20beloved-failure.seotoolsforyou.co.uk%3A80
@@ -311,7 +313,7 @@ vless://7f09e7b4-4680-4653-a2da-307d110b6961@famous-experience.seotoolsforyou.co
 vless://7f09e7b4-4680-4653-a2da-307d110b6961@famous-experience.seotoolsforyou.co.uk:80?security=&encryption=none&type=ws#%F0%9F%8C%90%20Unknown%20-%20Unknown%20%7C%20famous-experience.seotoolsforyou.co.uk%3A80%204
 vless://7f09e7b4-4680-4653-a2da-307d110b6961@famous-experience.seotoolsforyou.co.uk:80?security=none&encryption=none&type=ws#%F0%9F%8C%90%20Unknown%20-%20Unknown%20%7C%20famous-experience.seotoolsforyou.co.uk%3A80%205
 vless://7f09e7b4-4680-4653-a2da-307d110b6961@famous-experience.seotoolsforyou.co.uk:80?security=tls&type=ws&path=%2F&allowInsecure=1#%F0%9F%8C%90%20Unknown%20-%20Unknown%20%7C%20famous-experience.seotoolsforyou.co.uk%3A80%206
-vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fierce-data.seotoolsforyou.co.uk:80/?type=ws&encryption=none&flow=&path=%2F#%F0%9F%8C%90%20Unknown%20-%20Unknown%20%7C%20fierce-data.seotoolsforyou.co.uk%3A80
+vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fierce-data.seotoolsforyou.co.uk:80?encryption=none&security=none&sni=fierce-data.seotoolsforyou.co.uk&type=ws&host=fierce-data.seotoolsforyou.co.uk&path=%2F#%F0%9F%8C%90%20Unknown%20-%20Unknown%20%7C%20fierce-data.seotoolsforyou.co.uk%3A80
 vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fierce-data.seotoolsforyou.co.uk:80?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#%F0%9F%8C%90%20Unknown%20-%20Unknown%20%7C%20fierce-data.seotoolsforyou.co.uk%3A80%202
 vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fierce-data.seotoolsforyou.co.uk:80?path=/&security=&encryption=none&type=ws#%F0%9F%8C%90%20Unknown%20-%20Unknown%20%7C%20fierce-data.seotoolsforyou.co.uk%3A80%203
 vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fierce-data.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#%F0%9F%8C%90%20Unknown%20-%20Unknown%20%7C%20fierce-data.seotoolsforyou.co.uk%3A80%204
