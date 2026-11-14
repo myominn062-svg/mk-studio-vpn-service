@@ -973,7 +973,6 @@ trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@104.208.100.101:443?security=tls&s
 trojan://5f27eb67-a1ea-43a3-9a33-8d85d61b9574@104.208.111.108:443?security=tls&amp;sni=hknode02.oportal.cc&amp;type=tcp&amp;headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20SAR%20China%20-%20Hong%20Kong%20%7C%20104.208.111.108%3A443
 trojan://Julius@104.219.41.229:443?security=tls&sni=miami.juliusnet.com&type=tcp&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Unknown%20%7C%20104.219.41.229%3A443
 trojan://70756c73-0000-4000-8000-650000000000@104.234.239.139:443?security=tls&type=tcp&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Unknown%20%7C%20104.234.239.139%3A443
-trojan://70756c73-0000-4000-8000-650000000000@104.234.239.139:443?type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Unknown%20%7C%20104.234.239.139%3A443%202
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@104.234.239.178:2096?sni=vle.amclubdns.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Unknown%20%7C%20104.234.239.178%3A2096
 trojan://Aimer@104.234.239.235:2087/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Unknown%20%7C%20104.234.239.235%3A2087
 trojan://Aimer@104.234.239.235:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Unknown%20%7C%20104.234.239.235%3A2087%202
@@ -998,3 +997,4 @@ trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@104.253.175.99:443?security=none&t
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@104.253.175.99:443?security=none&type=ws&sni=tjsp.hhxaf.cc.cd#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20SAR%20China%20-%20Hong%20Kong%20%7C%20104.253.175.99%3A443%202
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@104.253.175.99:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=/&Host=tjsp.hhxaf.cc.cd#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20SAR%20China%20-%20Hong%20Kong%20%7C%20104.253.175.99%3A443%203
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@104.254.140.178:2096?sni=vle.amclubdns.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Unknown%20%7C%20104.254.140.178%3A2096
+trojan://gHQP0D7D15@104.46.166.180:2053?type=quic&security=tls&sni=rarwdasnt.ph0necdmparjsondlog.orq&fp=chrome#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20-%20Melbourne%20%7C%20104.46.166.180%3A2053
