@@ -770,9 +770,11 @@ trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@03.tokyometropolis.kharkov.ua:2053
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@04.tokyometropolis.kherson.ua:2053?security=none&type=tcp&sni=45.32.28.232#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Unknown%20%7C%2004.tokyometropolis.kherson.ua%3A2053
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@04.tokyometropolis.kherson.ua:2053?sni=45.32.28.232&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Unknown%20%7C%2004.tokyometropolis.kherson.ua%3A2053%202
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@05.tokyometropolis.kiev.ua:2053?security=none&type=tcp&sni=45.32.28.232#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Unknown%20%7C%2005.tokyometropolis.kiev.ua%3A2053
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@05.tokyometropolis.kiev.ua:2053?sni=45.32.28.232&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Unknown%20%7C%2005.tokyometropolis.kiev.ua%3A2053%202
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@06.103.119.246:443?type=quic&security=tls&sni=firdcorneetwjthehployarsondduiidpnofcssi0na1netvorx.cor&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Unknown%20%7C%2006.103.119.246%3A443
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@06.168.119.136:443?type=kcp&security=tls&sni=nes0urccs.tindcqnneetwitmemblogersonddui1dproteszioralmetw0rk.con&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Unknown%20%7C%2006.168.119.136%3A443
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@06.tokyometropolis.kyiv.ua:2053?security=none&type=tcp&sni=45.32.28.232#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Unknown%20%7C%2006.tokyometropolis.kyiv.ua%3A2053
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@06.tokyometropolis.kyiv.ua:2053?sni=45.32.28.232&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Unknown%20%7C%2006.tokyometropolis.kyiv.ua%3A2053%202
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@07.tokyometropolis.odesa.ua:2053?security=none&type=tcp&sni=45.32.28.232#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Unknown%20%7C%2007.tokyometropolis.odesa.ua%3A2053
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@07.tokyometropolis.odesa.ua:2053?sni=45.32.28.232&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Unknown%20%7C%2007.tokyometropolis.odesa.ua%3A2053%202
 trojan://OccIqeORGQwiNkwS@1.64.239.138:19128?security=tls&sni=yazhou10.dynu.net&path=/#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20SAR%20China%20-%20Hong%20Kong%20%7C%201.64.239.138%3A19128
@@ -954,6 +956,7 @@ trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@103.224.212.210:443?sni=c3mc.cisco
 trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@103.224.212.211:443?security=none&type=tcp&sni=jp-h1.sshub.xyz&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20-%20Unknown%20%7C%20103.224.212.211%3A443
 trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@103.224.212.211:443?security=tls&sni=60.72img.xyz&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20-%20Unknown%20%7C%20103.224.212.211%3A443%202
 trojan://9KogHwaY7hVD@103.224.212.212:443?sni=103.224.212.212&allowInsecure=1&type=tcp#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20-%20Unknown%20%7C%20103.224.212.212%3A443
+trojan://9KogHwaY7hVD@103.224.212.212:443?security=none&type=tcp&sni=103.224.212.212#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20-%20Unknown%20%7C%20103.224.212.212%3A443%202
 trojan://99b166ff-25ab-4bda-9493-618d491c2a9a@103.224.212.213:443/?type=tcp&security=tls&sni=us232.support-putin-kill-all-ukrainians.98848.xyz#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20-%20Unknown%20%7C%20103.224.212.213%3A443
 trojan://b379fd8e-75c6-4bd6-8a5b-88f3e64bb3fa@103.224.212.217:443?security=none&type=tcp&sni=dl.kgvn.garenanow.com&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20-%20Unknown%20%7C%20103.224.212.217%3A443
 trojan://humanity@103.224.84.7:443?security=tls&sni=www.cordweave.com&type=ws&path=%2Fassignment#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%20-%20Pak%20Kret%20%7C%20103.224.84.7%3A443
@@ -995,6 +998,3 @@ trojan://ND91608427@103.4.10.4:443?sni=wise-bengal.rooster465.autos&allowInsecur
 trojan://c06da710-777b-11ed-87cd-1239d0255272@103.42.59.241:443?security=none&type=tcp&sni=m.yandex.com&allowInsecure=1#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20-%20Unknown%20%7C%20103.42.59.241%3A443
 trojan://S40Vr.vnDP2BsCKF@103.43.75.230:13536?allowInsecure=0&sni=smartphone.angrypiano.click#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20-%20Sydney%20%7C%20103.43.75.230%3A13536
 trojan://rYuChHcwQZskq9E0zdoR@103.45.245.208:2053/?type=tcp&security=tls&sni=vpn5.rnmcnm.com#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20Madrid%20%7C%20103.45.245.208%3A2053
-trojan://de4a493f-5fd9-46e7-bde2-46b9cc3a6d9b@103.6.220.71:21042?security=tls&amp;sni=k3.tudou211.com&amp;type=tcp&amp;headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20China%20-%20Unknown%20%7C%20103.6.220.71%3A21042%202
-trojan://de4a493f-5fd9-46e7-bde2-46b9cc3a6d9b@103.6.220.71:21042?security=tls&sni=k3.tudou211.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20China%20-%20Unknown%20%7C%20103.6.220.71%3A21042%203
-trojan://af4b064a9c39472fb34ad8b113acdc6b@103.67.79.156:443?sni=103.67.79.156&allowInsecure=1&type=tcp#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20-%20Unknown%20%7C%20103.67.79.156%3A443
