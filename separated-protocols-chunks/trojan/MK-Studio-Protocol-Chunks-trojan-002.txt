@@ -1,3 +1,4 @@
+trojan://Aimer@104.168.87.155:3306?sni=epms.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Santa%20Clara%20%7C%20104.168.87.155%3A3306
 trojan://Aimer@104.168.87.155:5432?sni=epmg.ambercc.filegear-sg.me&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Santa%20Clara%20%7C%20104.168.87.155%3A5432
 trojan://521314@104.194.144.187:443?allowInsecure=0&sni=tjplay.lxdxo.kdns.fr&ws=1&wspath=%2F#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20Unknown%20%7C%20104.194.144.187%3A443
 trojan://521314@104.194.146.86:443?allowInsecure=0&sni=tjplay.lxdxo.kdns.fr&ws=1&wspath=%2F#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20Unknown%20%7C%20104.194.146.86%3A443
@@ -63,7 +64,6 @@ trojan://telegram-id-vlessconfig@108.128.9.74:22222?security=tls&sni=trojan.burg
 trojan://AE62539071@108.130.137.102:443?fp=chrome&sni=worthy-labrador.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20-%20Dublin%20%7C%20108.130.137.102%3A443
 trojan://FH72359861@108.130.49.217:443?allowInsecure=1&sni=concise-bass.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20-%20Dublin%20%7C%20108.130.49.217%3A443
 trojan://NQ26071394@108.131.117.154:443?sni=funky-opossum.rooster465.autos&path=/#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20-%20Dublin%20%7C%20108.131.117.154%3A443
-trojan://NQ26071394@108.131.117.154:443?security=tls&sni=funky-opossum.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20-%20Dublin%20%7C%20108.131.117.154%3A443%202
 trojan://PD07395842@108.131.197.101:443?fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20-%20Dublin%20%7C%20108.131.197.101%3A443
 trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@108.137.18.26:8443?security=tls&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20-%20Jakarta%20%7C%20108.137.18.26%3A8443
 trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@108.160.132.132:443?security=tls&sni=jy.hhllfly.kdns.fr&fp=chrome&type=ws&host=jy.hhllfly.kdns.fr&path=/?ed=2048&alpn=http%2F1.1&ech=cloudflare-ech.com%2Bhttps%3A%2F%2F223.5.5.5%2Fdns-query#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Minamishinagawa%20%7C%20108.160.132.132%3A443
@@ -224,7 +224,6 @@ trojan://114514@109.121.39.70:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecur
 trojan://d69e725c-7c7e-4c75-9786-4859b4e0bbc6@109.169.76.23:443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20Unknown%20%7C%20109.169.76.23%3A443
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@109.176.239.178:2096?sni=vle.amclubdns.dpdns.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20Unknown%20%7C%20109.176.239.178%3A2096
 trojan://MiTiVPN@109.176.239.3:80?ed=2560&eh=Sec-WebSocket-Protocol&host=Nl.App-Cloud.ir&path=%2FMiTiVPN%3DNL&security=none&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20Unknown%20%7C%20109.176.239.3%3A80
-trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?mode=gun&security=tls&type=grpc&serviceName=gr1.grtj.sulindac.top&sni=gr1.grtj.sulindac.top#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20-%20Unknown%20%7C%20109.230.91.202%3A443
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@109.234.211.232:443?security=none&type=ws&sni=nat11.outsidemyheart.space&allowInsecure=1#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20Unknown%20%7C%20109.234.211.232%3A443
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@109.234.211.232:443?cs=semi-python&path=%2Fw4e5yh0p945y3&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=nat11.outsidemyheart.space&fp=unsafe&type=ws&allowInsecure=0&sni=nat11.outsidemyheart.space#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20Unknown%20%7C%20109.234.211.232%3A443%202
 trojan://humanity@109.234.211.232:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.pleadcourt.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20Unknown%20%7C%20109.234.211.232%3A443%203
@@ -398,11 +397,11 @@ trojan://Aimer@121.179.37.140:50000?sni=agepq.ambercc.filegear-sg.me&allowInsecu
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.180.171.43:11310/?type=tcp&security=tls&sni=vpn1.rnmcnm.com&allowInsecure=1#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Gyeongju%20%7C%20121.180.171.43%3A11310
 trojan://Aimer@121.190.81.4:50000?sni=agepn.ambercc.filegear-sg.me&allowInsecure=0#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Seongnam-si%20%7C%20121.190.81.4%3A50000
 trojan://KLF0qOU0ZZGw5Tnu@121.78.213.3:443?security=none&type=tcp&sni=swift.protocolbuffer.com&allowInsecure=1#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%20121.78.213.3%3A443
-trojan://KLF0qOU0ZZGw5Tnu@121.78.213.3:443?security=none&type=tcp&sni=swift.protocolbuffer.com#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%20121.78.213.3%3A443%202
-trojan://KLF0qOU0ZZGw5Tnu@121.78.213.3:443?security=tls&sni=swift.protocolbuffer.com#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%20121.78.213.3%3A443%203
-trojan://ZDAAFTxBNu5j9pl3Re834a3xSXwOZYeIlE30Dp86qc7yYgKaDCaROCSSnz2FCy@121.78.213.3:443?security=none&type=tcp&sni=csharp.protocolbuffer.com&allowInsecure=1#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%20121.78.213.3%3A443%204
-trojan://ZDAAFTxBNu5j9pl3Re834a3xSXwOZYeIlE30Dp86qc7yYgKaDCaROCSSnz2FCy@121.78.213.3:443?security=none&type=tcp&sni=csharp.protocolbuffer.com#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%20121.78.213.3%3A443%205
-trojan://ZDAAFTxBNu5j9pl3Re834a3xSXwOZYeIlE30Dp86qc7yYgKaDCaROCSSnz2FCy@121.78.213.3:443?security=tls&sni=csharp.protocolbuffer.com#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%20121.78.213.3%3A443%206
+trojan://KLF0qOU0ZZGw5Tnu@121.78.213.3:443?security=tls&sni=swift.protocolbuffer.com#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%20121.78.213.3%3A443%202
+trojan://ZDAAFTxBNu5j9pl3Re834a3xSXwOZYeIlE30Dp86qc7yYgKaDCaROCSSnz2FCy@121.78.213.3:443?security=none&type=tcp&sni=csharp.protocolbuffer.com&allowInsecure=1#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%20121.78.213.3%3A443%203
+trojan://ZDAAFTxBNu5j9pl3Re834a3xSXwOZYeIlE30Dp86qc7yYgKaDCaROCSSnz2FCy@121.78.213.3:443?security=none&type=tcp&sni=csharp.protocolbuffer.com#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%20121.78.213.3%3A443%204
+trojan://ZDAAFTxBNu5j9pl3Re834a3xSXwOZYeIlE30Dp86qc7yYgKaDCaROCSSnz2FCy@121.78.213.3:443?security=tls&sni=csharp.protocolbuffer.com#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%20121.78.213.3%3A443%205
+trojan://ZRYSly2IRuFlgpZCaep3Ey3DDXqTDczO04aeC8F36OjaYSCABnA573wN8xxK9S@121.78.213.3:443?security=none&type=tcp&sni=httah.freetrade.link#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%20121.78.213.3%3A443%206
 trojan://666@123.111.169.70:443?security=tls&sni=7mvgo.80dj.e67.hh.hhhdl.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=7mvgo.80dj.e67.hh.hhhdl.kdns.fr&path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%20123.111.169.70%3A443
 trojan://bpb-trojan@123.111.169.70:443?sni=skwygx.top&type=ws&host=skwygx.top#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%20123.111.169.70%3A443%202
 trojan://d4f89111885.wns.windows.com@123.125.94.170:1357?sni=uksource1.mzsourcenode.info&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20China%20-%20Unknown%20%7C%20123.125.94.170%3A1357
@@ -491,8 +490,6 @@ trojan://BxceQaOe@13.115.134.113:4329?security=none&type=tcp&sni=t.me%2Fripaojie
 trojan://PQ05174892@13.115.145.243:443?security=none&type=tcp&sni=smooth-cougar.rooster465.autos&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.115.145.243%3A443
 trojan://PQ05174892@13.115.145.243:443?sni=smooth-cougar.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.115.145.243%3A443%202
 trojan://AE62539071@13.115.158.235:443?sni=prepared-thrush.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.115.158.235%3A443
-trojan://FH72359861@13.115.163.4:443?sni=devoted-zebra.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.115.163.4%3A443
-trojan://FH72359861@13.115.163.4:443?sni=devoted-zebra.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.115.163.4%3A443%202
 trojan://AE62539071@13.115.230.84:443?sni=polished-imp.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.115.230.84%3A443
 trojan://PQ05174892@13.115.247.230:443?sni=ethical-raccoon.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.115.247.230%3A443
 trojan://AE62539071@13.115.52.58:443?sni=wise-longhorn.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.115.52.58%3A443
@@ -502,13 +499,14 @@ trojan://AE62539071@13.124.185.220:443?sni=prepared-monitor.rooster465.autos&typ
 trojan://AE62539071@13.124.51.251:443?sni=allowed-hermit.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%2013.124.51.251%3A443
 trojan://AE62539071@13.125.144.78:443?sni=viable-serval.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%2013.125.144.78%3A443
 trojan://AE62539071@13.125.228.160:443?sni=engaged-skink.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%2013.125.228.160%3A443
-trojan://ND91608427@13.125.239.182:443?security=tls&sni=saving-octopus.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%2013.125.239.182%3A443
-trojan://ND91608427@13.125.239.182:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=saving-octopus.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%2013.125.239.182%3A443%202
-trojan://AE62539071@13.125.71.58:443?sni=capable-jay.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%2013.125.71.58%3A443
+trojan://ND91608427@13.125.239.182:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=saving-octopus.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%2013.125.239.182%3A443
+trojan://AE62539071@13.125.71.58:443?sni=capable-jay.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%2013.125.71.58%3A443
+trojan://AE62539071@13.125.71.58:443?sni=capable-jay.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%2013.125.71.58%3A443%202
 trojan://PQ05174892@13.125.93.65:443?sni=one-dove.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Unknown%20%7C%2013.125.93.65%3A443
 trojan://telegram-id-privatevpns@13.134.21.134:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20City%20of%20London%20%7C%2013.134.21.134%3A22222
 trojan://FH72359861@13.158.129.134:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grateful-leech.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.158.129.134%3A443
-trojan://AE62539071@13.158.135.118:443?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=literate-cow.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.158.135.118%3A443
+trojan://AE62539071@13.158.135.118:443?sni=literate-cow.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.158.135.118%3A443
+trojan://AE62539071@13.158.135.118:443?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=literate-cow.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.158.135.118%3A443%202
 trojan://BxceQaOe@13.158.2.187:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.158.2.187%3A4099
 trojan://8deb189a-3aed-4865-843b-b72dae954c46@13.158.86.30:443?sni=api.85s.me&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.158.86.30%3A443
 trojan://PQ05174892@13.159.17.90:443?sni=outgoing-cockatoo.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.159.17.90%3A443
@@ -541,7 +539,6 @@ trojan://AE62539071@13.212.35.252:443?sni=adapted-whippet.rooster465.autos&type=
 trojan://XG59623478@13.212.44.132:443?allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Unknown%20%7C%2013.212.44.132%3A443
 trojan://AE62539071@13.212.44.180:443?sni=smooth-hornet.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Unknown%20%7C%2013.212.44.180%3A443
 trojan://PQ05174892@13.212.77.186:443?sni=promoted-rattler.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Unknown%20%7C%2013.212.77.186%3A443
-trojan://FH72359861@13.212.77.228:443?sni=probable-weasel.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Unknown%20%7C%2013.212.77.228%3A443
 trojan://PQ05174892@13.212.87.164:443?sni=sharp-feline.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Unknown%20%7C%2013.212.87.164%3A443
 trojan://PQ05174892@13.212.91.165:443?sni=composed-sheep.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Unknown%20%7C%2013.212.91.165%3A443
 trojan://XG59623478@13.213.12.84:443?allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Unknown%20%7C%2013.213.12.84%3A443
@@ -572,7 +569,6 @@ trojan://BxceQaOe@13.230.159.214:3285?allowInsecure=1&sni=t.me%2Fripaojiedian#%F
 trojan://XG59623478@13.230.223.230:443?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.230.223.230%3A443
 trojan://PQ05174892@13.230.240.243:443?sni=ready-monarch.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.230.240.243%3A443
 trojan://Aimer@13.230.34.30:443?sni=epccu.ambercc.filegear-sg.me&allowInsecure=0#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.230.34.30%3A443
-trojan://FH72359861@13.230.4.218:443?sni=content-rabbit.rooster465.autos&fp=chrome&type=tcp&path=%2f#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.230.4.218%3A443
 trojan://AE62539071@13.230.97.36:443?sni=known-albacore.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.230.97.36%3A443
 trojan://0df6b9c4e7d58d84@13.231.106.60:443?security=tls&sni=n2.gladns.com&type=grpc#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.231.106.60%3A443
 trojan://PQ05174892@13.231.123.180:443?sni=fair-reptile.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.231.123.180%3A443
@@ -583,7 +579,6 @@ trojan://NQ26071394@13.231.146.129:443?security=none&type=tcp&sni=stunning-masto
 trojan://429ad146-8f43-4dd4-8fb3-cca3f3a30c63@13.231.184.60:20230?security=tls&sni=421421.xyz#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.231.184.60%3A20230
 trojan://2ba7e4d0-f2f9-456e-a43e-f5a724d7e367@13.231.193.122:20230?sni=www.alibaba.com&type=ws&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.231.193.122%3A20230
 trojan://PQ05174892@13.231.211.208:443?sni=lucky-albacore.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.231.211.208%3A443
-trojan://FH72359861@13.231.211.74:443?sni=star-cheetah.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.231.211.74%3A443
 trojan://PQ05174892@13.231.219.205:443?sni=famous-opossum.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.231.219.205%3A443
 trojan://BxceQaOe@13.231.220.185:4569?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.231.220.185%3A4569
 trojan://AE62539071@13.231.222.134:443?sni=grateful-crawdad.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2013.231.222.134%3A443
@@ -739,7 +734,6 @@ trojan://ON38567014@13.38.35.46:443?security=tls&amp;insecure=0&amp;headerType=n
 trojan://ON38567014@13.38.35.46:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lucky-marmot.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%7C%2013.38.35.46%3A443%203
 trojan://ON38567014@13.38.35.46:443?security=tls&headerType=none&type=tcp&sni=lucky-marmot.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%7C%2013.38.35.46%3A443%204
 trojan://telegram-id-privatevpns@13.38.42.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%7C%2013.38.42.161%3A22222
-trojan://PQ05174892@13.38.66.171:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=musical-shrew.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%7C%2013.38.66.171%3A443
 trojan://telegram-id-privatevpns@13.39.0.175:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%7C%2013.39.0.175%3A22222
 trojan://telegram-id-directvpn@13.39.0.175:22223?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%7C%2013.39.0.175%3A22223
 trojan://telegram-id-directvpn@13.39.0.222:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%7C%2013.39.0.222%3A22223
@@ -998,3 +992,9 @@ trojan://b291d129-ee55-4801-a9b8-b5316e5c37b7@138.2.113.84:443?security=tls#%F0%
 trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@138.2.114.255:443?security=tls&allowInsecure=1&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Chuncheon%20%7C%20138.2.114.255%3A443
 trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@138.2.115.240:443?security=none&type=tcp&allowInsecure=1#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Chuncheon%20%7C%20138.2.115.240%3A443
 trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@138.2.115.240:443?security=none&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Chuncheon%20%7C%20138.2.115.240%3A443%202
+trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@138.2.115.240:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Chuncheon%20%7C%20138.2.115.240%3A443%203
+trojan://bpb-trojan@138.2.122.191:443?sni=skwygx.top&type=ws&host=skwygx.top&allowInsecure=1#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Chuncheon%20%7C%20138.2.122.191%3A443
+trojan://bpb-trojan@138.2.122.191:443?sni=skwygx.top&type=ws&host=skwygx.top#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Chuncheon%20%7C%20138.2.122.191%3A443%202
+trojan://Aimer@138.2.226.225:32322?sni=epccf.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Jose%20%7C%20138.2.226.225%3A32322
+trojan://Aimer@138.2.226.225:32322?sni=epccy.ambercc.filegear-sg.me&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Jose%20%7C%20138.2.226.225%3A32322%202
+trojan://ttfang@138.2.32.76:15821?sni=ttfang.fange.me#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Osaka%20%7C%20138.2.32.76%3A15821
