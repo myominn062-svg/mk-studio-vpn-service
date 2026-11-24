@@ -1,7 +1,7 @@
 # ss
 
 Chunk size: **1000** configs per file.
-Total chunks: **18** · Total configs: **17308**
+Total chunks: **18** · Total configs: **17073**
 
 Use these when a single large list is too heavy for your client.
 
@@ -24,5 +24,5 @@ Use these when a single large list is too heavy for your client.
 | `MK-Studio-Protocol-Chunks-ss-015.txt` | 1000 |
 | `MK-Studio-Protocol-Chunks-ss-016.txt` | 1000 |
 | `MK-Studio-Protocol-Chunks-ss-017.txt` | 1000 |
-| `MK-Studio-Protocol-Chunks-ss-018.txt` | 308 |
+| `MK-Studio-Protocol-Chunks-ss-018.txt` | 73 |
 
