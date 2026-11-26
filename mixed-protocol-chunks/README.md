@@ -1,7 +1,7 @@
 # mixed-protocol-chunks
 
 Chunk size: **1000** configs per file.
-Total chunks: **32** · Total configs: **31896**
+Total chunks: **33** · Total configs: **32522**
 
 Use these when a single large list is too heavy for your client.
 
@@ -38,5 +38,6 @@ Use these when a single large list is too heavy for your client.
 | `MK-Studio-Mixed-Config-029.txt` | 1000 |
 | `MK-Studio-Mixed-Config-030.txt` | 1000 |
 | `MK-Studio-Mixed-Config-031.txt` | 1000 |
-| `MK-Studio-Mixed-Config-032.txt` | 896 |
+| `MK-Studio-Mixed-Config-032.txt` | 1000 |
+| `MK-Studio-Mixed-Config-033.txt` | 522 |
 
